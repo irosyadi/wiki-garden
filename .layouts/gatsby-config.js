@@ -7,7 +7,7 @@ const siteMetadata = {
     "Another Obsidian template that use gatsby-theme-primer-wiki, Welcome to your new Obsidian Knowledge Base!",
   twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-obsidian.owenyoung.com",
+  siteUrl: "https://irosyadi-wiki.netlify.app",
 };
 module.exports = {
   siteMetadata,
