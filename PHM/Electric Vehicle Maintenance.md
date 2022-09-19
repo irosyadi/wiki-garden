@@ -1,7 +1,7 @@
 ---
 title: "Electric Vehicle Maintenance"
 date: 2022-08-31 07:01:21
-tags: ['tag1', 'tag']
+tags: ['electric-vehicle']
 ---
 
 All-electric vehicles typically require less maintenance than conventional vehicles because:

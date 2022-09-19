@@ -1,7 +1,7 @@
 ---
 title: "BLDC for Aircraft and Drone"
 date: 2022-08-31 07:50:05
-tags: ['tag1', 'tag']
+tags: ['bldc']
 ---
 
 ### Heavy Lift Drone Motors

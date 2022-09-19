@@ -1,7 +1,7 @@
 ---
 title: "Fault in Electric Motor"
 date: 2022-08-31 09:35:09
-tags: ['tag1', 'tag']
+tags: ['fault', 'motor']
 ---
 
 [The 50 Failure Modes of Electric Motors – UE Systems](https://www.uesystems.com/the-50-failure-modes-of-electric-motors/)

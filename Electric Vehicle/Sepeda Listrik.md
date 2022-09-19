@@ -1,7 +1,7 @@
 ---
 title: "Sepeda Listrik"
 date: 2022-08-24 08:12:42
-tags: ['tag1', 'tag']
+tags: ['sepeda-listrik']
 ---
 
 Selis at Bandung

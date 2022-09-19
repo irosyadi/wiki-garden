@@ -1,7 +1,7 @@
 ---
 title: "Challenge of Electric Vehicle"
 date: 2022-08-31 07:47:30
-tags: ['tag1', 'tag']
+tags: ['electric-vehicle']
 ---
 
 - Range

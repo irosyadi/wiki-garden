@@ -1,43 +1,51 @@
-Hi there! I'm a note in your vault.
+<p align="center">
+  <img src="https://source.unsplash.com/200x200/?cat" />
+</p>
 
-At the same time, I'm also just a Markdown file sitting on your hard disk. It's all in plain text, so you don't need to worry about losing me in case [[Obsidian]] disappears one day.
+![](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B;I'm+Imron)
+  
+## Imron Rosyadi
+- 🔭 I’m currently working on [Universitas Jenderal Soedirman - Unsoed](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
+- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Control System, PV System
 
-## Quick Start
+### Contact me:
+- 📫 Mail: irosyadi@duck.com
 
-If you're in a hurry, here's some quick places to dive in:
+### Knowledge Base
+- 📗 https://irosyadi-web.netlify.app
+- 📘 https://irosyadi.github.io
+- 📙 https://irosyadi.gitbook.io
+- 📕 https://irosyadi.netlify.app
+- 🌏 https://rosyadi.com
+- 📃 https://irosyadi.mataroa.blog
+- 📃 https://irosyadi.bearblog.dev
+- 📃 https://irosyadi-garden.netlify.app
 
-- The [[Command palette]] contains most of the commands you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing.
-- How to [[Create notes|create new notes]].
-- How to create [[Internal link|internal links]]
-- How to use Markdown to [[Format your notes]]
-- How to [[embed files]], or embed other notes
-- [[Keyboard shortcuts]]
-- How to [[Working with multiple notes|open multiple files side by side]]
-- Obsidian can be extended with [[List of plugins|plugins]]. Several are available by default, and can be enabled or disabled according to your needs.
+### Social Media
+[![Twitter: irosyadi](https://img.shields.io/twitter/follow/irosyadi?style=social)](https://twitter.com/irosyadi)
+[![Linkedin: irosyadi](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irosyadi/)](https://www.linkedin.com/in/irosyadi/)
+[![GitHub: irosyadi](https://img.shields.io/github/followers/irosyadi?label=follow&style=social)](https://github.com/irosyadi)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=irosyadi" alt="irosyadi" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=irosyadi" alt="visitor badge"/>
+</p>
 
+### Blogpost
+<!-- BLOG-POST-LIST:START -->
 
-If you want a more thorough introduction, including a bit about our philosophy, check out [[Obsidian]].
+<!-- BLOG-POST-LIST:END -->
 
-And if you'd like a gentle introduction, or just want to get started but don't know how, head over to [[Basic note taking]].
+## Github Statistics
+  
+![Github Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
-If you are a [Catalyst supporter](https://obsidian.md/pricing), and want to turn on Insider Builds, see [[Insider builds]].
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irosyadi" />
+</p>
 
-## Workflows
-
-Obsidian is a tool that can be used in many ways, from a simple list of notes to a very powerful knowledge management system. We suggest you start at your own pace, and build it into the tool you need.
-
-Here are a few ways to get started:
-
-If you want to just start taking notes, check out [[Basic note taking]]
-
-If you already have a collection of notes in markdown format, just choose them for your Vault. Choose "Vault" in the lower left and select the directory your notes are in.
-
-If you have notes from Roam Research, Notion, or other systems, [[Import data|here's how to import them]].
-
-If you'd like to know more about Obsidian, you can [[Obsidian|read about our story]].
-
-By the way, you can feel free to edit these help docs, but when you open it again, they will be overwritten. So, don't put anything in them you want to keep.
-
-## I have questions.
-
-Then you should join our [community!](https://obsidian.md/community). We have active Discord and Forums, and the community is generally quite helpful.
+<p align="center">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi&layout=compact" />
+</p>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=irosyadi&theme=minimal)

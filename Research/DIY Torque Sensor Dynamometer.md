@@ -1,7 +1,7 @@
 ---
 title: "DIY Torque Sensor Dynamometer"
 date: 2022-08-31 11:06:32
-tags: ['tag1', 'tag']
+tags: ['sensor', 'torque']
 ---
 
 * [How to Choose FPV Drone Motors - Oscar Liang](https://oscarliang.com/quadcopter-motor-propeller/#:~:text=There%20are%20two%20types%20of,micro%20drones%20and%20toy%20drones.)

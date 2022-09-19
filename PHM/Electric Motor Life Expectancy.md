@@ -1,7 +1,7 @@
 ---
 title: "Electric Motor Life Expectancy"
 date: 2022-08-31 07:37:41
-tags: ['tag1', 'tag']
+tags: ['motor']
 ---
 
 The lifespan of an electric motor can last anywhere between 15 to 20 years, provided it is used within specified values and normal operating conditions. Well under test conditions the lifespan of an electric motor can last anywhere between 15 to 20 years, provided it is used within specified values and normal operating conditions. In terms of miles tests have concluded that they can go upto a 400000+ mile range in their lifetime. Claims have been made that the PMSRM Unit drive in Tesla have passed the 1million mile test.
