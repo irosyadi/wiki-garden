@@ -1,11 +1,11 @@
 const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
-  title: "Obsidian Template for Gatsby Theme Primer Wiki",
-  shortName: "Wiki",
+  title: "irosyadi-wiki",
+  shortName: "wiki",
   description:
-    "Another Obsidian template that use gatsby-theme-primer-wiki, Welcome to your new Obsidian Knowledge Base!",
-  twitterName: "theowenyoung",
+    "My Obsidian-based wiki",
+  twitterName: "irosyadi",
   imageUrl: "/graph-visualisation.jpg",
   siteUrl: "https://irosyadi-wiki.netlify.app",
 };
