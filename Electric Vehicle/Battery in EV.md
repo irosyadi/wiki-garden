@@ -9,3 +9,4 @@ Content
 Reference:
 - [Electric Car Batteries and Characteristics](https://www.omazaki.co.id/en/electric-car-batteries-and-their-characteristics/)
 
+
