@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "qiEnablingTechnologiesTools2021",
-      "path": "Zotero/qiEnablingTechnologiesTools2021.md"
+      "basename": "summary",
+      "path": "summary.md"
     },
     {
-      "basename": "niuDataDrivenTechnologyEngineering2017",
-      "path": "Zotero/niuDataDrivenTechnologyEngineering2017.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "leiIntelligentFaultDiagnosis2017",
-      "path": "Zotero/leiIntelligentFaultDiagnosis2017.md"
+      "basename": "Experiment Notes",
+      "path": "Experiment Notes/Experiment Notes.md"
+    },
+    {
+      "basename": "Signal processing in the time-frequency domain",
+      "path": "Signal Processing/Signal processing in the time-frequency domain.md"
+    },
+    {
+      "basename": "Signal processing",
+      "path": "Signal Processing/Signal processing.md"
+    },
+    {
+      "basename": "Signal processing in the time domain",
+      "path": "Signal Processing/Signal processing in the time domain.md"
+    },
+    {
+      "basename": "Sensor in EV",
+      "path": "Electric Vehicle/Sensor in EV.md"
+    },
+    {
+      "basename": "Sepeda Listrik",
+      "path": "Electric Vehicle/Sepeda Listrik.md"
     },
     {
       "basename": "kudelinaMainFaultsDiagnostic2020",
@@ -25,6 +45,50 @@
       "path": "Zotero/huDigitalTwinStateoftheart2021.md"
     },
     {
+      "basename": "niuDataDrivenTechnologyEngineering2017",
+      "path": "Zotero/niuDataDrivenTechnologyEngineering2017.md"
+    },
+    {
+      "basename": "leiIntelligentFaultDiagnosis2017",
+      "path": "Zotero/leiIntelligentFaultDiagnosis2017.md"
+    },
+    {
+      "basename": "qiEnablingTechnologiesTools2021",
+      "path": "Zotero/qiEnablingTechnologiesTools2021.md"
+    },
+    {
+      "basename": "Battery in EV",
+      "path": "Electric Vehicle/Battery in EV.md"
+    },
+    {
+      "basename": "Digital Garden Templates",
+      "path": "Templates/Digital Garden Templates.md"
+    },
+    {
+      "basename": "Signal processing in the frequency domain",
+      "path": "Signal Processing/Signal processing in the frequency domain.md"
+    },
+    {
+      "basename": "DIY Torque Sensor Dynamometer",
+      "path": "Research/DIY Torque Sensor Dynamometer.md"
+    },
+    {
+      "basename": "Tanvir's BLDC PHM Research",
+      "path": "Paper Review/Tanvir's BLDC PHM Research.md"
+    },
+    {
+      "basename": "Challenge of PHM in Motor",
+      "path": "PHM/Challenge of PHM in Motor.md"
+    },
+    {
+      "basename": "Hardware Setup",
+      "path": "Research/Hardware Setup.md"
+    },
+    {
+      "basename": "Thesis Structure",
+      "path": "Research/Thesis Structure.md"
+    },
+    {
       "basename": "Zotero Templates",
       "path": "Templates/Zotero Templates.md"
     },
@@ -33,32 +97,12 @@
       "path": "Templates/Zotero Templates Old.md"
     },
     {
-      "basename": "Signal processing",
-      "path": "Signal Processing/Signal processing.md"
-    },
-    {
-      "basename": "Signal processing in the frequency domain",
-      "path": "Signal Processing/Signal processing in the frequency domain.md"
-    },
-    {
-      "basename": "Signal processing in the time domain",
-      "path": "Signal Processing/Signal processing in the time domain.md"
-    },
-    {
       "basename": "PHM Processes",
       "path": "PHM/PHM Processes.md"
     },
     {
       "basename": "Type of EV",
       "path": "Electric Vehicle/Type of EV.md"
-    },
-    {
-      "basename": "Sepeda Listrik",
-      "path": "Electric Vehicle/Sepeda Listrik.md"
-    },
-    {
-      "basename": "Sensor in EV",
-      "path": "Electric Vehicle/Sensor in EV.md"
     },
     {
       "basename": "Motor Types in Electric Vehicles",

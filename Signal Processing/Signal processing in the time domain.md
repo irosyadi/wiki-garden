@@ -30,5 +30,5 @@ tags: ['signal']
     - Zero crossing
 
 
-## References: 
+## References
 - [leiIntelligentFaultDiagnosis2017](leiIntelligentFaultDiagnosis2017.md)

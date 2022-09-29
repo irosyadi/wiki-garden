@@ -20,6 +20,6 @@ tags: ['signal']
   - p1, mean frequency
   - p2 - p4
 
-## References:
+## References
 - [leiIntelligentFaultDiagnosis2017](leiIntelligentFaultDiagnosis2017.md)
 - [niuDataDrivenTechnologyEngineering2017](niuDataDrivenTechnologyEngineering2017.md)

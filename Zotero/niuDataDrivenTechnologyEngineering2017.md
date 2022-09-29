@@ -20,7 +20,7 @@ Niu, G. (2017). _Data-Driven Technology for Engineering Systems Health Managemen
 [**Publisher Link**](http://link.springer.com/10.1007/978-981-10-2032-2)  
 
 #### Local PDF Link
-[Niu_2017_Data-Driven_Technology_for_Engineering_Systems_Health_Management.pdf](file:///C:/Users/User/Zotero/storage/57B7FJFR/Niu_2017_Data-Driven_Technology_for_Engineering_Systems_Health_Management.pdf)  
+[Niu_2017_Data-Driven_Technology_for_Engineering_Systems_Health_Management.pdf](file:///C:/Users/User/Zotero/storage/K6VKNJ9F/Niu_2017_Data-Driven_Technology_for_Engineering_Systems_Health_Management.pdf)  
 
 #### Local Zotero Link
 [**Open in Zotero Desktop**](zotero://select/library/items/AQ6U3GGX)  
@@ -34,4 +34,4 @@ Niu, G. (2017). _Data-Driven Technology for Engineering Systems Health Managemen
 #### Annotations
 
 
-%% Import Date: 2022-09-29T20:23:40.115+07:00 %%
+%% Import Date: 2022-09-30T03:44:11.419+07:00 %%

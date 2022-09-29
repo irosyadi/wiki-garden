@@ -14,7 +14,7 @@ tags: ['signal']
     - Correlation analysis
   - [[Signal processing in the frequency domain]]
     - Fourier Transform
-  - Signal processing in the time-frequency domain
+  - [[Signal processing in the time-frequency domain]]
     - STFT
     - WVD
     - HHT
@@ -27,5 +27,5 @@ tags: ['signal']
 Images:
 ![](https://i.imgur.com/UylONmU.png)
 
-## References: 
+## References 
 - [leiIntelligentFaultDiagnosis2017](leiIntelligentFaultDiagnosis2017.md)

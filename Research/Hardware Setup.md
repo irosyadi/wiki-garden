@@ -60,9 +60,3 @@ tags: ['thermal', 'camera']
 
 ### BLDC Motor 
 
-
-
-
-References:
-
-- [ ] Buy components @2022-08-27
