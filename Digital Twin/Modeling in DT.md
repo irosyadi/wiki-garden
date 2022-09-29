@@ -4,7 +4,7 @@ date: 2022-07-28 14:53
 tags: ['modeling', 'digital-twin']
 ---
 
-List modeling in Digital Twin according to [Qi. 2021. *Enabling technologies and tools for digital twin*](zotero://select/items/1_B689L444):
+List modeling in Digital Twin according to [qiEnablingTechnologiesTools2021](qiEnablingTechnologiesTools2021.md):
 
 - Geometric model: describes a physical entity in terms of its geometric shapes, embodiment, and appearance. The geometric model includes geometric information as well as topological information. Geometric modeling includes wireframe modeling, surface modeling, and solid modeling.
 - [[Physical Modeling in DT|Physical Modeling]]: describes accuracy information, material information, and assembly information. Feature modeling includes interactive feature definition, automatic feature recognition, and feature-based design.

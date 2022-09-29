@@ -5,27 +5,33 @@ year: 2020
 ---
 
 ### Main faults and diagnostic possibilities of BLDC Motors  
-**Bibliography**
->  
->Kudelina, K., Asad, B., Vaimann, T., Rassõlkin, A., Kallaste, A., & Lukichev, D. V. (2020). _Main faults and diagnostic possibilities of BLDC Motors_. 1–6. [https://doi.org/10.1109/IWED48848.2020.9069553](https://doi.org/10.1109/IWED48848.2020.9069553)  
->  
 
-**Links**
->[**Open in Zotero Web**](http://zotero.org/users/242940/items/XNHXF5PY)   
->[**Open in Zotero Desktop**](zotero://select/library/items/XNHXF5PY)  
+#### Type: conferencePaper
 
->  
-> **PDF Link:** [Kudelina et al_2020_Main faults and diagnostic possibilities of BLDC Motors.pdf](file:///C:\Users\Imron%20Rosyadi\Zotero\storage\EGDLGJGY\Kudelina%20et%20al_2020_Main%20faults%20and%20diagnostic%20possibilities%20of%20BLDC%20Motors.pdf)
->📄    
+#### Bibliography
+  
+Kudelina, K., Asad, B., Vaimann, T., Rassõlkin, A., Kallaste, A., & Lukichev, D. V. (2020). _Main faults and diagnostic possibilities of BLDC Motors_. 1–6. [https://doi.org/10.1109/IWED48848.2020.9069553](https://doi.org/10.1109/IWED48848.2020.9069553)  
+  
 
----
-**Notes**
+#### Zotero Web Link
+[**Zotero Web**](http://zotero.org/users/242940/items/XNHXF5PY)  
+
+#### Publisher Link
+[**Publisher Link**]()  
+
+#### Local PDF Link
+[Kudelina_2020_Main_faults_and_diagnostic_possibilities_of_BLDC_Motors.pdf](file:///C:/Users/User/Zotero/storage/EGDLGJGY/Kudelina_2020_Main_faults_and_diagnostic_possibilities_of_BLDC_Motors.pdf)  
+
+#### Local Zotero Link
+[**Open in Zotero Desktop**](zotero://select/library/items/XNHXF5PY)  
+
+#### Abstract
 
 
-
----
-**Annotations**
+#### Notes
 
 
+#### Annotations
 
-%% Import Date: 2022-08-04T04:16:27.520+07:00 %%
+
+%% Import Date: 2022-09-29T20:22:41.306+07:00 %%
