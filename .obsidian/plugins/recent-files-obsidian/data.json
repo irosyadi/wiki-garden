@@ -1,40 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "summary",
-      "path": "summary.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Experiment Notes",
-      "path": "Experiment Notes/Experiment Notes.md"
-    },
-    {
-      "basename": "Signal processing in the time-frequency domain",
-      "path": "Signal Processing/Signal processing in the time-frequency domain.md"
-    },
-    {
       "basename": "Signal processing",
       "path": "Signal Processing/Signal processing.md"
     },
     {
-      "basename": "Signal processing in the time domain",
-      "path": "Signal Processing/Signal processing in the time domain.md"
-    },
-    {
-      "basename": "Sensor in EV",
-      "path": "Electric Vehicle/Sensor in EV.md"
-    },
-    {
-      "basename": "Sepeda Listrik",
-      "path": "Electric Vehicle/Sepeda Listrik.md"
-    },
-    {
-      "basename": "kudelinaMainFaultsDiagnostic2020",
-      "path": "Zotero/kudelinaMainFaultsDiagnostic2020.md"
+      "basename": "qiEnablingTechnologiesTools2021",
+      "path": "Zotero/qiEnablingTechnologiesTools2021.md"
     },
     {
       "basename": "kaplanFaultDiagnosisDesign2021",
@@ -45,6 +17,58 @@
       "path": "Zotero/huDigitalTwinStateoftheart2021.md"
     },
     {
+      "basename": "kudelinaMainFaultsDiagnostic2020",
+      "path": "Zotero/kudelinaMainFaultsDiagnostic2020.md"
+    },
+    {
+      "basename": "DIY Torque Sensor Dynamometer",
+      "path": "Research/DIY Torque Sensor Dynamometer.md"
+    },
+    {
+      "basename": "Signal processing in the frequency domain",
+      "path": "Signal Processing/Signal processing in the frequency domain.md"
+    },
+    {
+      "basename": "Digital Garden Templates",
+      "path": "Templates/Digital Garden Templates.md"
+    },
+    {
+      "basename": "Zotero Templates",
+      "path": "Templates/Zotero Templates.md"
+    },
+    {
+      "basename": "Signal processing in the time-frequency domain",
+      "path": "Signal Processing/Signal processing in the time-frequency domain.md"
+    },
+    {
+      "basename": "Signal processing in the time domain",
+      "path": "Signal Processing/Signal processing in the time domain.md"
+    },
+    {
+      "basename": "summary",
+      "path": "summary.md"
+    },
+    {
+      "basename": "Digital Twin",
+      "path": "Digital Twin/Digital Twin.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Experiment Notes",
+      "path": "Experiment Notes/Experiment Notes.md"
+    },
+    {
+      "basename": "Sensor in EV",
+      "path": "Electric Vehicle/Sensor in EV.md"
+    },
+    {
+      "basename": "Sepeda Listrik",
+      "path": "Electric Vehicle/Sepeda Listrik.md"
+    },
+    {
       "basename": "niuDataDrivenTechnologyEngineering2017",
       "path": "Zotero/niuDataDrivenTechnologyEngineering2017.md"
     },
@@ -53,24 +77,8 @@
       "path": "Zotero/leiIntelligentFaultDiagnosis2017.md"
     },
     {
-      "basename": "qiEnablingTechnologiesTools2021",
-      "path": "Zotero/qiEnablingTechnologiesTools2021.md"
-    },
-    {
       "basename": "Battery in EV",
       "path": "Electric Vehicle/Battery in EV.md"
-    },
-    {
-      "basename": "Digital Garden Templates",
-      "path": "Templates/Digital Garden Templates.md"
-    },
-    {
-      "basename": "Signal processing in the frequency domain",
-      "path": "Signal Processing/Signal processing in the frequency domain.md"
-    },
-    {
-      "basename": "DIY Torque Sensor Dynamometer",
-      "path": "Research/DIY Torque Sensor Dynamometer.md"
     },
     {
       "basename": "Tanvir's BLDC PHM Research",
@@ -87,14 +95,6 @@
     {
       "basename": "Thesis Structure",
       "path": "Research/Thesis Structure.md"
-    },
-    {
-      "basename": "Zotero Templates",
-      "path": "Templates/Zotero Templates.md"
-    },
-    {
-      "basename": "Zotero Templates Old",
-      "path": "Templates/Zotero Templates Old.md"
     },
     {
       "basename": "PHM Processes",

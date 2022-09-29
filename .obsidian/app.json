@@ -1,7 +1,7 @@
 {
   "useTab": false,
   "tabSize": 2,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "attachmentFolderPath": "Attachments",
   "promptDelete": false,
   "spellcheck": true

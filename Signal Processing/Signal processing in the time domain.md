@@ -31,4 +31,4 @@ tags: ['signal']
 
 
 ## References
-- [leiIntelligentFaultDiagnosis2017](leiIntelligentFaultDiagnosis2017.md)
+- [[leiIntelligentFaultDiagnosis2017]]

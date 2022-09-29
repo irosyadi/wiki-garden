@@ -21,5 +21,5 @@ tags: ['signal']
   - p2 - p4
 
 ## References
-- [leiIntelligentFaultDiagnosis2017](leiIntelligentFaultDiagnosis2017.md)
-- [niuDataDrivenTechnologyEngineering2017](niuDataDrivenTechnologyEngineering2017.md)
+- [[leiIntelligentFaultDiagnosis2017]]
+- [[niuDataDrivenTechnologyEngineering2017]]
