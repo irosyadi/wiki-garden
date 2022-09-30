@@ -29,11 +29,11 @@ module.exports = {
       options: {
         sidebarDepth: 2,
         icon: "./static/logo.png",
-        //sidebarComponents: ["latest", "tag"],
+        sidebarComponents: ["latest", "category", "summary", "tag"],
         contentMaxWidth: 1363,
         searchBody: true,
         defaultIndexLatestPostCount: 10,
-        sidebarDefault: "auto",
+        // sidebarDefault: "auto",
         // shouldSupportTags: true,
         defaultColorMode: "night",
         nav: [

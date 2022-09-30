@@ -2,10 +2,5 @@
 
 ## Digital Twin
 
-- [[Digital Twin]]
-- [[Digital Twin Layer]]
-
-
-## Electric Vehicle
-- [[Type of EV]]
-- [[Motor Types in Electric Vehicles]]
+- [Digital Twin](Digital Twin/Digital Twin.md)
+- [Digital Twin Layer](Digital Twin/Digital Twin Layer.md)
