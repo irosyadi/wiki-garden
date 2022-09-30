@@ -27,14 +27,23 @@ module.exports = {
     {
       resolve: "gatsby-theme-primer-wiki",
       options: {
+        sidebarDepth: 2,
+        icon: "./static/logo.png",
+        //sidebarComponents: ["latest", "tag"],
+        contentMaxWidth: 1363,
+        searchBody: true,
+        defaultIndexLatestPostCount: 10,
+        sidebarDefault: "auto",
+        // shouldSupportTags: true,
+        defaultColorMode: "night",
         nav: [
+          {
+            title: "Latest",
+            url: "/latest/",
+          },
           {
             title: "Github",
             url: "https://github.com/irosyadi/wiki-garden/",
-          },
-          {
-            title: "Twitter",
-            url: "https://twitter.com/irosyadi",
           },
         ],
         editUrl:

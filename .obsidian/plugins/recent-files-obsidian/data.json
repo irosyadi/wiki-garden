@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "summary",
+      "path": "summary.md"
+    },
+    {
+      "basename": "Application of DT",
+      "path": "Digital Twin/Application of DT.md"
+    },
+    {
+      "basename": "Tanvir's BLDC PHM Research",
+      "path": "Paper Review/Tanvir's BLDC PHM Research.md"
+    },
+    {
+      "basename": "huDigitalTwinStateoftheart2021",
+      "path": "Zotero/huDigitalTwinStateoftheart2021.md"
+    },
+    {
+      "basename": "Digital Garden Templates",
+      "path": "Templates/Digital Garden Templates.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Thesis Structure",
+      "path": "Research/Thesis Structure.md"
     },
     {
       "basename": "PHM Processes",
@@ -41,16 +65,8 @@
       "path": "Digital Twin/Benefit of DT in EV Industries.md"
     },
     {
-      "basename": "Application of DT",
-      "path": "Digital Twin/Application of DT.md"
-    },
-    {
       "basename": "Battery in EV",
       "path": "Electric Vehicle/Battery in EV.md"
-    },
-    {
-      "basename": "huDigitalTwinStateoftheart2021",
-      "path": "Zotero/huDigitalTwinStateoftheart2021.md"
     },
     {
       "basename": "Signal processing",
@@ -75,10 +91,6 @@
     {
       "basename": "Signal processing in the frequency domain",
       "path": "Signal Processing/Signal processing in the frequency domain.md"
-    },
-    {
-      "basename": "Digital Garden Templates",
-      "path": "Templates/Digital Garden Templates.md"
     },
     {
       "basename": "Zotero Templates",
@@ -117,20 +129,12 @@
       "path": "Zotero/leiIntelligentFaultDiagnosis2017.md"
     },
     {
-      "basename": "Tanvir's BLDC PHM Research",
-      "path": "Paper Review/Tanvir's BLDC PHM Research.md"
-    },
-    {
       "basename": "Challenge of PHM in Motor",
       "path": "PHM/Challenge of PHM in Motor.md"
     },
     {
       "basename": "Hardware Setup",
       "path": "Research/Hardware Setup.md"
-    },
-    {
-      "basename": "Thesis Structure",
-      "path": "Research/Thesis Structure.md"
     },
     {
       "basename": "Type of EV",
