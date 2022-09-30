@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "PHM Processes",
       "path": "PHM/PHM Processes.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "Digital Twin",
       "path": "Digital Twin/Digital Twin.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Experiment Notes",

@@ -2,7 +2,7 @@ const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
   title: "irosyadi-wiki",
-  shortName: "wiki",
+  shortName: "iwiki",
   description:
     "My Obsidian-based wiki",
   twitterName: "irosyadi",
