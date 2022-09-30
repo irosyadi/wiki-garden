@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "PHM Processes",
+      "path": "PHM/PHM Processes.md"
+    },
+    {
+      "basename": "PHM Health Management Strategies",
+      "path": "PHM/PHM Health Management Strategies.md"
+    },
+    {
+      "basename": "Data Source for DT",
+      "path": "Digital Twin/Data Source for DT.md"
+    },
+    {
+      "basename": "Data Processing in DT",
+      "path": "Digital Twin/Data Processing in DT.md"
+    },
+    {
+      "basename": "Data Management in DT",
+      "path": "Digital Twin/Data Management in DT.md"
+    },
+    {
+      "basename": "Data Fusion in DT",
+      "path": "Digital Twin/Data Fusion in DT.md"
+    },
+    {
+      "basename": "Communication in DT",
+      "path": "Digital Twin/Communication in DT.md"
+    },
+    {
+      "basename": "Benefit of DT in Industry",
+      "path": "Digital Twin/Benefit of DT in Industry.md"
+    },
+    {
+      "basename": "Benefit of DT in EV Industries",
+      "path": "Digital Twin/Benefit of DT in EV Industries.md"
+    },
+    {
+      "basename": "Application of DT",
+      "path": "Digital Twin/Application of DT.md"
+    },
+    {
+      "basename": "Battery in EV",
+      "path": "Electric Vehicle/Battery in EV.md"
+    },
+    {
+      "basename": "huDigitalTwinStateoftheart2021",
+      "path": "Zotero/huDigitalTwinStateoftheart2021.md"
+    },
+    {
       "basename": "Signal processing",
       "path": "Signal Processing/Signal processing.md"
     },
@@ -11,10 +59,6 @@
     {
       "basename": "kaplanFaultDiagnosisDesign2021",
       "path": "Zotero/kaplanFaultDiagnosisDesign2021.md"
-    },
-    {
-      "basename": "huDigitalTwinStateoftheart2021",
-      "path": "Zotero/huDigitalTwinStateoftheart2021.md"
     },
     {
       "basename": "kudelinaMainFaultsDiagnostic2020",
@@ -45,10 +89,6 @@
       "path": "Signal Processing/Signal processing in the time domain.md"
     },
     {
-      "basename": "summary",
-      "path": "summary.md"
-    },
-    {
       "basename": "Digital Twin",
       "path": "Digital Twin/Digital Twin.md"
     },
@@ -77,10 +117,6 @@
       "path": "Zotero/leiIntelligentFaultDiagnosis2017.md"
     },
     {
-      "basename": "Battery in EV",
-      "path": "Electric Vehicle/Battery in EV.md"
-    },
-    {
       "basename": "Tanvir's BLDC PHM Research",
       "path": "Paper Review/Tanvir's BLDC PHM Research.md"
     },
@@ -95,10 +131,6 @@
     {
       "basename": "Thesis Structure",
       "path": "Research/Thesis Structure.md"
-    },
-    {
-      "basename": "PHM Processes",
-      "path": "PHM/PHM Processes.md"
     },
     {
       "basename": "Type of EV",

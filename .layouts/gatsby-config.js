@@ -30,15 +30,15 @@ module.exports = {
         nav: [
           {
             title: "Github",
-            url: "https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/",
+            url: "https://github.com/irosyadi/wiki-garden/",
           },
           {
             title: "Twitter",
-            url: "https://twitter.com/theowenyoung",
+            url: "https://twitter.com/irosyadi",
           },
         ],
         editUrl:
-          "https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/tree/main/",
+          "https://github.com/irosyadi/wiki-garden/main/",
       },
     },
     {

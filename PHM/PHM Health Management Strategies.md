@@ -10,4 +10,4 @@ The health management strategies of rotating machinery experienced the following
 - Predictive maintenance (condition based)
 
 Reference:
-[leiIntelligentFaultDiagnosis2017](leiIntelligentFaultDiagnosis2017.md)
+[[leiIntelligentFaultDiagnosis2017]]

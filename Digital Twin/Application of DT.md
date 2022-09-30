@@ -16,6 +16,3 @@ Some examples of typical applications for digital twins include:
 
 Reference:
 - [What is Digital Twin Technology and How It Benefits Manufacturing in the Industry 4.0 Era? - SL Controls](https://slcontrols.com/en/what-is-digital-twin-technology-and-how-can-it-benefit-manufacturing/)
-
-
-https://zws.im/󠁭󠁶󠁷󠁺󠁲󠁤󠁦
