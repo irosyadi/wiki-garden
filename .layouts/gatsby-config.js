@@ -27,14 +27,16 @@ module.exports = {
     {
       resolve: "gatsby-theme-primer-wiki",
       options: {
-        sidebarDepth: 2,
         icon: "./static/logo.png",
-        sidebarComponents: ["latest", "category", "summary", "tag"],
+        sidebarDepth: 2,
+        sidebarComponents: ["category", "tag"],
         contentMaxWidth: 1363,
+        imageMaxWidth: 561,
         searchBody: true,
-        defaultIndexLatestPostCount: 10,
-        // sidebarDefault: "auto",
-        // shouldSupportTags: true,
+        shouldShowTagGroupsOnIndex: false,
+        //defaultIndexLatestPostCount: 10,
+        //sidebarDefault: "auto",
+        //shouldSupportTags: true,
         defaultColorMode: "night",
         nav: [
           {

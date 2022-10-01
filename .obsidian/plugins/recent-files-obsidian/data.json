@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "summary",
-      "path": "summary.md"
+      "basename": "Digital Twin",
+      "path": "Digital Twin/Digital Twin.md"
+    },
+    {
+      "basename": "Digital Twin Layer",
+      "path": "Digital Twin/Digital Twin Layer.md"
     },
     {
       "basename": "Application of DT",
@@ -103,10 +107,6 @@
     {
       "basename": "Signal processing in the time domain",
       "path": "Signal Processing/Signal processing in the time domain.md"
-    },
-    {
-      "basename": "Digital Twin",
-      "path": "Digital Twin/Digital Twin.md"
     },
     {
       "basename": "Experiment Notes",
