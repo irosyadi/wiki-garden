@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "experiment-note",
+      "path": "signal-processing/experiment-note.md"
+    },
+    {
+      "basename": "digital-twin",
+      "path": "digital-twin/digital-twin.md"
+    },
+    {
+      "basename": "signal-processing",
+      "path": "signal-processing/signal-processing.md"
+    },
+    {
       "basename": "keyword-motor-fault-detection-github",
       "path": "research/keyword-motor-fault-detection-github.md"
     },
@@ -65,16 +77,8 @@
       "path": "summary.md"
     },
     {
-      "basename": "digital-twin",
-      "path": "digital-twin/digital-twin.md"
-    },
-    {
       "basename": "BLDC-motor",
       "path": "BLDC/BLDC-motor.md"
-    },
-    {
-      "basename": "signal-processing",
-      "path": "signal-processing/signal-processing.md"
     },
     {
       "basename": "thesis-structure",
@@ -183,10 +187,6 @@
     {
       "basename": "DIY Torque Sensor Dynamometer",
       "path": "research/DIY Torque Sensor Dynamometer.md"
-    },
-    {
-      "basename": "Experiment Notes",
-      "path": "Experiment Notes/Experiment Notes.md"
     },
     {
       "basename": "Sensor in EV",
