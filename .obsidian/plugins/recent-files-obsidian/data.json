@@ -5,12 +5,24 @@
       "path": "signal-processing/experiment-note.md"
     },
     {
-      "basename": "digital-twin",
-      "path": "digital-twin/digital-twin.md"
-    },
-    {
       "basename": "signal-processing",
       "path": "signal-processing/signal-processing.md"
+    },
+    {
+      "basename": "signal-processing-frequency",
+      "path": "signal-processing/signal-processing-frequency.md"
+    },
+    {
+      "basename": "signal-processing-time",
+      "path": "signal-processing/signal-processing-time.md"
+    },
+    {
+      "basename": "signal-processing-time-frequency",
+      "path": "signal-processing/signal-processing-time-frequency.md"
+    },
+    {
+      "basename": "digital-twin",
+      "path": "digital-twin/digital-twin.md"
     },
     {
       "basename": "keyword-motor-fault-detection-github",
@@ -95,18 +107,6 @@
     {
       "basename": "Hardware Setup",
       "path": "research/Hardware Setup.md"
-    },
-    {
-      "basename": "signal-processing-time-frequency domain",
-      "path": "signal-processing/signal-processing-time-frequency domain.md"
-    },
-    {
-      "basename": "signal-processing-time-domain",
-      "path": "signal-processing/signal-processing-time-domain.md"
-    },
-    {
-      "basename": "signal-processing-frequency-domain",
-      "path": "signal-processing/signal-processing-frequency-domain.md"
     },
     {
       "basename": "BLDC in EV system",

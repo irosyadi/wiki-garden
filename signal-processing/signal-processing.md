@@ -11,11 +11,11 @@ tags: ['signal']
   - Trend removal
   - Signal filtering
 - Signal processing
-  - [Signal Processing in the Time Domain](signal-processing-time-domain.md)
+  - [Signal Processing in the Time Domain](signal-processing-time.md)
     - Correlation analysis
-  - [Signal Processing in the Frequency Domain](signal-processing-frequency-domain.md)
+  - [Signal Processing in the Frequency Domain](signal-processing-frequency.md)
     - Fourier Transform
-  - [Signal Processing in the Time-Frequency Domain](signal-processing-time-frequency%20domain.md)
+  - [Signal Processing in the Time-Frequency Domain](signal-processing-time-frequency.md)
     - STFT
     - WVD
     - HHT
