@@ -1,4 +1,5 @@
 ---
+aliases: [Digital Twin]
 title: "Digital Twin"
 date: 2022-07-28 16:11
 tags: ['digital-twin']

@@ -2,10 +2,10 @@
 aliases: [alias]
 title: "Fault in BLDC Motor"
 date: 2022-08-04 03:46:42
-tags: ['bldc', 'fault-diagnostic']
+tags: ['BLDC', 'fault-diagnostic']
 ---
 
-Fault in [[BLDC]] 
+Fault in [[../BLDC/BLDC-motor]] 
 
 Faults in BLDC categories:
 - mechanical faults (bearings and eccentricity), 

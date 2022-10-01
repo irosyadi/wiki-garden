@@ -1,5 +1,6 @@
 ---
-title: "PHM Healt Management Strategies"
+aliases: [PHM Health Management Strategies] 
+title: "PHM Health Management Strategies"
 date: 2022-07-28 19:40
 tags: ['PHM']
 ---

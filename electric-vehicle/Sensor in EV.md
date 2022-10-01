@@ -7,4 +7,4 @@ tags: ['sensor', 'electric-vehicle']
 Reference:
 [📺 Sensors for Electric Vehicles: Glimpse Into the Critical Role of Sensors in the Electric Powertrain](https://www.youtube.com/watch?v=UxXz_ZClqZY)
 
-[[Fault in BLDC Motor]]
+[[../PHM/Fault in BLDC Motor]]

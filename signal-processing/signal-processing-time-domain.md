@@ -32,4 +32,4 @@ tags: ['signal']
 
 
 ## References
-- [[leiIntelligentFaultDiagnosis2017]]
+- [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)

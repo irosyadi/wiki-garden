@@ -2,6 +2,7 @@
 citekey: kudelinaMainFaultsDiagnostic2020  
 title: "Main faults and diagnostic possibilities of BLDC Motors"
 year: 2020
+tags: ['conferencePaper']
 ---
 
 ### Main faults and diagnostic possibilities of BLDC Motors  
@@ -34,4 +35,4 @@ Kudelina, K., Asad, B., Vaimann, T., Rassõlkin, A., Kallaste, A., & Lukichev, D
 #### Annotations
 
 
-%% Import Date: 2022-09-29T20:22:41.306+07:00 %%
+%% Import Date: 2022-10-01T23:35:01.530+07:00 %%

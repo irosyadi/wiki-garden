@@ -1,4 +1,5 @@
 ---
+aliases: [Thesis Structure]
 title: "Thesis Structure"
 date: 2022-09-27 19:42
 tags: ['thesis']
@@ -30,8 +31,8 @@ tags: ['thesis']
 # 3. PHM in Electric Motor: State of the Art
 ## 3.1. Introduction
 ## 3.1. PHM
-- [[PHM Health Management Strategies]]
-- [[PHM Processes]]
+- [PHM Health Management Strategies](../PHM/PHM-health-management-strategies.md)
+- [PHM Processes](../PHM/PHM-processes.md)
 
 ## 3.2. Fault in Electric Motor
 ## 3.3. PHM in Electric Motor

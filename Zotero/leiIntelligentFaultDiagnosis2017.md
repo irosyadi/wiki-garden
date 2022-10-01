@@ -1,16 +1,17 @@
 ---
 citekey: leiIntelligentFaultDiagnosis2017  
-title: "Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery - 1st Edition"
+title: "Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery"
 year: 2017
+tags: ['book']
 ---
 
-### Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery - 1st Edition  
+### Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery  
 
 #### Type: book
 
 #### Bibliography
   
-Lei, Y. (2017). _Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery—1st Edition_. Elsevier. [https://www.elsevier.com/books/intelligent-fault-diagnosis-and-remaining-useful-life-prediction-of-rotating-machinery/lei/978-0-12-811534-3](https://www.elsevier.com/books/intelligent-fault-diagnosis-and-remaining-useful-life-prediction-of-rotating-machinery/lei/978-0-12-811534-3)  
+Lei, Y. (2017). _Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery_. Elsevier. [https://www.elsevier.com/books/intelligent-fault-diagnosis-and-remaining-useful-life-prediction-of-rotating-machinery/lei/978-0-12-811534-3](https://www.elsevier.com/books/intelligent-fault-diagnosis-and-remaining-useful-life-prediction-of-rotating-machinery/lei/978-0-12-811534-3)  
   
 
 #### Zotero Web Link
@@ -34,4 +35,4 @@ Lei, Y. (2017). _Intelligent Fault Diagnosis and Remaining Useful Life Predictio
 #### Annotations
 
 
-%% Import Date: 2022-09-29T20:23:16.599+07:00 %%
+%% Import Date: 2022-10-01T23:30:45.080+07:00 %%

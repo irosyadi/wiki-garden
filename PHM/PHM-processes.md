@@ -1,4 +1,5 @@
 ---
+aliases: [PHM Processes] 
 title: "PHM Processes"
 date: 2022-09-28 07:48
 tags: ['PHM']

@@ -6,7 +6,7 @@ tags: ['motor', 'electric-vehicle']
 
 Motor types used in electric vehicle:
 - DC Motor 
-- Brushless DC ([[BLDC]]) Motor 
+- Brushless DC ([[../BLDC/BLDC-motor]]) Motor 
 - Switched Reluctance Motor ([[SRM]])
 - Permanent Magnet Synchronous Motor ([[PMSM]])
 - Three Phase AC Induction Motor ([[IM]])

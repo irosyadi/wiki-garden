@@ -1,5 +1,6 @@
 ---
-title: "Tanvir's BLDC PHM Research Review"
+aliases: [BLDC PHM Researches by Tanvir] 
+title: "BLDC PHM Researches by Tanvir"
 date: 2022-08-05 10:16:50
 tags: ['paper', 'review']
 ---

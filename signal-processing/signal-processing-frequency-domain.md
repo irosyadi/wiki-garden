@@ -22,7 +22,5 @@ tags: ['signal']
   - p2 - p4
 
 ## References
-- [[leiIntelligentFaultDiagnosis2017]]
-- [[niuDataDrivenTechnologyEngineering2017]]
-- [[../zotero/leiIntelligentFaultDiagnosis2017]]
+- [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)
 - [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)

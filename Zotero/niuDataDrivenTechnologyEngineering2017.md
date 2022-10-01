@@ -2,6 +2,7 @@
 citekey: niuDataDrivenTechnologyEngineering2017  
 title: "Data-Driven Technology for Engineering Systems Health Management"
 year: 2017
+tags: ['book']
 ---
 
 ### Data-Driven Technology for Engineering Systems Health Management  
@@ -34,4 +35,4 @@ Niu, G. (2017). _Data-Driven Technology for Engineering Systems Health Managemen
 #### Annotations
 
 
-%% Import Date: 2022-09-30T03:44:11.419+07:00 %%
+%% Import Date: 2022-10-01T23:02:53.661+07:00 %%

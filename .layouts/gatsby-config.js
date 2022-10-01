@@ -29,7 +29,7 @@ module.exports = {
       options: {
         icon: "./static/logo.png",
         sidebarDepth: 2,
-        sidebarComponents: ["tag", "category", "summary"],
+        sidebarComponents: ["summary", "tag", "category"],
         //sidebarDefault: "auto",
         contentMaxWidth: 1300,
         imageMaxWidth: 400,
@@ -44,6 +44,8 @@ module.exports = {
         //latestUpdatedText: "Recently Updated",
         //tagText: "Tags",
         //categoryText: "Categories",
+        summaryDepth: 2,
+        summary1DepthIndent: true,
         defaultColorMode: "auto",
         nav: [
           {
