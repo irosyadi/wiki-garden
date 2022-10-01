@@ -6,7 +6,7 @@ tags: ['PHM']
 
 PHM is generally composed of five major processes:
 - Data acquisition
-- [[Signal processing]]
+- [[signal-processing]]
 - Diagnostics
 - Prognostics
 - Maintenance Decision

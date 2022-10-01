@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "signal-processing-frequency-domain",
+      "path": "signal-processing/signal-processing-frequency-domain.md"
+    },
+    {
+      "basename": "signal-processing-time-domain",
+      "path": "signal-processing/signal-processing-time-domain.md"
+    },
+    {
+      "basename": "signal-processing-time-frequency domain",
+      "path": "signal-processing/signal-processing-time-frequency domain.md"
+    },
+    {
+      "basename": "leiIntelligentFaultDiagnosis2017",
+      "path": "zotero/leiIntelligentFaultDiagnosis2017.md"
+    },
+    {
+      "basename": "signal-processing",
+      "path": "signal-processing/signal-processing.md"
+    },
+    {
+      "basename": "Digital Garden Templates",
+      "path": "Templates/Digital Garden Templates.md"
+    },
+    {
+      "basename": "Application of DT",
+      "path": "digital-twin/Application of DT.md"
+    },
+    {
       "basename": "summary",
       "path": "summary.md"
+    },
+    {
+      "basename": "Zotero Templates",
+      "path": "Templates/Zotero Templates.md"
     },
     {
       "basename": "README",
@@ -10,107 +42,79 @@
     },
     {
       "basename": "Digital Twin",
-      "path": "Digital Twin/Digital Twin.md"
+      "path": "digital-twin/Digital Twin.md"
     },
     {
       "basename": "Digital Twin Layer",
-      "path": "Digital Twin/Digital Twin Layer.md"
-    },
-    {
-      "basename": "Application of DT",
-      "path": "Digital Twin/Application of DT.md"
+      "path": "digital-twin/Digital Twin Layer.md"
     },
     {
       "basename": "Tanvir's BLDC PHM Research",
-      "path": "Paper Review/Tanvir's BLDC PHM Research.md"
+      "path": "paper/Tanvir's BLDC PHM Research.md"
     },
     {
       "basename": "huDigitalTwinStateoftheart2021",
-      "path": "Zotero/huDigitalTwinStateoftheart2021.md"
-    },
-    {
-      "basename": "Digital Garden Templates",
-      "path": "Templates/Digital Garden Templates.md"
+      "path": "zotero/huDigitalTwinStateoftheart2021.md"
     },
     {
       "basename": "Thesis Structure",
-      "path": "Research/Thesis Structure.md"
+      "path": "research/Thesis Structure.md"
     },
     {
       "basename": "PHM Processes",
-      "path": "PHM/PHM Processes.md"
+      "path": "phm/PHM Processes.md"
     },
     {
       "basename": "PHM Health Management Strategies",
-      "path": "PHM/PHM Health Management Strategies.md"
+      "path": "phm/PHM Health Management Strategies.md"
     },
     {
       "basename": "Data Source for DT",
-      "path": "Digital Twin/Data Source for DT.md"
+      "path": "digital-twin/Data Source for DT.md"
     },
     {
       "basename": "Data Processing in DT",
-      "path": "Digital Twin/Data Processing in DT.md"
+      "path": "digital-twin/Data Processing in DT.md"
     },
     {
       "basename": "Data Management in DT",
-      "path": "Digital Twin/Data Management in DT.md"
+      "path": "digital-twin/Data Management in DT.md"
     },
     {
       "basename": "Data Fusion in DT",
-      "path": "Digital Twin/Data Fusion in DT.md"
+      "path": "digital-twin/Data Fusion in DT.md"
     },
     {
       "basename": "Communication in DT",
-      "path": "Digital Twin/Communication in DT.md"
+      "path": "digital-twin/Communication in DT.md"
     },
     {
       "basename": "Benefit of DT in Industry",
-      "path": "Digital Twin/Benefit of DT in Industry.md"
+      "path": "digital-twin/Benefit of DT in Industry.md"
     },
     {
       "basename": "Benefit of DT in EV Industries",
-      "path": "Digital Twin/Benefit of DT in EV Industries.md"
+      "path": "digital-twin/Benefit of DT in EV Industries.md"
     },
     {
       "basename": "Battery in EV",
-      "path": "Electric Vehicle/Battery in EV.md"
-    },
-    {
-      "basename": "Signal processing",
-      "path": "Signal Processing/Signal processing.md"
+      "path": "electric-vehicle/Battery in EV.md"
     },
     {
       "basename": "qiEnablingTechnologiesTools2021",
-      "path": "Zotero/qiEnablingTechnologiesTools2021.md"
+      "path": "zotero/qiEnablingTechnologiesTools2021.md"
     },
     {
       "basename": "kaplanFaultDiagnosisDesign2021",
-      "path": "Zotero/kaplanFaultDiagnosisDesign2021.md"
+      "path": "zotero/kaplanFaultDiagnosisDesign2021.md"
     },
     {
       "basename": "kudelinaMainFaultsDiagnostic2020",
-      "path": "Zotero/kudelinaMainFaultsDiagnostic2020.md"
+      "path": "zotero/kudelinaMainFaultsDiagnostic2020.md"
     },
     {
       "basename": "DIY Torque Sensor Dynamometer",
-      "path": "Research/DIY Torque Sensor Dynamometer.md"
-    },
-    {
-      "basename": "Signal processing in the frequency domain",
-      "path": "Signal Processing/Signal processing in the frequency domain.md"
-    },
-    {
-      "basename": "Zotero Templates",
-      "path": "Templates/Zotero Templates.md"
-    },
-    {
-      "basename": "Signal processing in the time-frequency domain",
-      "path": "Signal Processing/Signal processing in the time-frequency domain.md"
-    },
-    {
-      "basename": "Signal processing in the time domain",
-      "path": "Signal Processing/Signal processing in the time domain.md"
+      "path": "research/DIY Torque Sensor Dynamometer.md"
     },
     {
       "basename": "Experiment Notes",
@@ -118,39 +122,35 @@
     },
     {
       "basename": "Sensor in EV",
-      "path": "Electric Vehicle/Sensor in EV.md"
+      "path": "electric-vehicle/Sensor in EV.md"
     },
     {
       "basename": "Sepeda Listrik",
-      "path": "Electric Vehicle/Sepeda Listrik.md"
+      "path": "electric-vehicle/Sepeda Listrik.md"
     },
     {
       "basename": "niuDataDrivenTechnologyEngineering2017",
-      "path": "Zotero/niuDataDrivenTechnologyEngineering2017.md"
-    },
-    {
-      "basename": "leiIntelligentFaultDiagnosis2017",
-      "path": "Zotero/leiIntelligentFaultDiagnosis2017.md"
+      "path": "zotero/niuDataDrivenTechnologyEngineering2017.md"
     },
     {
       "basename": "Challenge of PHM in Motor",
-      "path": "PHM/Challenge of PHM in Motor.md"
+      "path": "phm/Challenge of PHM in Motor.md"
     },
     {
       "basename": "Hardware Setup",
-      "path": "Research/Hardware Setup.md"
+      "path": "research/Hardware Setup.md"
     },
     {
       "basename": "Type of EV",
-      "path": "Electric Vehicle/Type of EV.md"
+      "path": "electric-vehicle/Type of EV.md"
     },
     {
       "basename": "Motor Types in Electric Vehicles",
-      "path": "Electric Vehicle/Motor Types in Electric Vehicles.md"
+      "path": "electric-vehicle/Motor Types in Electric Vehicles.md"
     },
     {
       "basename": "Importance of Motor in EV",
-      "path": "Electric Vehicle/Importance of Motor in EV.md"
+      "path": "electric-vehicle/Importance of Motor in EV.md"
     }
   ],
   "omittedPaths": [],

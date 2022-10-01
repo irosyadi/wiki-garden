@@ -1,4 +1,5 @@
 ---
+aliases: [Signal Processing in the Frequency Domain]
 title: "Signal Processing in the Frequency Domain"
 date: 2022-09-28 08:23
 tags: ['signal']
@@ -23,3 +24,5 @@ tags: ['signal']
 ## References
 - [[leiIntelligentFaultDiagnosis2017]]
 - [[niuDataDrivenTechnologyEngineering2017]]
+- [[../zotero/leiIntelligentFaultDiagnosis2017]]
+- [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)

@@ -14,7 +14,7 @@
   "exportFormats": [
     {
       "name": "Zotero File",
-      "outputPathTemplate": "Zotero/{{citekey}}.md",
+      "outputPathTemplate": "zotero/{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "templatePath": "Templates/Zotero Templates.md",
