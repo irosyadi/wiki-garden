@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "summary",
+      "path": "summary.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Digital Twin",
       "path": "Digital Twin/Digital Twin.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Digital Garden Templates",
       "path": "Templates/Digital Garden Templates.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Thesis Structure",
