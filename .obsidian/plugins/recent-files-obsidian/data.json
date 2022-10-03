@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "source-of-fault",
+      "path": "BLDC/source-of-fault.md"
+    },
+    {
+      "basename": "electric-motor-fault-component",
+      "path": "BLDC/electric-motor-fault-component.md"
+    },
+    {
       "basename": "Electric Motor Life Expectancy",
       "path": "PHM/Electric Motor Life Expectancy.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "BLDC-motor",
       "path": "BLDC/BLDC-motor.md"
-    },
-    {
-      "basename": "electric-motor-fault-component",
-      "path": "BLDC/electric-motor-fault-component.md"
     },
     {
       "basename": "electric-motor-fault-cause",
@@ -195,10 +199,6 @@
     {
       "basename": "HMI Visualization",
       "path": "digital-twin/HMI Visualization.md"
-    },
-    {
-      "basename": "Fault in BLDC Motor",
-      "path": "PHM/Fault in BLDC Motor.md"
     }
   ],
   "omittedPaths": [],
