@@ -17,3 +17,10 @@ tags: ['fault']
 - Unknown. 1 in 10 failures are mysterious. Either no one bothered to determine why the failure occurred, so Bonnett and Yung didn’t have any data to work with, or the investigation failed to determine a cause.
 - Rotor 5%. Starts (too many, not enough of a break between them or extended start times), sudden action or outburst,  are the culprit in some rotor failures. Other failures are caused by vibration, physical damage and situations that causes excessive heat.
 - Shaft or coupling 2%. Shaft failure is the least common cause of motor failure. Physical damage, corrosion, improper installation and excessive loads are often the root cause.
+
+
+| Test | A | B | C | D |
+|------|---|---|---|---|
+| 1    | 2 | 3 | 4 | 5 |
+| 1    | 2 | 3 | 4 | 5 |
+| 1    | 2 | 3 | 4 | 5 |
