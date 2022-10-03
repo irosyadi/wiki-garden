@@ -10,8 +10,11 @@ tags: ['book', 'review', 'PHM', 'signal', 'electric-machine']
 1 Parametric signal processing approach
 1.1 Fault effects on intrinsic parameters of electromechanical systems
 1.1.1 Main failures and occurrence frequency
+[Electric Motor Fault Causes](../BLDC/electric-motor-fault-cause.md)
 1.1.2 Origins and consequences
+[Electric Motor Fault Causes](../BLDC/electric-motor-fault-cause.md)
 1.1.3 Condition-based maintenance
+[Fault Detection Frameworks](../PHM/fault-detection-framework.md)
 1.1.4 Motor current signature analysis
 1.2 Fault features extraction techniques
 1.2.1 Introduction

@@ -29,8 +29,23 @@ tags: ['book', 'review', 'PHM']
 3.1 Introduction
 3.2 PHM Technical Approaches
 3.3 Data-Driven PHM/CBM System Architecture
+
+The open system architecture for condition-based maintenance organization (OSA-CBM) has specified an open standard proposal on how a CBM system should be designed technically.
+- Layer 1 Sensor module 
+- Layer 2 Signal processing
+- Layer 3 Condition monitor
+- Layer 4 Health assessment
+- Layer 5 Prognosis
+- Layer 6 Decision support
+- Layer 7 Presentation
+
+![](https://i.imgur.com/0fxiOLp.png)
+
+
 3.4 Role of Condition Monitoring, Fault Diagnosis, and Prognosis 
 3.5 Fault Diagnosis Framework  
+[Fault Detection Frameworks](../PHM/fault-detection-framework.md)
+
 3.6 Problems During Implementation
 3.7 Related Techniques
 4 Data Acquisition and Preprocessing

@@ -1,8 +1,11 @@
 ---
+aliases: [Motor Types in Electric Vehicles] 
 title: "Motor Types in Electric Vehicles"
 date: 2022-07-22 20:15
 tags: ['motor', 'electric-vehicle']
 ---
+
+# Motor Types in Electric Vehicles
 
 Motor types used in electric vehicle:
 - DC Motor 
