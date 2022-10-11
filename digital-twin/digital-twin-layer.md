@@ -1,5 +1,5 @@
 ---
-aliases: [alias]
+aliases: [Digital Twin Layer]
 title: "Digital Twin Layer"
 date: 2022-08-08 10:26:42
 tags: ['digital-twin']

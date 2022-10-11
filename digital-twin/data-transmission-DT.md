@@ -1,5 +1,5 @@
 ---
-aliases: [Data Transmission]
+aliases: [Data Transmission in Digital Twin]
 title: "Data Transmission in Digital Twin" 
 date: 2022-07-28 16:08
 tags: ['data', 'digital-twin']

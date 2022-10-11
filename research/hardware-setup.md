@@ -63,10 +63,37 @@ tags: ['hardware']
 
 ### BLDC Motor 
 - JGB37-3650 Brushless DC Motor High Torque 88RPM 24V
-  - [code-1](https://wiki.dfrobot.com/FIT0441_Brushless_DC_Motor_with_Encoder_12V_159RPM)
-  - [code-2](https://www.electroniclinic.com/arduino-dc-motor-speed-control-with-encoder-arduino-dc-motor-encoder/)
+  - [code-1](https://wiki.dfrobot.com/FIT0441_Brushless_DC_Motor_with_Encoder_12V_159RPM
   - [code-3](https://www.botnroll.com/en/dc-motor/3483-brushless-dc-motor-with-encoder-12v-159rpm.html)
 - BLDC motor for drone
 - BLDC motor for spindle ()
 - BLDC motor for electric bike
 
+
+Bought
+- ACCELEROMETER ADXL 345 (error), ADXL by Grove (oke)
+- [Grove - Piezo Vibration Sensor](https://wiki.seeedstudio.com/Grove-Piezo_Vibration_Sensor/) (PZT film sensor LDT0-028)
+- [GY-25 MPU-6050 3-Axis Gyroscope Accelerometer](https://abudawud.wordpress.com/2018/06/01/mengenal-sensor-imu-gy25/)
+  - [code-1](https://forum.arduino.cc/t/run-gy-25-in-arduino-ide-with-kalman-filter/565016)
+  - [code-2](http://www.arduino.web.id/2019/03/membaca-data-imu-gy-25-dengan-arduino.html)
+  - [code-3](https://abudawud.wordpress.com/2018/06/01/mengakses-data-sensor-gy25-dengan-arduino/)
+  - [code4](https://abudawud.wordpress.com/2018/06/02/mengambil-heading-dari-sensor-imu-gy25-dengan-arduino/)
+- Sensor Arus ACS712 20A
+- GY-273 HMC5883L MODULE SENSOR MAGNETOMETER
+
+
+Code:
+- BLDC Motor Speed: BLDC3650_speedonly.ino
+- Current: ACS72.ino
+- Voltage: ReadAnalogVoltage.ino
+- Magnetic: HMC5833L.ino
+- Accelerometer: ADXL_Adafruit.ino, ADXL_demo_code.ino, ADXL.ino
+
+
+![](https://i.imgur.com/UuSy4hM.png)
+
+
+## Vibration Sensor Consideration
+- [Choosing The Right Sensor for Vibration Analysis | by Amir Khademi | Medium](https://khademi.medium.com/choosing-the-right-sensor-for-vibration-analysis-95c751a8ccc8)
+- [Choosing Vibration Sensors for Rotating Equipment | Dynapar](https://www.dynapar.com/technology/vibration-sensors/)
+- [Vibration Sensors (2022 Buyer's Guide)](https://www.electromaker.io/blog/article/vibration-sensors-2022-buyers-guide)

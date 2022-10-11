@@ -1,6 +1,134 @@
 {
   "recentFiles": [
     {
+      "basename": "Application of DT",
+      "path": "digital-twin/Application of DT.md"
+    },
+    {
+      "basename": "Communication in DT",
+      "path": "digital-twin/Communication in DT.md"
+    },
+    {
+      "basename": "Data Visualization in DT",
+      "path": "digital-twin/Data Visualization in DT.md"
+    },
+    {
+      "basename": "Digital Twin Company in Indodnesia",
+      "path": "digital-twin/Digital Twin Company in Indodnesia.md"
+    },
+    {
+      "basename": "Modeling in DT",
+      "path": "digital-twin/Modeling in DT.md"
+    },
+    {
+      "basename": "implementation-level-DT",
+      "path": "digital-twin/implementation-level-DT.md"
+    },
+    {
+      "basename": "HMI Visualization",
+      "path": "digital-twin/HMI Visualization.md"
+    },
+    {
+      "basename": "Free DT Tools for Academia",
+      "path": "digital-twin/Free DT Tools for Academia.md"
+    },
+    {
+      "basename": "five-dimensions-DT",
+      "path": "digital-twin/five-dimensions-DT.md"
+    },
+    {
+      "basename": "DT for users",
+      "path": "digital-twin/DT for users.md"
+    },
+    {
+      "basename": "DT for manufacturer",
+      "path": "digital-twin/DT for manufacturer.md"
+    },
+    {
+      "basename": "Data Source for DT",
+      "path": "digital-twin/Data Source for DT.md"
+    },
+    {
+      "basename": "Digital Twin News",
+      "path": "digital-twin/Digital Twin News.md"
+    },
+    {
+      "basename": "digital-twin-layer",
+      "path": "digital-twin/digital-twin-layer.md"
+    },
+    {
+      "basename": "data-fusion-DT",
+      "path": "digital-twin/data-fusion-DT.md"
+    },
+    {
+      "basename": "data-management-DT",
+      "path": "digital-twin/data-management-DT.md"
+    },
+    {
+      "basename": "data-storage-DT",
+      "path": "digital-twin/data-storage-DT.md"
+    },
+    {
+      "basename": "data-transmission-DT",
+      "path": "digital-twin/data-transmission-DT.md"
+    },
+    {
+      "basename": "Data Processing in DT",
+      "path": "digital-twin/Data Processing in DT.md"
+    },
+    {
+      "basename": "Benefit of DT in Industry",
+      "path": "digital-twin/Benefit of DT in Industry.md"
+    },
+    {
+      "basename": "Benefit of DT in EV Industries",
+      "path": "digital-twin/Benefit of DT in EV Industries.md"
+    },
+    {
+      "basename": "BLDC for Aircraft and Drone",
+      "path": "BLDC/BLDC for Aircraft and Drone.md"
+    },
+    {
+      "basename": "BLDC in EV system",
+      "path": "BLDC/BLDC in EV system.md"
+    },
+    {
+      "basename": "BLDC-motor",
+      "path": "BLDC/BLDC-motor.md"
+    },
+    {
+      "basename": "hardware-setup",
+      "path": "research/hardware-setup.md"
+    },
+    {
+      "basename": "keyword-remaining-useful-life-github",
+      "path": "research/keyword-remaining-useful-life-github.md"
+    },
+    {
+      "basename": "thesis-structure",
+      "path": "research/thesis-structure.md"
+    },
+    {
+      "basename": "experiment-note",
+      "path": "Experiment Notes/experiment-note.md"
+    },
+    {
+      "basename": "digital-twin",
+      "path": "digital-twin/digital-twin.md"
+    },
+    {
+      "basename": "signal-processing-frequency",
+      "path": "signal-processing/signal-processing-frequency.md"
+    },
+    {
+      "basename": "amg8833-arduino",
+      "path": "research/amg8833-arduino.md"
+    },
+    {
+      "basename": "DIY Torque Sensor Dynamometer",
+      "path": "research/DIY Torque Sensor Dynamometer.md"
+    },
+    {
       "basename": "source-of-fault",
       "path": "BLDC/source-of-fault.md"
     },
@@ -15,10 +143,6 @@
     {
       "basename": "Challenge of PHM in Motor",
       "path": "PHM/Challenge of PHM in Motor.md"
-    },
-    {
-      "basename": "BLDC for Aircraft and Drone",
-      "path": "BLDC/BLDC for Aircraft and Drone.md"
     },
     {
       "basename": "Challenge of Electric Vehicle",
@@ -41,32 +165,8 @@
       "path": "electric-vehicle/Motor Types in Electric Vehicles.md"
     },
     {
-      "basename": "Benefit of DT in Industry",
-      "path": "digital-twin/Benefit of DT in Industry.md"
-    },
-    {
-      "basename": "Benefit of DT in EV Industries",
-      "path": "digital-twin/Benefit of DT in EV Industries.md"
-    },
-    {
-      "basename": "Application of DT",
-      "path": "digital-twin/Application of DT.md"
-    },
-    {
       "basename": "Electric Vehicle Maintenance",
       "path": "PHM/Electric Vehicle Maintenance.md"
-    },
-    {
-      "basename": "DIY Torque Sensor Dynamometer",
-      "path": "research/DIY Torque Sensor Dynamometer.md"
-    },
-    {
-      "basename": "thesis-structure",
-      "path": "research/thesis-structure.md"
-    },
-    {
-      "basename": "hardware-setup",
-      "path": "research/hardware-setup.md"
     },
     {
       "basename": "cardosoDiagnosisFaultTolerance2018",
@@ -75,14 +175,6 @@
     {
       "basename": "book-Cardoso",
       "path": "paper-book-review/book-Cardoso.md"
-    },
-    {
-      "basename": "BLDC in EV system",
-      "path": "BLDC/BLDC in EV system.md"
-    },
-    {
-      "basename": "BLDC-motor",
-      "path": "BLDC/BLDC-motor.md"
     },
     {
       "basename": "electric-motor-fault-cause",
@@ -107,98 +199,6 @@
     {
       "basename": "kudelinaMainFaultsDiagnostic2020",
       "path": "zotero/kudelinaMainFaultsDiagnostic2020.md"
-    },
-    {
-      "basename": "fault-detection-framework",
-      "path": "PHM/fault-detection-framework.md"
-    },
-    {
-      "basename": "niuDataDrivenTechnologyEngineering2017",
-      "path": "zotero/niuDataDrivenTechnologyEngineering2017.md"
-    },
-    {
-      "basename": "benbouzidSignalProcessingFault2020",
-      "path": "zotero/benbouzidSignalProcessingFault2020.md"
-    },
-    {
-      "basename": "PHM-health-management-strategies",
-      "path": "PHM/PHM-health-management-strategies.md"
-    },
-    {
-      "basename": "PHM-processes",
-      "path": "PHM/PHM-processes.md"
-    },
-    {
-      "basename": "prognosis-health-management",
-      "path": "PHM/prognosis-health-management.md"
-    },
-    {
-      "basename": "signal-processing-time-frequency",
-      "path": "signal-processing/signal-processing-time-frequency.md"
-    },
-    {
-      "basename": "signal-processing-time",
-      "path": "signal-processing/signal-processing-time.md"
-    },
-    {
-      "basename": "signal-processing-frequency",
-      "path": "signal-processing/signal-processing-frequency.md"
-    },
-    {
-      "basename": "signal-processing",
-      "path": "signal-processing/signal-processing.md"
-    },
-    {
-      "basename": "experiment-note",
-      "path": "Experiment Notes/experiment-note.md"
-    },
-    {
-      "basename": "Motor Fault Dataset",
-      "path": "PHM/Motor Fault Dataset.md"
-    },
-    {
-      "basename": "digital-twin",
-      "path": "digital-twin/digital-twin.md"
-    },
-    {
-      "basename": "keyword-motor-fault-detection-github",
-      "path": "research/keyword-motor-fault-detection-github.md"
-    },
-    {
-      "basename": "keyword-remaining-useful-life-github",
-      "path": "research/keyword-remaining-useful-life-github.md"
-    },
-    {
-      "basename": "research-Yazid",
-      "path": "paper-book-review/research-Yazid.md"
-    },
-    {
-      "basename": "research-Tanvir",
-      "path": "paper-book-review/research-Tanvir.md"
-    },
-    {
-      "basename": "qiEnablingTechnologiesTools2021",
-      "path": "zotero/qiEnablingTechnologiesTools2021.md"
-    },
-    {
-      "basename": "kaplanFaultDiagnosisDesign2021",
-      "path": "zotero/kaplanFaultDiagnosisDesign2021.md"
-    },
-    {
-      "basename": "huDigitalTwinStateoftheart2021",
-      "path": "zotero/huDigitalTwinStateoftheart2021.md"
-    },
-    {
-      "basename": "summary",
-      "path": "summary.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "HMI Visualization",
-      "path": "digital-twin/HMI Visualization.md"
     }
   ],
   "omittedPaths": [],

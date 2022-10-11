@@ -1,4 +1,5 @@
 ---
+aliases: [Implementation Level of Digital Twin] 
 title: "Implementation Level of Digital Twin"
 date: 2022-07-25 13:40
 tags: ['digital-twin']

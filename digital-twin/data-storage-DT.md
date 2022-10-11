@@ -1,5 +1,5 @@
 ---
-aliases: [Data Storage]
+aliases: [Data Storage in Digital Twin]
 title: "Data Storage in Digital Twin" 
 date: 2022-07-28 17:28
 tags: ['data', 'digital-twin']

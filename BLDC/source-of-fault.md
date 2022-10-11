@@ -19,8 +19,45 @@ tags: ['fault']
 - Shaft or coupling 2%. Shaft failure is the least common cause of motor failure. Physical damage, corrosion, improper installation and excessive loads are often the root cause.
 
 
-| Test | A | B | C | D |
-|------|---|---|---|---|
-| 1    | 2 | 3 | 4 | 5 |
-| 1    | 2 | 3 | 4 | 5 |
-| 1    | 2 | 3 | 4 | 5 |
+
+### Problem
+-  Transient voltage (“surges” or “spikes”)
+  - Possible causes: Power factor correction capacitor banks; Adjacent loads turning on and off; Electrical storms; Power quality issues
+  - Effect on motor: Degrades windings; Arcing; “Micro-jogging” from motor timing interruptions
+  - Signs to look for: There may be no physical damage to motor; Excess heat ; Vibration; Noise
+- Voltage imbalance
+  - Possible causes: Power quality issues; Faulty circuits; High resistance connections
+  - Effect on motor: Stress on each phase circuit; Insulation breakdown; Core losses
+  - Signs to look for: Excessive heat; Vibration; Noise; Increased operating costs
+ -  Current imbalance
+   - Problems with leads, fuses, connections; Caused by either power supply or motor itself
+   - Core losses; Torque pulsations
+   - Excess heat; Vibration
+  - Vibration
+    - Missing balance weights; Uneven mass in motor windings; Unbalanced magnetic field; Uneven mounting (“soft foot”); Shaft looseness; Shaft imbalance; Misalignment; Insufficient load
+    - Bearing problems;  Insulation breakdown; Broken shaft; Broken feet; Rotor damage
+    - Vibration
+  - High operating temperature
+    - Inadequate motor cooling; Wrong voltage supply; Buildup of dirt or debris in motor fins; Poor power quality; Voltage imbalance; Improper connections; Wrong motor for application
+    - Reduces effectiveness of lubricants; Degrades windings
+    - Motor is hot to touch; Hot spots in motor windings
+  - Harmonic distortion
+    - Faulty power circuit; Power quality issues
+    - Reduces motor efficiency; Insulation deterioration
+    - Overheating; Vibration; Noise; Reduced torque; Bearing currents
+  - Motor overload
+    - Excessive current draw; Insufficient torque
+    - Damaged windings; Broken shaft; Damaged bearings
+    - Overheating; Reduced torque
+- Misalignment
+  - Ineffective flexible coupling; Misalignment between motor drive shaft and load; Pipe strain; Uneven air gap; Bent or bowed shaft; Out-of-round rotor
+  - Bearing problems; Excessive motor wear; Damage to shaft
+  - Vibration of shaft; Vibration of load; High housing temperature close to bearings; High oil discharge temperature; Unusual oil leakage at bearing seals
+- Moisture
+  - Storing motor in a location without adequate climate control; Not using a totally enclosed fan cooled motor in a damp environment; Not positioning weep holes so water can drain from motor; Not keeping the temperature of the motor warmer than ambient air temperature
+  - Corrosion of motor shaft, bearings and rotor; Insulation failure
+  - Rust; Overheating
+- Bearing current/shaft current
+  - Leakage current from the armature windings (DC motors); Non-symmetrical magnetic fields; Induced voltage from a VFD
+  - Bearing destruction
+  - Noise; Overheating; Frosting of polished metal surfaces; Premature grease darkening

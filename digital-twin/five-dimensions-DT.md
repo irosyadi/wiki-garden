@@ -1,4 +1,5 @@
 ---
+aliases: [Five Dimensions of Digital Twin] 
 title: "Five Dimensions of Digital Twin"
 date: 2022-07-24 11:43
 tags: ['digital-twin']

@@ -14,13 +14,13 @@ tags: ['digital-twin']
 [[Benefit of DT in Industry]]
 
 ## Five Dimension of Digital Twin
-[[Five Dimensions of DT]]
+[[five-dimensions-DT]]
 
 ## Implementation Level of Digital Twin 
-[[Implementation Level of DT]]
+[[implementation-level-DT]]
 
 ## Modeling in Digital Twin 
 [[Modeling in DT]]
 
 ## Data Management in Digital Twin 
-[[Data Management in DT]]
+[[data-management-DT]]
