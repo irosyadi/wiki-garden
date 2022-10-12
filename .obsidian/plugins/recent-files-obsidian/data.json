@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Application of DT",
-      "path": "digital-twin/Application of DT.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "summary",
+      "path": "summary.md"
     },
     {
       "basename": "Communication in DT",
       "path": "digital-twin/Communication in DT.md"
+    },
+    {
+      "basename": "Application of DT",
+      "path": "digital-twin/Application of DT.md"
     },
     {
       "basename": "Data Visualization in DT",
@@ -191,14 +199,6 @@
     {
       "basename": "book-Benbouzid",
       "path": "paper-book-review/book-Benbouzid.md"
-    },
-    {
-      "basename": "leiIntelligentFaultDiagnosis2017",
-      "path": "zotero/leiIntelligentFaultDiagnosis2017.md"
-    },
-    {
-      "basename": "kudelinaMainFaultsDiagnostic2020",
-      "path": "zotero/kudelinaMainFaultsDiagnostic2020.md"
     }
   ],
   "omittedPaths": [],
