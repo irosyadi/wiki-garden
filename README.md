@@ -12,14 +12,23 @@
 - 📫 Mail: irosyadi@duck.com
 
 ### Knowledge Base
-- 📗 https://irosyadi-web.netlify.app
+- 📕 https://irosyadi.netlify.app
 - 📘 https://irosyadi.github.io
 - 📙 https://irosyadi.gitbook.io
-- 📕 https://irosyadi.netlify.app
-- 🌏 https://rosyadi.com
+
+## Digital Garden
+- 📃 https://irosyadi-garden.netlify.app
+- 📃 https://irosyadi-wiki.netlify.app
+
+## Simple Blog
 - 📃 https://irosyadi.mataroa.blog
 - 📃 https://irosyadi.bearblog.dev
-- 📃 https://irosyadi-garden.netlify.app
+
+## Landing Page
+- 📗 https://irosyadi-web.netlify.app
+- 🌏 https://rosyadi.com
+
+## Github Profile
 
 ![Github Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 

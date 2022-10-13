@@ -5,6 +5,18 @@
       "path": "README.md"
     },
     {
+      "basename": "physics-simulaiton-engine",
+      "path": "visualization/physics-simulaiton-engine.md"
+    },
+    {
+      "basename": "experiment-note",
+      "path": "Experiment Notes/experiment-note.md"
+    },
+    {
+      "basename": "Zotero Templates Old",
+      "path": "Experiment Notes/Zotero Templates Old.md"
+    },
+    {
       "basename": "summary",
       "path": "summary.md"
     },
@@ -117,10 +129,6 @@
       "path": "research/thesis-structure.md"
     },
     {
-      "basename": "experiment-note",
-      "path": "Experiment Notes/experiment-note.md"
-    },
-    {
       "basename": "digital-twin",
       "path": "digital-twin/digital-twin.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "book-Lei",
       "path": "paper-book-review/book-Lei.md"
-    },
-    {
-      "basename": "book-Gangniu",
-      "path": "paper-book-review/book-Gangniu.md"
-    },
-    {
-      "basename": "book-Benbouzid",
-      "path": "paper-book-review/book-Benbouzid.md"
     }
   ],
   "omittedPaths": [],

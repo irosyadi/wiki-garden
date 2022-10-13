@@ -1,6 +1,7 @@
 ## Folder
-Templates/
-Experiment Notes/
+Templates/*
+Experiment Notes/*
+.obsidian/*
 
 # General
 .DS_Store
