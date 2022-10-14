@@ -2,6 +2,8 @@
 Templates/*
 Experiment Notes/*
 .obsidian/*
+.obsidian/
+.obsidian/plugins
 
 # General
 .DS_Store
