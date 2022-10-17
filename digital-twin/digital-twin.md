@@ -1,26 +1,34 @@
 ---
 aliases: [Digital Twin]
-title: "Digital Twin"
+title: digital-twin
 date: 2022-07-28 16:11
 tags: ['digital-twin']
 ---
 
+# digital-twin
+
 ## Definition of Digital Twin
 
 ## Application of Digital Twin
-[[Application of DT]]
+
+[[application-DT]]
 
 ## Benefit of Digital Twin
-[[Benefit of DT in Industry]]
+
+[[benefit-DT-industry]]
 
 ## Five Dimension of Digital Twin
+
 [[five-dimensions-DT]]
 
-## Implementation Level of Digital Twin 
+## Implementation Level of Digital Twin
+
 [[implementation-level-DT]]
 
-## Modeling in Digital Twin 
+## Modeling in Digital Twin
+
 [[DT-modeling]]
 
-## Data Management in Digital Twin 
+## Data Management in Digital Twin
+
 [[data-management-DT]]

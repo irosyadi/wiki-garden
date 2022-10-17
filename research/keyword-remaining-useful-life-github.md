@@ -1,11 +1,14 @@
 ---
 aliases: [Remaining Useful Life Research at Github]
-title: "Remaining Useful Life Research at Github"
+title: keyword-remaining-useful-life-github
 date: 2022-10-01 23:52
 tags: ['keyword', 'github', 'RUL']
 ---
 
+# keyword-remaining-useful-life-github
+
 ## Remaining Useful Life Research at Github
+
 - [hustcxl/Deep-learning-in-PHM: Deep learning in PHM，Deep learning in fault diagnosis，Deep learning in remaining useful life prediction](https://github.com/hustcxl/Deep-learning-in-PHM)
 - [Featuretools/predict-remaining-useful-life: Predict remaining useful life of a component based on historical sensor observations using automated feature engineering](https://github.com/Featuretools/predict-remaining-useful-life)
 - [aqibsaeed/Estimation-of-Remaining-Useful-Life-using-CNN: Convolutional Neural Network based regression approach for estimating machinery's remaining useful life](https://github.com/aqibsaeed/Estimation-of-Remaining-Useful-Life-using-CNN)

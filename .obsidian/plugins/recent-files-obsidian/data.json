@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "definition-abbreviation",
-      "path": "research/definition-abbreviation.md"
+      "basename": "wrightHowTellDifference2020",
+      "path": "zotero/wrightHowTellDifference2020.md"
     },
     {
-      "basename": "model-order-reduction",
-      "path": "model-order-reduction.md"
+      "basename": "Zotero Templates Old",
+      "path": "Experiment Notes/Zotero Templates Old.md"
     },
     {
-      "basename": "surrogate-model",
-      "path": "surrogate-model.md"
-    },
-    {
-      "basename": "reducing-computational-cost",
-      "path": "reducing-computational-cost.md"
-    },
-    {
-      "basename": "paper-Tao",
-      "path": "paper-book-review/paper-Tao.md"
-    },
-    {
-      "basename": "paper-Wright",
-      "path": "paper-book-review/paper-Wright.md"
-    },
-    {
-      "basename": "paper-Thelen",
-      "path": "paper-book-review/paper-Thelen.md"
-    },
-    {
-      "basename": "research-Yazid",
-      "path": "paper-book-review/research-Yazid.md"
-    },
-    {
-      "basename": "research-Tanvir",
-      "path": "paper-book-review/research-Tanvir.md"
-    },
-    {
-      "basename": "book-Lei",
-      "path": "paper-book-review/book-Lei.md"
-    },
-    {
-      "basename": "book-Gangniu",
-      "path": "paper-book-review/book-Gangniu.md"
-    },
-    {
-      "basename": "book-Cardoso",
-      "path": "paper-book-review/book-Cardoso.md"
-    },
-    {
-      "basename": "book-Benbouzid",
-      "path": "paper-book-review/book-Benbouzid.md"
-    },
-    {
-      "basename": "Benefit of DT in EV Industries",
-      "path": "digital-twin/Benefit of DT in EV Industries.md"
-    },
-    {
-      "basename": "trust-DT",
-      "path": "digital-twin/trust-DT.md"
-    },
-    {
-      "basename": "physics-simulation-engine",
-      "path": "visualization/physics-simulation-engine.md"
-    },
-    {
-      "basename": "DT-modeling",
-      "path": "digital-twin/DT-modeling.md"
-    },
-    {
-      "basename": "when-DT",
-      "path": "digital-twin/when-DT.md"
-    },
-    {
-      "basename": "data-reduction",
-      "path": "signal-processing/data-reduction.md"
-    },
-    {
-      "basename": "Physical Modeling in DT",
-      "path": "digital-twin/Physical Modeling in DT.md"
-    },
-    {
-      "basename": "SCADA and Digital Twin",
-      "path": "digital-twin/SCADA and Digital Twin.md"
-    },
-    {
-      "basename": "Application of DT",
-      "path": "digital-twin/Application of DT.md"
-    },
-    {
-      "basename": "qiEnablingTechnologiesTools2021",
-      "path": "zotero/qiEnablingTechnologiesTools2021.md"
-    },
-    {
-      "basename": "PHM-processes",
-      "path": "PHM/PHM-processes.md"
-    },
-    {
-      "basename": "PHM-health-management-strategies",
-      "path": "PHM/PHM-health-management-strategies.md"
-    },
-    {
-      "basename": "prognosis-health-management",
-      "path": "PHM/prognosis-health-management.md"
-    },
-    {
-      "basename": "flux-monitoring-motor-phm",
-      "path": "PHM/flux-monitoring-motor-phm.md"
-    },
-    {
-      "basename": "fault-detection-framework",
-      "path": "PHM/fault-detection-framework.md"
-    },
-    {
-      "basename": "Electric Vehicle Maintenance",
-      "path": "PHM/Electric Vehicle Maintenance.md"
-    },
-    {
-      "basename": "Electric Motor Life Expectancy",
-      "path": "PHM/Electric Motor Life Expectancy.md"
-    },
-    {
-      "basename": "challenge-motor-phm",
-      "path": "PHM/challenge-motor-phm.md"
-    },
-    {
-      "basename": "amg8833-arduino",
-      "path": "research/amg8833-arduino.md"
-    },
-    {
-      "basename": "thesis-structure",
-      "path": "research/thesis-structure.md"
-    },
-    {
-      "basename": "keyword-motor-fault-detection-github",
-      "path": "research/keyword-motor-fault-detection-github.md"
-    },
-    {
-      "basename": "signal-processing-time-frequency",
-      "path": "signal-processing/signal-processing-time-frequency.md"
-    },
-    {
-      "basename": "signal-processing-time",
-      "path": "signal-processing/signal-processing-time.md"
-    },
-    {
-      "basename": "signal-processing-frequency",
-      "path": "signal-processing/signal-processing-frequency.md"
+      "basename": "experiment-note",
+      "path": "Experiment Notes/experiment-note.md"
     },
     {
       "basename": "signal-processing",
       "path": "signal-processing/signal-processing.md"
     },
     {
-      "basename": "Zotero Templates",
-      "path": "Templates/Zotero Templates.md"
+      "basename": "data-reduction",
+      "path": "signal-processing/data-reduction.md"
     },
     {
-      "basename": "Digital Garden Templates",
-      "path": "Templates/Digital Garden Templates.md"
+      "basename": "torque-sensor",
+      "path": "research/torque-sensor.md"
     },
     {
-      "basename": "hardware-setup",
-      "path": "research/hardware-setup.md"
+      "basename": "motor-fault-dataset",
+      "path": "PHM/motor-fault-dataset.md"
     },
     {
-      "basename": "benbouzidSignalProcessingFault2020",
-      "path": "zotero/benbouzidSignalProcessingFault2020.md"
+      "basename": "PHM-in-motor",
+      "path": "PHM/PHM-in-motor.md"
+    },
+    {
+      "basename": "PHM-in-IM",
+      "path": "PHM/PHM-in-IM.md"
+    },
+    {
+      "basename": "PHM-in-BLDC-setup",
+      "path": "PHM/PHM-in-BLDC-setup.md"
+    },
+    {
+      "basename": "EV-maintenance",
+      "path": "PHM/EV-maintenance.md"
+    },
+    {
+      "basename": "motor-type-in-EV",
+      "path": "electric-vehicle/motor-type-in-EV.md"
+    },
+    {
+      "basename": "fault-in-BLDC-motor",
+      "path": "PHM/fault-in-BLDC-motor.md"
+    },
+    {
+      "basename": "EV-life-expectancy",
+      "path": "PHM/EV-life-expectancy.md"
+    },
+    {
+      "basename": "type-of-EV",
+      "path": "electric-vehicle/type-of-EV.md"
+    },
+    {
+      "basename": "sepeda-listrik",
+      "path": "electric-vehicle/sepeda-listrik.md"
+    },
+    {
+      "basename": "sensor-in-EV",
+      "path": "electric-vehicle/sensor-in-EV.md"
+    },
+    {
+      "basename": "motor-in-EV",
+      "path": "electric-vehicle/motor-in-EV.md"
+    },
+    {
+      "basename": "EV-component",
+      "path": "electric-vehicle/EV-component.md"
+    },
+    {
+      "basename": "challenge-EV",
+      "path": "electric-vehicle/challenge-EV.md"
+    },
+    {
+      "basename": "battery-EV",
+      "path": "electric-vehicle/battery-EV.md"
+    },
+    {
+      "basename": "DT-think-tank",
+      "path": "digital-twin/DT-think-tank.md"
+    },
+    {
+      "basename": "data-visualization-DT",
+      "path": "digital-twin/data-visualization-DT.md"
+    },
+    {
+      "basename": "HMI-visualization",
+      "path": "digital-twin/HMI-visualization.md"
+    },
+    {
+      "basename": "SCADA-DT",
+      "path": "digital-twin/SCADA-DT.md"
+    },
+    {
+      "basename": "DT-software",
+      "path": "digital-twin/DT-software.md"
+    },
+    {
+      "basename": "DT-physical-modeling",
+      "path": "digital-twin/DT-physical-modeling.md"
+    },
+    {
+      "basename": "DT-for-manufacturer",
+      "path": "digital-twin/DT-for-manufacturer.md"
+    },
+    {
+      "basename": "benefit-DT-industry",
+      "path": "digital-twin/benefit-DT-industry.md"
+    },
+    {
+      "basename": "DT-company-global",
+      "path": "digital-twin/DT-company-global.md"
+    },
+    {
+      "basename": "DT-platform",
+      "path": "digital-twin/DT-platform.md"
+    },
+    {
+      "basename": "data-storage-DT",
+      "path": "digital-twin/data-storage-DT.md"
+    },
+    {
+      "basename": "data-source-DT",
+      "path": "digital-twin/data-source-DT.md"
+    },
+    {
+      "basename": "DT-news",
+      "path": "digital-twin/DT-news.md"
+    },
+    {
+      "basename": "DT-company-Indonesia",
+      "path": "digital-twin/DT-company-Indonesia.md"
+    },
+    {
+      "basename": "data-transmission-DT",
+      "path": "digital-twin/data-transmission-DT.md"
+    },
+    {
+      "basename": "data-processing-DT",
+      "path": "digital-twin/data-processing-DT.md"
+    },
+    {
+      "basename": "communication-DT",
+      "path": "digital-twin/communication-DT.md"
+    },
+    {
+      "basename": "benefit-DT-EV-industry",
+      "path": "digital-twin/benefit-DT-EV-industry.md"
+    },
+    {
+      "basename": "application-DT",
+      "path": "digital-twin/application-DT.md"
+    },
+    {
+      "basename": "source-of-fault",
+      "path": "BLDC/source-of-fault.md"
+    },
+    {
+      "basename": "electric-motor-fault-component",
+      "path": "BLDC/electric-motor-fault-component.md"
+    },
+    {
+      "basename": "electric-motor-fault-cause",
+      "path": "BLDC/electric-motor-fault-cause.md"
+    },
+    {
+      "basename": "BLDC-motor",
+      "path": "BLDC/BLDC-motor.md"
+    },
+    {
+      "basename": "BLDC-EV-system",
+      "path": "BLDC/BLDC-EV-system.md"
+    },
+    {
+      "basename": "BLDC-aircraft-drone",
+      "path": "BLDC/BLDC-aircraft-drone.md"
     },
     {
       "basename": "I2C-address-conflict",
       "path": "arduino/I2C-address-conflict.md"
     },
     {
-      "basename": "implementation-level-DT",
-      "path": "digital-twin/implementation-level-DT.md"
+      "basename": "challenge-motor-phm",
+      "path": "PHM/challenge-motor-phm.md"
     },
     {
-      "basename": "HMI Visualization",
-      "path": "digital-twin/HMI Visualization.md"
+      "basename": "research-Tanvir",
+      "path": "paper-book-review/research-Tanvir.md"
     },
     {
-      "basename": "Free DT Tools for Academia",
-      "path": "digital-twin/Free DT Tools for Academia.md"
-    },
-    {
-      "basename": "five-dimensions-DT",
-      "path": "digital-twin/five-dimensions-DT.md"
-    },
-    {
-      "basename": "DT for users",
-      "path": "digital-twin/DT for users.md"
-    },
-    {
-      "basename": "DT for manufacturer",
-      "path": "digital-twin/DT for manufacturer.md"
-    },
-    {
-      "basename": "digital-twin-layer",
-      "path": "digital-twin/digital-twin-layer.md"
+      "basename": "paper-Wright",
+      "path": "paper-book-review/paper-Wright.md"
     }
   ],
   "omittedPaths": [],

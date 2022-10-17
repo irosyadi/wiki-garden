@@ -1,8 +1,8 @@
 ---
 aliases: [Signal Processing in the Time Domain]
+title: Signal Processing in the Time Domain
 date: 2022-09-28 08:19
 tags: ['signal']
-title: Signal Processing in the Time Domain
 ---
 
 # Signal Processing in the Time Domain

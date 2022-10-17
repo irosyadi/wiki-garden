@@ -1,8 +1,8 @@
 ---
 aliases: [Signal Processing in the Frequency Domain]
+title: Signal Processing in the Frequency Domain
 date: 2022-09-28 08:23
 tags: ['signal']
-title: Signal Processing in the Frequency Domain
 ---
 
 # Signal Processing in the Frequency Domain

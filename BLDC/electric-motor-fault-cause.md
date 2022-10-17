@@ -1,16 +1,20 @@
 ---
 aliases: [Electric Motor Fault Causes]
-title: "Electric Motor Fault Causes"
+title: electric-motor-fault-cause
 date: 2022-10-02 10:15
 tags: ['fault', 'electric-motor']
 ---
+
+# electric-motor-fault-cause
 
 ## Electric Motor Fault Causes
 
 ### [benbouzidSignalProcessingFault2020](../zotero/benbouzidSignalProcessingFault2020.md)
 
 ### Internal Causes
+
 #### Electrical
+
 - Stator faults
   - open-phase fault
   - short circuit fault
@@ -20,6 +24,7 @@ tags: ['fault', 'electric-motor']
   - in IM: bar damage, broken end ring
 
 #### Mechanical
+
 - Fraction/abrasion
 - Displacement of conductors
 - Bearing failures ⭢ eccentricity, vibration, internal stress, bearing current
@@ -30,31 +35,35 @@ tags: ['fault', 'electric-motor']
 ### External Causes
 
 #### Electrical
+
 - Transient
 - Voltage fluctuation
 - Voltage imbalance
 
 #### Mechanical
+
 - Pulsating torque
 - Improper installation
 - Overload
 - External magnetic field
 
 #### Environmental
+
 - Temperature
 - Fouling
 - Humidity
 - Air acidity
 - Dust
 
-
 ## Origins
-- electrical origins: 
+
+- electrical origins:
 - mechanical causes:
 - thermal stresses:
 - environmental reasons:
 
 ## Consequences
+
 - magnetic field distortion ⭢ sensed by magnetic sensor
 - overheating ⭢ sensed by temperature sensor
 - electric arcs
@@ -67,26 +76,29 @@ tags: ['fault', 'electric-motor']
 
 ![](https://i.imgur.com/RBm2iq0.png)
 
-
 ![](https://i.imgur.com/UyoJs6L.png)
+
  
+
 ![](https://i.imgur.com/VYqQyIP.png)
 
-#### [cardosoDiagnosisFaultTolerance2018](../zotero/cardosoDiagnosisFaultTolerance2018.md)
+### [cardosoDiagnosisFaultTolerance2018](../zotero/cardosoDiagnosisFaultTolerance2018.md)
 
 Faults:
-- stator related: short-/open-circuits, inter-turn short-circuits (a special case of short-circuits), supply imbalance, iron core related 
-- rotor related:  windings and iron related faults, broken/cracked rotor bars/end-rings for cage induction motors, permanent magnet cracks or demagnetization for permanent magnet motors and commutator/slip rings/brushes failures for all machines with rotor winding
+
+- stator related: short-/open-circuits, inter-turn short-circuits (a special case of short-circuits), supply imbalance, iron core related
+- rotor related: windings and iron related faults, broken/cracked rotor bars/end-rings for cage induction motors, permanent magnet cracks or demagnetization for permanent magnet motors and commutator/slip rings/brushes failures for all machines with rotor winding
 - mechanical: bearing failures, cooling fan, irregularities with the connected mechanical load (overloading and load oscillations).
 
 ![](https://i.imgur.com/TGEsgg2.png "Distributions of electrical machine failures depending on the voltage supply level")
 
 Distributions of electrical machine failures depending on the voltage supply level
 
-
 ## Cross-references
+
 [Electric Motor Fault by Components](electric-motor-fault-component.md)
 
 ## References
+
 - [benbouzidSignalProcessingFault2020](../zotero/benbouzidSignalProcessingFault2020.md)
 - [cardosoDiagnosisFaultTolerance2018](../zotero/cardosoDiagnosisFaultTolerance2018.md)

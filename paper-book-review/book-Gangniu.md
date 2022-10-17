@@ -44,8 +44,7 @@ The open system architecture for condition-based maintenance organization (OSA-C
 
 3.4 Role of Condition Monitoring, Fault Diagnosis, and Prognosis  
 3.5 Fault Diagnosis Framework  
-[Fault Detection Frameworks](../PHM/fault-detection-framework.md)
-
+[Fault Detection Frameworks](../PHM/fault-detection-framework.md)  
 3.6 Problems During Implementation  
 3.7 Related Techniques  
 4 Data Acquisition and Preprocessing  

@@ -1,11 +1,12 @@
 ---
 aliases: [PHM, Prognosis and Health Management]
-title: "Prognosis and Health Management"
+title: prognosis-health-management
 date: 2022-10-01 22:06
 tags: ['PHM']
 ---
 
-## Title
+# prognosis-health-management
 
+## Title
 
 ## References

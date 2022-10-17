@@ -1,8 +1,8 @@
 ---
 aliases: [Signal Processing]
+title: Signal Processing
 date: 2022-09-28 07:54
 tags: ['signal']
-title: Signal Processing
 ---
 
 # Signal Processing
