@@ -195,10 +195,6 @@
     {
       "basename": "challenge-motor-phm",
       "path": "PHM/challenge-motor-phm.md"
-    },
-    {
-      "basename": "research-Tanvir",
-      "path": "paper-book-review/research-Tanvir.md"
     }
   ],
   "omittedPaths": [],
