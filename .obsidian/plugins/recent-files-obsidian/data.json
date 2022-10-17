@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "wrightHowTellDifference2020",
       "path": "zotero/wrightHowTellDifference2020.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "research-Tanvir",
       "path": "paper-book-review/research-Tanvir.md"
-    },
-    {
-      "basename": "paper-Wright",
-      "path": "paper-book-review/paper-Wright.md"
     }
   ],
   "omittedPaths": [],
