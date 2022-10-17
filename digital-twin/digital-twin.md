@@ -20,7 +20,7 @@ tags: ['digital-twin']
 [[implementation-level-DT]]
 
 ## Modeling in Digital Twin 
-[[Modeling in DT]]
+[[DT-modeling]]
 
 ## Data Management in Digital Twin 
 [[data-management-DT]]

@@ -2,6 +2,7 @@
 citekey: qiEnablingTechnologiesTools2021  
 title: "Enabling technologies and tools for digital twin"
 year: 2021
+tags: ['journalArticle']
 ---
 
 ### Enabling technologies and tools for digital twin  
@@ -35,7 +36,7 @@ Digital twin is revolutionizing industry. Fired by sensor updates and history da
 
 #### Annotations
   
-**Imported: 2022-09-29**
+**Imported: 2022-10-16**
 
 > “Enabling technologies for digital twin” Yellow Highlight [Page 6](zotero://open-pdf/library/items/9UW7BQB9?page=6)
 
@@ -44,4 +45,4 @@ Digital twin is revolutionizing industry. Fired by sensor updates and history da
 Tools for digital twin
 
 
-%% Import Date: 2022-09-29T20:24:24.704+07:00 %%
+%% Import Date: 2022-10-16T14:33:43.749+07:00 %%

@@ -1,11 +1,12 @@
 ---
 aliases: [Signal Processing]
-title: "Signal Processing"
 date: 2022-09-28 07:54
 tags: ['signal']
+title: Signal Processing
 ---
 
-## Signal processing
+# Signal Processing
+
 - Signal preprocessing
   - Mean removal
   - Trend removal
@@ -25,8 +26,9 @@ tags: ['signal']
     - WT
       - WPT
 
-Images:
+Images:  
 ![](https://i.imgur.com/UylONmU.png)
 
-## References 
+## References
+
 - [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)

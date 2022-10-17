@@ -1,12 +1,172 @@
 {
   "recentFiles": [
     {
-      "basename": "benbouzidSignalProcessingFault2020",
-      "path": "zotero/benbouzidSignalProcessingFault2020.md"
+      "basename": "definition-abbreviation",
+      "path": "research/definition-abbreviation.md"
     },
     {
-      "basename": "Modeling in DT",
-      "path": "digital-twin/Modeling in DT.md"
+      "basename": "model-order-reduction",
+      "path": "model-order-reduction.md"
+    },
+    {
+      "basename": "surrogate-model",
+      "path": "surrogate-model.md"
+    },
+    {
+      "basename": "reducing-computational-cost",
+      "path": "reducing-computational-cost.md"
+    },
+    {
+      "basename": "paper-Tao",
+      "path": "paper-book-review/paper-Tao.md"
+    },
+    {
+      "basename": "paper-Wright",
+      "path": "paper-book-review/paper-Wright.md"
+    },
+    {
+      "basename": "paper-Thelen",
+      "path": "paper-book-review/paper-Thelen.md"
+    },
+    {
+      "basename": "research-Yazid",
+      "path": "paper-book-review/research-Yazid.md"
+    },
+    {
+      "basename": "research-Tanvir",
+      "path": "paper-book-review/research-Tanvir.md"
+    },
+    {
+      "basename": "book-Lei",
+      "path": "paper-book-review/book-Lei.md"
+    },
+    {
+      "basename": "book-Gangniu",
+      "path": "paper-book-review/book-Gangniu.md"
+    },
+    {
+      "basename": "book-Cardoso",
+      "path": "paper-book-review/book-Cardoso.md"
+    },
+    {
+      "basename": "book-Benbouzid",
+      "path": "paper-book-review/book-Benbouzid.md"
+    },
+    {
+      "basename": "Benefit of DT in EV Industries",
+      "path": "digital-twin/Benefit of DT in EV Industries.md"
+    },
+    {
+      "basename": "trust-DT",
+      "path": "digital-twin/trust-DT.md"
+    },
+    {
+      "basename": "physics-simulation-engine",
+      "path": "visualization/physics-simulation-engine.md"
+    },
+    {
+      "basename": "DT-modeling",
+      "path": "digital-twin/DT-modeling.md"
+    },
+    {
+      "basename": "when-DT",
+      "path": "digital-twin/when-DT.md"
+    },
+    {
+      "basename": "data-reduction",
+      "path": "signal-processing/data-reduction.md"
+    },
+    {
+      "basename": "Physical Modeling in DT",
+      "path": "digital-twin/Physical Modeling in DT.md"
+    },
+    {
+      "basename": "SCADA and Digital Twin",
+      "path": "digital-twin/SCADA and Digital Twin.md"
+    },
+    {
+      "basename": "Application of DT",
+      "path": "digital-twin/Application of DT.md"
+    },
+    {
+      "basename": "qiEnablingTechnologiesTools2021",
+      "path": "zotero/qiEnablingTechnologiesTools2021.md"
+    },
+    {
+      "basename": "PHM-processes",
+      "path": "PHM/PHM-processes.md"
+    },
+    {
+      "basename": "PHM-health-management-strategies",
+      "path": "PHM/PHM-health-management-strategies.md"
+    },
+    {
+      "basename": "prognosis-health-management",
+      "path": "PHM/prognosis-health-management.md"
+    },
+    {
+      "basename": "flux-monitoring-motor-phm",
+      "path": "PHM/flux-monitoring-motor-phm.md"
+    },
+    {
+      "basename": "fault-detection-framework",
+      "path": "PHM/fault-detection-framework.md"
+    },
+    {
+      "basename": "Electric Vehicle Maintenance",
+      "path": "PHM/Electric Vehicle Maintenance.md"
+    },
+    {
+      "basename": "Electric Motor Life Expectancy",
+      "path": "PHM/Electric Motor Life Expectancy.md"
+    },
+    {
+      "basename": "challenge-motor-phm",
+      "path": "PHM/challenge-motor-phm.md"
+    },
+    {
+      "basename": "amg8833-arduino",
+      "path": "research/amg8833-arduino.md"
+    },
+    {
+      "basename": "thesis-structure",
+      "path": "research/thesis-structure.md"
+    },
+    {
+      "basename": "keyword-motor-fault-detection-github",
+      "path": "research/keyword-motor-fault-detection-github.md"
+    },
+    {
+      "basename": "signal-processing-time-frequency",
+      "path": "signal-processing/signal-processing-time-frequency.md"
+    },
+    {
+      "basename": "signal-processing-time",
+      "path": "signal-processing/signal-processing-time.md"
+    },
+    {
+      "basename": "signal-processing-frequency",
+      "path": "signal-processing/signal-processing-frequency.md"
+    },
+    {
+      "basename": "signal-processing",
+      "path": "signal-processing/signal-processing.md"
+    },
+    {
+      "basename": "Zotero Templates",
+      "path": "Templates/Zotero Templates.md"
+    },
+    {
+      "basename": "Digital Garden Templates",
+      "path": "Templates/Digital Garden Templates.md"
+    },
+    {
+      "basename": "hardware-setup",
+      "path": "research/hardware-setup.md"
+    },
+    {
+      "basename": "benbouzidSignalProcessingFault2020",
+      "path": "zotero/benbouzidSignalProcessingFault2020.md"
     },
     {
       "basename": "I2C-address-conflict",
@@ -39,166 +199,6 @@
     {
       "basename": "digital-twin-layer",
       "path": "digital-twin/digital-twin-layer.md"
-    },
-    {
-      "basename": "digital-twin",
-      "path": "digital-twin/digital-twin.md"
-    },
-    {
-      "basename": "Digital Twin Visualization",
-      "path": "digital-twin/Digital Twin Visualization.md"
-    },
-    {
-      "basename": "Digital Twin Think Tank",
-      "path": "digital-twin/Digital Twin Think Tank.md"
-    },
-    {
-      "basename": "Digital Twin Solution Globals",
-      "path": "digital-twin/Digital Twin Solution Globals.md"
-    },
-    {
-      "basename": "Digital Twin Platform",
-      "path": "digital-twin/Digital Twin Platform.md"
-    },
-    {
-      "basename": "Digital Twin News",
-      "path": "digital-twin/Digital Twin News.md"
-    },
-    {
-      "basename": "Digital Twin Company in Indodnesia",
-      "path": "digital-twin/Digital Twin Company in Indodnesia.md"
-    },
-    {
-      "basename": "data-transmission-DT",
-      "path": "digital-twin/data-transmission-DT.md"
-    },
-    {
-      "basename": "data-management-DT",
-      "path": "digital-twin/data-management-DT.md"
-    },
-    {
-      "basename": "data-fusion-DT",
-      "path": "digital-twin/data-fusion-DT.md"
-    },
-    {
-      "basename": "Data Visualization in DT",
-      "path": "digital-twin/Data Visualization in DT.md"
-    },
-    {
-      "basename": "Data Source for DT",
-      "path": "digital-twin/Data Source for DT.md"
-    },
-    {
-      "basename": "Data Processing in DT",
-      "path": "digital-twin/Data Processing in DT.md"
-    },
-    {
-      "basename": "Communication in DT",
-      "path": "digital-twin/Communication in DT.md"
-    },
-    {
-      "basename": "Benefit of DT in EV Industries",
-      "path": "digital-twin/Benefit of DT in EV Industries.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "signal-processing",
-      "path": "signal-processing/signal-processing.md"
-    },
-    {
-      "basename": "Zotero Templates Old",
-      "path": "Experiment Notes/Zotero Templates Old.md"
-    },
-    {
-      "basename": "experiment-note",
-      "path": "Experiment Notes/experiment-note.md"
-    },
-    {
-      "basename": "physics-simulaiton-engine",
-      "path": "visualization/physics-simulaiton-engine.md"
-    },
-    {
-      "basename": "summary",
-      "path": "summary.md"
-    },
-    {
-      "basename": "Application of DT",
-      "path": "digital-twin/Application of DT.md"
-    },
-    {
-      "basename": "data-storage-DT",
-      "path": "digital-twin/data-storage-DT.md"
-    },
-    {
-      "basename": "Benefit of DT in Industry",
-      "path": "digital-twin/Benefit of DT in Industry.md"
-    },
-    {
-      "basename": "BLDC for Aircraft and Drone",
-      "path": "BLDC/BLDC for Aircraft and Drone.md"
-    },
-    {
-      "basename": "BLDC in EV system",
-      "path": "BLDC/BLDC in EV system.md"
-    },
-    {
-      "basename": "BLDC-motor",
-      "path": "BLDC/BLDC-motor.md"
-    },
-    {
-      "basename": "hardware-setup",
-      "path": "research/hardware-setup.md"
-    },
-    {
-      "basename": "keyword-remaining-useful-life-github",
-      "path": "research/keyword-remaining-useful-life-github.md"
-    },
-    {
-      "basename": "thesis-structure",
-      "path": "research/thesis-structure.md"
-    },
-    {
-      "basename": "signal-processing-frequency",
-      "path": "signal-processing/signal-processing-frequency.md"
-    },
-    {
-      "basename": "amg8833-arduino",
-      "path": "research/amg8833-arduino.md"
-    },
-    {
-      "basename": "DIY Torque Sensor Dynamometer",
-      "path": "research/DIY Torque Sensor Dynamometer.md"
-    },
-    {
-      "basename": "source-of-fault",
-      "path": "BLDC/source-of-fault.md"
-    },
-    {
-      "basename": "electric-motor-fault-component",
-      "path": "BLDC/electric-motor-fault-component.md"
-    },
-    {
-      "basename": "Electric Motor Life Expectancy",
-      "path": "PHM/Electric Motor Life Expectancy.md"
-    },
-    {
-      "basename": "Challenge of PHM in Motor",
-      "path": "PHM/Challenge of PHM in Motor.md"
-    },
-    {
-      "basename": "Challenge of Electric Vehicle",
-      "path": "electric-vehicle/Challenge of Electric Vehicle.md"
-    },
-    {
-      "basename": "Battery in EV",
-      "path": "electric-vehicle/Battery in EV.md"
-    },
-    {
-      "basename": "Type of EV",
-      "path": "electric-vehicle/Type of EV.md"
     }
   ],
   "omittedPaths": [],

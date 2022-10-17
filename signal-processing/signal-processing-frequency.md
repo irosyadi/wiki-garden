@@ -1,11 +1,12 @@
 ---
 aliases: [Signal Processing in the Frequency Domain]
-title: "Signal Processing in the Frequency Domain"
 date: 2022-09-28 08:23
 tags: ['signal']
+title: Signal Processing in the Frequency Domain
 ---
 
-## Signal Processing in the Frequency Domain
+# Signal Processing in the Frequency Domain
+
 - Fourier Transform
   - Fourier Series
   - Fourier Transform
@@ -22,5 +23,6 @@ tags: ['signal']
   - p2 - p4
 
 ## References
+
 - [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)
 - [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)

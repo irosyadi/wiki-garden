@@ -1,11 +1,12 @@
 ---
 aliases: [Signal Processing in the Time Domain]
-title: "Signal Processing in the Time Domain"
 date: 2022-09-28 08:19
 tags: ['signal']
+title: Signal Processing in the Time Domain
 ---
 
-## Signal Processing in the Time Domain
+# Signal Processing in the Time Domain
+
 - Correlation Analysis
   - Autocorrelation Analysis
   - Cross-correlation Analysis
@@ -30,6 +31,6 @@ tags: ['signal']
     - Willison Amplitude
     - Zero crossing
 
-
 ## References
+
 - [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)
