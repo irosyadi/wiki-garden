@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "summary",
-      "path": "summary.md"
+      "basename": "thesis-stage",
+      "path": "Experiment Notes/thesis-stage.md"
+    },
+    {
+      "basename": "I2C-address-conflict",
+      "path": "arduino/I2C-address-conflict.md"
+    },
+    {
+      "basename": "thesis-structure",
+      "path": "research/thesis-structure.md"
+    },
+    {
+      "basename": "arduino-sampling-rate",
+      "path": "arduino/arduino-sampling-rate.md"
+    },
+    {
+      "basename": "arduino-resource",
+      "path": "arduino/arduino-resource.md"
+    },
+    {
+      "basename": "benbouzidSignalProcessingFault2020",
+      "path": "zotero/benbouzidSignalProcessingFault2020.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "summary",
+      "path": "summary.md"
     },
     {
       "basename": "wrightHowTellDifference2020",
@@ -175,30 +199,6 @@
     {
       "basename": "electric-motor-fault-component",
       "path": "BLDC/electric-motor-fault-component.md"
-    },
-    {
-      "basename": "electric-motor-fault-cause",
-      "path": "BLDC/electric-motor-fault-cause.md"
-    },
-    {
-      "basename": "BLDC-motor",
-      "path": "BLDC/BLDC-motor.md"
-    },
-    {
-      "basename": "BLDC-EV-system",
-      "path": "BLDC/BLDC-EV-system.md"
-    },
-    {
-      "basename": "BLDC-aircraft-drone",
-      "path": "BLDC/BLDC-aircraft-drone.md"
-    },
-    {
-      "basename": "I2C-address-conflict",
-      "path": "arduino/I2C-address-conflict.md"
-    },
-    {
-      "basename": "challenge-motor-phm",
-      "path": "PHM/challenge-motor-phm.md"
     }
   ],
   "omittedPaths": [],
