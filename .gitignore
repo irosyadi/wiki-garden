@@ -1,6 +1,7 @@
 ## Folder
+~agenda/*
+~dailynote/*
 Templates/*
-Experiment Notes/*
 .obsidian/*
 .obsidian/
 .obsidian/plugins

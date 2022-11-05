@@ -8,6 +8,7 @@ tags: ['digital-twin']
 # digital-twin
 
 ## Definition of Digital Twin
+[[definition-DT]]
 
 ## Application of Digital Twin
 

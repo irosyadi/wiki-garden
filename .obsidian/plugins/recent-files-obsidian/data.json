@@ -1,48 +1,184 @@
 {
   "recentFiles": [
     {
+      "basename": "challenge-motor-phm",
+      "path": "PHM/challenge-motor-phm.md"
+    },
+    {
+      "basename": "mermaid",
+      "path": "~agenda/experiment/mermaid.md"
+    },
+    {
+      "basename": "experiment-note",
+      "path": "~agenda/experiment/experiment-note.md"
+    },
+    {
+      "basename": "2022-11-05",
+      "path": "~dailynote/2022-11-05.md"
+    },
+    {
+      "basename": "2022-11-04",
+      "path": "~dailynote/2022-11-04.md"
+    },
+    {
+      "basename": "2022-11-03",
+      "path": "~dailynote/2022-11-03.md"
+    },
+    {
+      "basename": "2022-11-02",
+      "path": "~dailynote/2022-11-02.md"
+    },
+    {
+      "basename": "design-of-experiment",
+      "path": "random/design-of-experiment.md"
+    },
+    {
+      "basename": "DailyNoteTemplates",
+      "path": "Templates/DailyNote/DailyNoteTemplates.md"
+    },
+    {
+      "basename": "digital-twin-distiller",
+      "path": "random/digital-twin-distiller.md"
+    },
+    {
       "basename": "thesis-stage",
-      "path": "Experiment Notes/thesis-stage.md"
+      "path": "~agenda/thesis-stage.md"
+    },
+    {
+      "basename": "DT-modeling",
+      "path": "digital-twin/DT-modeling.md"
+    },
+    {
+      "basename": "DT-services",
+      "path": "digital-twin/DT-services.md"
+    },
+    {
+      "basename": "book-Benbouzid",
+      "path": "paper-book-review/book-Benbouzid.md"
+    },
+    {
+      "basename": "definition-abbreviation",
+      "path": "research/definition-abbreviation.md"
+    },
+    {
+      "basename": "DT-modeling-physic-informed-ML",
+      "path": "digital-twin/DT-modeling-physic-informed-ML.md"
+    },
+    {
+      "basename": "DT-modeling-system",
+      "path": "digital-twin/DT-modeling-system.md"
+    },
+    {
+      "basename": "DT-modeling-physic",
+      "path": "digital-twin/DT-modeling-physic.md"
+    },
+    {
+      "basename": "thelenComprehensiveReviewDigital2022",
+      "path": "zotero/thelenComprehensiveReviewDigital2022.md"
+    },
+    {
+      "basename": "DT-modeling-data-driven",
+      "path": "digital-twin/DT-modeling-data-driven.md"
+    },
+    {
+      "basename": "~mission",
+      "path": "~agenda/~mission.md"
+    },
+    {
+      "basename": "~what-do-you-want",
+      "path": "~agenda/~what-do-you-want.md"
+    },
+    {
+      "basename": "randomnote",
+      "path": "~agenda/randomnote.md"
+    },
+    {
+      "basename": "paper-Thelen",
+      "path": "paper-book-review/paper-Thelen.md"
+    },
+    {
+      "basename": "WikiGardenTemplates",
+      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
+    },
+    {
+      "basename": "ZoteroTemplatesOld",
+      "path": "~agenda/experiment/ZoteroTemplatesOld.md"
     },
     {
       "basename": "I2C-address-conflict",
       "path": "arduino/I2C-address-conflict.md"
     },
     {
-      "basename": "thesis-structure",
-      "path": "research/thesis-structure.md"
-    },
-    {
       "basename": "arduino-sampling-rate",
       "path": "arduino/arduino-sampling-rate.md"
+    },
+    {
+      "basename": "ZoteroTemplates",
+      "path": "Templates/Zotero/ZoteroTemplates.md"
     },
     {
       "basename": "arduino-resource",
       "path": "arduino/arduino-resource.md"
     },
     {
-      "basename": "benbouzidSignalProcessingFault2020",
-      "path": "zotero/benbouzidSignalProcessingFault2020.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "1-Today",
+      "path": "~agenda/plan/1-Today.md"
     },
     {
       "basename": "summary",
       "path": "summary.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "DT-P2V-updating-enhancement",
+      "path": "digital-twin/DT-P2V-updating-enhancement.md"
+    },
+    {
+      "basename": "definition-DT",
+      "path": "digital-twin/definition-DT.md"
+    },
+    {
+      "basename": "communication-DT",
+      "path": "digital-twin/communication-DT.md"
+    },
+    {
+      "basename": "DT-connection",
+      "path": "digital-twin/DT-connection.md"
+    },
+    {
+      "basename": "DT-modeling-geometric",
+      "path": "digital-twin/DT-modeling-geometric.md"
+    },
+    {
+      "basename": "qiEnablingTechnologiesTools2021",
+      "path": "zotero/qiEnablingTechnologiesTools2021.md"
+    },
+    {
+      "basename": "DT-news",
+      "path": "digital-twin/DT-news.md"
+    },
+    {
+      "basename": "five-dimensions-DT",
+      "path": "digital-twin/five-dimensions-DT.md"
+    },
+    {
+      "basename": "digital-twin",
+      "path": "digital-twin/digital-twin.md"
+    },
+    {
+      "basename": "thesis-structure",
+      "path": "research/thesis-structure.md"
+    },
+    {
+      "basename": "benbouzidSignalProcessingFault2020",
+      "path": "zotero/benbouzidSignalProcessingFault2020.md"
+    },
+    {
       "basename": "wrightHowTellDifference2020",
       "path": "zotero/wrightHowTellDifference2020.md"
-    },
-    {
-      "basename": "Zotero Templates Old",
-      "path": "Experiment Notes/Zotero Templates Old.md"
-    },
-    {
-      "basename": "experiment-note",
-      "path": "Experiment Notes/experiment-note.md"
     },
     {
       "basename": "signal-processing",
@@ -63,142 +199,6 @@
     {
       "basename": "PHM-in-motor",
       "path": "PHM/PHM-in-motor.md"
-    },
-    {
-      "basename": "PHM-in-IM",
-      "path": "PHM/PHM-in-IM.md"
-    },
-    {
-      "basename": "PHM-in-BLDC-setup",
-      "path": "PHM/PHM-in-BLDC-setup.md"
-    },
-    {
-      "basename": "EV-maintenance",
-      "path": "PHM/EV-maintenance.md"
-    },
-    {
-      "basename": "motor-type-in-EV",
-      "path": "electric-vehicle/motor-type-in-EV.md"
-    },
-    {
-      "basename": "fault-in-BLDC-motor",
-      "path": "PHM/fault-in-BLDC-motor.md"
-    },
-    {
-      "basename": "EV-life-expectancy",
-      "path": "PHM/EV-life-expectancy.md"
-    },
-    {
-      "basename": "type-of-EV",
-      "path": "electric-vehicle/type-of-EV.md"
-    },
-    {
-      "basename": "sepeda-listrik",
-      "path": "electric-vehicle/sepeda-listrik.md"
-    },
-    {
-      "basename": "sensor-in-EV",
-      "path": "electric-vehicle/sensor-in-EV.md"
-    },
-    {
-      "basename": "motor-in-EV",
-      "path": "electric-vehicle/motor-in-EV.md"
-    },
-    {
-      "basename": "EV-component",
-      "path": "electric-vehicle/EV-component.md"
-    },
-    {
-      "basename": "challenge-EV",
-      "path": "electric-vehicle/challenge-EV.md"
-    },
-    {
-      "basename": "battery-EV",
-      "path": "electric-vehicle/battery-EV.md"
-    },
-    {
-      "basename": "DT-think-tank",
-      "path": "digital-twin/DT-think-tank.md"
-    },
-    {
-      "basename": "data-visualization-DT",
-      "path": "digital-twin/data-visualization-DT.md"
-    },
-    {
-      "basename": "HMI-visualization",
-      "path": "digital-twin/HMI-visualization.md"
-    },
-    {
-      "basename": "SCADA-DT",
-      "path": "digital-twin/SCADA-DT.md"
-    },
-    {
-      "basename": "DT-software",
-      "path": "digital-twin/DT-software.md"
-    },
-    {
-      "basename": "DT-physical-modeling",
-      "path": "digital-twin/DT-physical-modeling.md"
-    },
-    {
-      "basename": "DT-for-manufacturer",
-      "path": "digital-twin/DT-for-manufacturer.md"
-    },
-    {
-      "basename": "benefit-DT-industry",
-      "path": "digital-twin/benefit-DT-industry.md"
-    },
-    {
-      "basename": "DT-company-global",
-      "path": "digital-twin/DT-company-global.md"
-    },
-    {
-      "basename": "DT-platform",
-      "path": "digital-twin/DT-platform.md"
-    },
-    {
-      "basename": "data-storage-DT",
-      "path": "digital-twin/data-storage-DT.md"
-    },
-    {
-      "basename": "data-source-DT",
-      "path": "digital-twin/data-source-DT.md"
-    },
-    {
-      "basename": "DT-news",
-      "path": "digital-twin/DT-news.md"
-    },
-    {
-      "basename": "DT-company-Indonesia",
-      "path": "digital-twin/DT-company-Indonesia.md"
-    },
-    {
-      "basename": "data-transmission-DT",
-      "path": "digital-twin/data-transmission-DT.md"
-    },
-    {
-      "basename": "data-processing-DT",
-      "path": "digital-twin/data-processing-DT.md"
-    },
-    {
-      "basename": "communication-DT",
-      "path": "digital-twin/communication-DT.md"
-    },
-    {
-      "basename": "benefit-DT-EV-industry",
-      "path": "digital-twin/benefit-DT-EV-industry.md"
-    },
-    {
-      "basename": "application-DT",
-      "path": "digital-twin/application-DT.md"
-    },
-    {
-      "basename": "source-of-fault",
-      "path": "BLDC/source-of-fault.md"
-    },
-    {
-      "basename": "electric-motor-fault-component",
-      "path": "BLDC/electric-motor-fault-component.md"
     }
   ],
   "omittedPaths": [],

@@ -11,13 +11,20 @@ tags: ['paper', 'review', 'digital-twin']
 1 Introduction  
 2 Definitions and literature overview  
 2.1 What is digital twin  
+[Digital Twin Definition](../digital-twin/definition-DT.md)  
 2.2 Literature overview  
 3 Modeling enabling technologies  
+[Modeling in Digital Twin](../digital-twin/DT-modeling.md)  
 3.1 Geometric modeling  
+[Geometric Modeling in Digital Twin](../digital-twin/DT-modeling-geometric.md)  
 3.2 Physics-based modeling  
+[Physical Modeling in Digital Twin](../digital-twin/DT-modeling-physic.md)  
 3.3 Data-driven modeling  
+[Data-driven Modeling in Digital Twin](../digital-twin/DT-modeling-data-driven.md)  
 3.4 Physics-informed ML  
+[Physics-informed ML Modeling in Digital Twin](../digital-twin/DT-modeling-physic-informed-ML.md)  
 3.5 System modeling  
+[System Modeling in Digital Twin](../digital-twin/DT-modeling-system.md)  
 4 P2V twinning enabling technologies  
 4.1 Physical measurements as input  
 4.2 Probabilistic model updating  

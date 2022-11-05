@@ -1,0 +1,1 @@
+- Design of Experiment (DoE). The goal of the Design of Experiment techniques is to extract as much information as possible from a limited set of laboratory and computer experiments. DOE methodologies: Full Factorial, Box-Behnken, Plackett-Burman, and Central Composite Design.
