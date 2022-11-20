@@ -1,0 +1,1 @@
+- [First Workshop: Pervasive Digital Twins at PerCom'23 – Center for Sustainable Future Mobility | ETH Zurich](https://csfm.ethz.ch/en/research/integrative-projects/digital-twin/dtws/workshop.html)

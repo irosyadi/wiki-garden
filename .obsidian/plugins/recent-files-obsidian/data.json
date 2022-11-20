@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "digital-twin-news",
+      "path": "random/digital-twin-news.md"
+    },
+    {
+      "basename": "2022-11-10",
+      "path": "~dailynote/2022-11-10.md"
+    },
+    {
+      "basename": "2022-11-09",
+      "path": "~dailynote/2022-11-09.md"
+    },
+    {
+      "basename": "digital-twin-distiller",
+      "path": "random/digital-twin-distiller.md"
+    },
+    {
+      "basename": "design-of-experiment",
+      "path": "random/design-of-experiment.md"
+    },
+    {
+      "basename": "randomnote",
+      "path": "~agenda/randomnote.md"
+    },
+    {
+      "basename": "experiment-note",
+      "path": "~agenda/experiment/experiment-note.md"
+    },
+    {
+      "basename": "2022-11-07",
+      "path": "~dailynote/2022-11-07.md"
+    },
+    {
       "basename": "challenge-motor-phm",
       "path": "PHM/challenge-motor-phm.md"
     },
     {
       "basename": "mermaid",
       "path": "~agenda/experiment/mermaid.md"
-    },
-    {
-      "basename": "experiment-note",
-      "path": "~agenda/experiment/experiment-note.md"
     },
     {
       "basename": "2022-11-05",
@@ -27,18 +55,6 @@
     {
       "basename": "2022-11-02",
       "path": "~dailynote/2022-11-02.md"
-    },
-    {
-      "basename": "design-of-experiment",
-      "path": "random/design-of-experiment.md"
-    },
-    {
-      "basename": "DailyNoteTemplates",
-      "path": "Templates/DailyNote/DailyNoteTemplates.md"
-    },
-    {
-      "basename": "digital-twin-distiller",
-      "path": "random/digital-twin-distiller.md"
     },
     {
       "basename": "thesis-stage",
@@ -87,10 +103,6 @@
     {
       "basename": "~what-do-you-want",
       "path": "~agenda/~what-do-you-want.md"
-    },
-    {
-      "basename": "randomnote",
-      "path": "~agenda/randomnote.md"
     },
     {
       "basename": "paper-Thelen",
@@ -187,18 +199,6 @@
     {
       "basename": "data-reduction",
       "path": "signal-processing/data-reduction.md"
-    },
-    {
-      "basename": "torque-sensor",
-      "path": "research/torque-sensor.md"
-    },
-    {
-      "basename": "motor-fault-dataset",
-      "path": "PHM/motor-fault-dataset.md"
-    },
-    {
-      "basename": "PHM-in-motor",
-      "path": "PHM/PHM-in-motor.md"
     }
   ],
   "omittedPaths": [],
