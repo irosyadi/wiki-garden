@@ -45,7 +45,7 @@ tags: ['fault', 'motor']
 
 ## Cross-references
 
-[Electric Motor Fault Causes](../BLDC/electric-motor-fault-cause.md)
+[Electric Motor Fault Causes](../motor-fault/electric-motor-fault-cause.md)
 
 ## References
 

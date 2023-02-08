@@ -10,3 +10,5 @@ tags: ['paper', 'review']
 ## References
 
 - [taoDigitalTwinModeling2022](../zotero/taoDigitalTwinModeling2022.md)
+- [taoDigitalTwinDriven2019](../zotero/taoDigitalTwinDriven2019.md)
+- [taoDigitalTwinDriven2018](../zotero/taoDigitalTwinDriven2018.md)

@@ -25,3 +25,8 @@ New techniques such as (Lee et al., 2020):
 Bibliography:  
 Falekas, G., & Karlis, A. (2021). Digital twin in electrical machine control and predictive maintenance: State-of-the-art and future prospects. _Energies_, _14_(18). [https://doi.org/10.3390/en14185933](https://doi.org/10.3390/en14185933)  
 Lee, S. B., Stone, G. C., Antonino-Daviu, J., Gyftakis, K. N., Strangas, E. G., Maussion, P., & Platero, C. A. (2020). Condition Monitoring of Industrial Electric Machines. _IEEE Industrial Electronics Magazine_, _14_(4), 158–167. [https://doi.org/10.1109/MIE.2020.3016138](https://doi.org/10.1109/MIE.2020.3016138)
+
+## References:
+
+- [falekasDigitalTwinElectrical2021](../zotero/falekasDigitalTwinElectrical2021.md)
+- [leeConditionMonitoringIndustrial2020](../zotero/leeConditionMonitoringIndustrial2020.md)

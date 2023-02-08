@@ -1,140 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "digital-twin-news",
-      "path": "random/digital-twin-news.md"
-    },
-    {
-      "basename": "2022-11-10",
-      "path": "~dailynote/2022-11-10.md"
-    },
-    {
-      "basename": "2022-11-09",
-      "path": "~dailynote/2022-11-09.md"
-    },
-    {
-      "basename": "digital-twin-distiller",
-      "path": "random/digital-twin-distiller.md"
-    },
-    {
-      "basename": "design-of-experiment",
-      "path": "random/design-of-experiment.md"
-    },
-    {
-      "basename": "randomnote",
-      "path": "~agenda/randomnote.md"
-    },
-    {
-      "basename": "experiment-note",
-      "path": "~agenda/experiment/experiment-note.md"
-    },
-    {
-      "basename": "2022-11-07",
-      "path": "~dailynote/2022-11-07.md"
-    },
-    {
-      "basename": "challenge-motor-phm",
-      "path": "PHM/challenge-motor-phm.md"
-    },
-    {
-      "basename": "mermaid",
-      "path": "~agenda/experiment/mermaid.md"
-    },
-    {
-      "basename": "2022-11-05",
-      "path": "~dailynote/2022-11-05.md"
-    },
-    {
-      "basename": "2022-11-04",
-      "path": "~dailynote/2022-11-04.md"
-    },
-    {
-      "basename": "2022-11-03",
-      "path": "~dailynote/2022-11-03.md"
-    },
-    {
-      "basename": "2022-11-02",
-      "path": "~dailynote/2022-11-02.md"
-    },
-    {
-      "basename": "thesis-stage",
-      "path": "~agenda/thesis-stage.md"
-    },
-    {
-      "basename": "DT-modeling",
-      "path": "digital-twin/DT-modeling.md"
-    },
-    {
-      "basename": "DT-services",
-      "path": "digital-twin/DT-services.md"
-    },
-    {
-      "basename": "book-Benbouzid",
-      "path": "paper-book-review/book-Benbouzid.md"
-    },
-    {
-      "basename": "definition-abbreviation",
-      "path": "research/definition-abbreviation.md"
-    },
-    {
-      "basename": "DT-modeling-physic-informed-ML",
-      "path": "digital-twin/DT-modeling-physic-informed-ML.md"
-    },
-    {
-      "basename": "DT-modeling-system",
-      "path": "digital-twin/DT-modeling-system.md"
-    },
-    {
-      "basename": "DT-modeling-physic",
-      "path": "digital-twin/DT-modeling-physic.md"
-    },
-    {
-      "basename": "thelenComprehensiveReviewDigital2022",
-      "path": "zotero/thelenComprehensiveReviewDigital2022.md"
-    },
-    {
-      "basename": "DT-modeling-data-driven",
-      "path": "digital-twin/DT-modeling-data-driven.md"
-    },
-    {
-      "basename": "~mission",
-      "path": "~agenda/~mission.md"
-    },
-    {
-      "basename": "~what-do-you-want",
-      "path": "~agenda/~what-do-you-want.md"
-    },
-    {
-      "basename": "paper-Thelen",
-      "path": "paper-book-review/paper-Thelen.md"
-    },
-    {
-      "basename": "WikiGardenTemplates",
-      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
-    },
-    {
-      "basename": "ZoteroTemplatesOld",
-      "path": "~agenda/experiment/ZoteroTemplatesOld.md"
-    },
-    {
-      "basename": "I2C-address-conflict",
-      "path": "arduino/I2C-address-conflict.md"
-    },
-    {
-      "basename": "arduino-sampling-rate",
-      "path": "arduino/arduino-sampling-rate.md"
-    },
-    {
-      "basename": "ZoteroTemplates",
-      "path": "Templates/Zotero/ZoteroTemplates.md"
-    },
-    {
-      "basename": "arduino-resource",
-      "path": "arduino/arduino-resource.md"
-    },
-    {
-      "basename": "1-Today",
-      "path": "~agenda/plan/1-Today.md"
+      "basename": "signal-python-toolbox",
+      "path": "signal-processing/signal-python-toolbox.md"
     },
     {
       "basename": "summary",
@@ -145,62 +13,195 @@
       "path": "README.md"
     },
     {
-      "basename": "DT-P2V-updating-enhancement",
-      "path": "digital-twin/DT-P2V-updating-enhancement.md"
+      "basename": "digital-twin-canvas",
+      "path": "digital-twin-canvas.canvas"
     },
     {
-      "basename": "definition-DT",
-      "path": "digital-twin/definition-DT.md"
+      "basename": "vibration-data-processing",
+      "path": "signal-processing/vibration-data-processing.md"
     },
     {
-      "basename": "communication-DT",
-      "path": "digital-twin/communication-DT.md"
+      "basename": "DT-modeling",
+      "path": "dt-modeling/DT-modeling.md"
     },
     {
-      "basename": "DT-connection",
-      "path": "digital-twin/DT-connection.md"
+      "basename": "3d-virtual-model",
+      "path": "dt-modeling/3d-virtual-model.md"
     },
     {
-      "basename": "DT-modeling-geometric",
-      "path": "digital-twin/DT-modeling-geometric.md"
+      "basename": "electric-motor-fault-component",
+      "path": "motor-fault/electric-motor-fault-component.md"
     },
     {
-      "basename": "qiEnablingTechnologiesTools2021",
-      "path": "zotero/qiEnablingTechnologiesTools2021.md"
+      "basename": "motor-fault-dataset",
+      "path": "motor-fault/motor-fault-dataset.md"
     },
     {
-      "basename": "DT-news",
-      "path": "digital-twin/DT-news.md"
+      "basename": "bldc-fault",
+      "path": "motor-fault/bldc-fault.md"
     },
     {
-      "basename": "five-dimensions-DT",
-      "path": "digital-twin/five-dimensions-DT.md"
+      "basename": "bearing-fault",
+      "path": "motor-fault/bearing-fault.md"
     },
     {
-      "basename": "digital-twin",
-      "path": "digital-twin/digital-twin.md"
+      "basename": "numpy-howto",
+      "path": "python/numpy-howto.md"
     },
     {
-      "basename": "thesis-structure",
-      "path": "research/thesis-structure.md"
+      "basename": "jupyter-howto",
+      "path": "python/jupyter-howto.md"
+    },
+    {
+      "basename": "colab-howto",
+      "path": "python/colab-howto.md"
+    },
+    {
+      "basename": "cloud-GPU",
+      "path": "python/cloud-GPU.md"
+    },
+    {
+      "basename": "motor-type-in-EV",
+      "path": "electric-vehicle/motor-type-in-EV.md"
+    },
+    {
+      "basename": "awesome-time-series",
+      "path": "ML-in-PHM/awesome-time-series.md"
+    },
+    {
+      "basename": "SOTA-time-series",
+      "path": "ML-in-PHM/SOTA-time-series.md"
+    },
+    {
+      "basename": "time-series-github",
+      "path": "ML-in-PHM/time-series-github.md"
+    },
+    {
+      "basename": "hardware-setup",
+      "path": "research/hardware-setup.md"
+    },
+    {
+      "basename": "digital-twin-distiller",
+      "path": "random/digital-twin-distiller.md"
+    },
+    {
+      "basename": "critical-difference-diagram",
+      "path": "ML-in-PHM/critical-difference-diagram.md"
+    },
+    {
+      "basename": "stator-fault",
+      "path": "motor-fault/stator-fault.md"
+    },
+    {
+      "basename": "inter-turn-short-circuit-fault",
+      "path": "motor-fault/inter-turn-short-circuit-fault.md"
+    },
+    {
+      "basename": "prognosis-health-management",
+      "path": "PHM/prognosis-health-management.md"
+    },
+    {
+      "basename": "PHM-processes",
+      "path": "PHM/PHM-processes.md"
+    },
+    {
+      "basename": "EV-maintenance",
+      "path": "PHM/EV-maintenance.md"
+    },
+    {
+      "basename": "fault-in-BLDC-motor",
+      "path": "PHM/fault-in-BLDC-motor.md"
+    },
+    {
+      "basename": "PHM-in-BLDC-setup",
+      "path": "PHM/PHM-in-BLDC-setup.md"
+    },
+    {
+      "basename": "PHM-health-management-strategies",
+      "path": "PHM/PHM-health-management-strategies.md"
+    },
+    {
+      "basename": "PHM with Digital Twin",
+      "path": "PHM/PHM with Digital Twin.md"
+    },
+    {
+      "basename": "PHM Methods",
+      "path": "PHM/PHM Methods.md"
+    },
+    {
+      "basename": "challenge-motor-phm",
+      "path": "PHM/challenge-motor-phm.md"
+    },
+    {
+      "basename": "python-statistics",
+      "path": "python/python-statistics.md"
+    },
+    {
+      "basename": "leiIntelligentFaultDiagnosis2017",
+      "path": "zotero/leiIntelligentFaultDiagnosis2017.md"
+    },
+    {
+      "basename": "book-Lei",
+      "path": "paper-book-review/book-Lei.md"
+    },
+    {
+      "basename": "book-Cardoso",
+      "path": "paper-book-review/book-Cardoso.md"
+    },
+    {
+      "basename": "book-Benbouzid",
+      "path": "paper-book-review/book-Benbouzid.md"
     },
     {
       "basename": "benbouzidSignalProcessingFault2020",
       "path": "zotero/benbouzidSignalProcessingFault2020.md"
     },
     {
-      "basename": "wrightHowTellDifference2020",
-      "path": "zotero/wrightHowTellDifference2020.md"
+      "basename": "paper-cited",
+      "path": "paper-book-review/paper-cited.md"
     },
     {
-      "basename": "signal-processing",
-      "path": "signal-processing/signal-processing.md"
+      "basename": "book-Pecht",
+      "path": "paper-book-review/book-Pecht.md"
     },
     {
-      "basename": "data-reduction",
-      "path": "signal-processing/data-reduction.md"
+      "basename": "book-Niu",
+      "path": "paper-book-review/book-Niu.md"
+    },
+    {
+      "basename": "scipy-howto",
+      "path": "python/scipy-howto.md"
+    },
+    {
+      "basename": "latex-howto",
+      "path": "python/latex-howto.md"
+    },
+    {
+      "basename": "python-to-jupyter",
+      "path": "python/python-to-jupyter.md"
+    },
+    {
+      "basename": "PHM-with-code",
+      "path": "python/PHM-with-code.md"
+    },
+    {
+      "basename": "colab-alternatives",
+      "path": "python/colab-alternatives.md"
+    },
+    {
+      "basename": "rotor-fault",
+      "path": "motor-fault/rotor-fault.md"
+    },
+    {
+      "basename": "HHT",
+      "path": "signal-processing/HHT.md"
+    },
+    {
+      "basename": "source-of-fault",
+      "path": "motor-fault/source-of-fault.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

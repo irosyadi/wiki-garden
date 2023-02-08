@@ -28,7 +28,7 @@ tags: ['digital-twin']
 
 ## Modeling in Digital Twin
 
-[[DT-modeling]]
+[[../dt-modeling/DT-modeling]]
 
 ## Data Management in Digital Twin
 

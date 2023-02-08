@@ -53,6 +53,11 @@ tags: ['hardware']
 	- Price: 2.457.500
 - Omron Thermal Sensor D6T-44L-06 dan D6T-HARNESS-02
 	- Price: 1.300.000
+- FLIR One [FLIR ONE](https://www.flir.asia/flir-one/)
+- Seek Thermal [Seek Thermal](https://www.thermal.com/compact-series.html)
+- [UNI-T UTi260M](https://www.amazon.com/UNI-T-Resolution-Handheld-Durability-Rechargeable/dp/B0BC125VTQ)
+- [InfiRay P2 Pro](https://www.aliexpress.com/item/1005004950256049.html)
+- List [The 4 Best Smartphone Thermal Cameras of 2022](https://industrial-reviews.com/smartphone-thermal-camera/)
 
 ## Magnetic Sensor
 

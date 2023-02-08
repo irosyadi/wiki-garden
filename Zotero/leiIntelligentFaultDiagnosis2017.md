@@ -1,4 +1,4 @@
----
+ ---
 citekey: leiIntelligentFaultDiagnosis2017  
 title: "Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery"
 year: 2017

@@ -2,6 +2,7 @@
 citekey: huDigitalTwinStateoftheart2021  
 title: "Digital twin: a state-of-the-art review of its enabling technologies, applications and challenges"
 year: 2021
+tags: ['journalArticle']
 ---
 
 ### Digital twin: a state-of-the-art review of its enabling technologies, applications and challenges  
@@ -62,6 +63,36 @@ Digital twin (DT) is an emerging technology that enables sophisticated interacti
 -   [Abbreviations](zotero://open-pdf/0_XY8FIPGH/27)
 -   [References](zotero://open-pdf/0_XY8FIPGH/29)
 
+**Contents**
+
+-   [Introduction](zotero://open-pdf/0_E9VEWQKU/2)
+-   [History, definitions and models](zotero://open-pdf/0_E9VEWQKU/3)
+    -   [DT history](zotero://open-pdf/0_E9VEWQKU/3)
+    -   [DT definitions](zotero://open-pdf/0_E9VEWQKU/4)
+    -   [DT models](zotero://open-pdf/0_E9VEWQKU/5)
+-   [DT enabling technologies](zotero://open-pdf/0_E9VEWQKU/6)
+    -   [Technologies for physical objects](zotero://open-pdf/0_E9VEWQKU/7)
+    -   [Data construction and management technologies](zotero://open-pdf/0_E9VEWQKU/7)
+    -   [Virtual modeling technologies](zotero://open-pdf/0_E9VEWQKU/8)
+    -   [Services technologies](zotero://open-pdf/0_E9VEWQKU/9)
+    -   [Connection and data transmission technologies](zotero://open-pdf/0_E9VEWQKU/9)
+    -   [Environment coupling technologies](zotero://open-pdf/0_E9VEWQKU/10)
+-   [DT in categorized applications](zotero://open-pdf/0_E9VEWQKU/10)
+    -   [DT in product lifecycle phases](zotero://open-pdf/0_E9VEWQKU/10)
+        -   [DT for design](zotero://open-pdf/0_E9VEWQKU/10)
+        -   [DT for manufacturing](zotero://open-pdf/0_E9VEWQKU/11)
+        -   [DT for operation and maintenance](zotero://open-pdf/0_E9VEWQKU/16)
+        -   [DT for recycling](zotero://open-pdf/0_E9VEWQKU/17)
+    -   [DT in different engineering fields](zotero://open-pdf/0_E9VEWQKU/17)
+        -   [DT for aerospace engineering](zotero://open-pdf/0_E9VEWQKU/17)
+        -   [DT for tunneling and underground engineering](zotero://open-pdf/0_E9VEWQKU/19)
+        -   [DT for wind engineering](zotero://open-pdf/0_E9VEWQKU/21)
+        -   [DT for IoT applications](zotero://open-pdf/0_E9VEWQKU/23)
+-   [Key challenges in constructing DT](zotero://open-pdf/0_E9VEWQKU/25)
+-   [Conclusions](zotero://open-pdf/0_E9VEWQKU/26)
+-   [Abbreviations](zotero://open-pdf/0_E9VEWQKU/27)
+-   [References](zotero://open-pdf/0_E9VEWQKU/29)
+
 “DT enabling technologies” [Go to annotation](zotero://open-pdf/library/items/Z26DRJCA?page=6&annotation=undefined) ([Hu et al., 2021, p. 6](zotero://select/library/items/8VSME4TJ))
 
 -   “Technologies for physical objects” [Go to annotation](zotero://open-pdf/library/items/Z26DRJCA?page=7&annotation=undefined)
@@ -74,11 +105,11 @@ Digital twin (DT) is an emerging technology that enables sophisticated interacti
 
 #### Annotations
   
-**Imported: 2022-09-29**
+**Imported: 2022-12-14**
 
 > “This section surveys the enabling technologies for constructing a DT model.” Yellow Highlight [Page 7](zotero://open-pdf/library/items/Z26DRJCA?page=7)
 
 Enabling Technologies: Technologies for physical objects, Data construction and management technologies, Virtual modeling technologies, Services technologies, Connection and data transmission technologies, Environment coupling technologies
 
 
-%% Import Date: 2022-09-29T20:22:24.636+07:00 %%
+%% Import Date: 2022-12-14T19:12:33.349+07:00 %%

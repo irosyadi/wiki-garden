@@ -17,7 +17,7 @@ PHM approach methods (Reference: Sajid, 2021):
 	- Use computational power and a large amount of data
 	- Data processing and analyses of big industrial data, the degradation of components, the remaining useful life and maintenance can be mined.
 	- Sub methods: statistical models, stochastic models, and machine learning models
-- PhysicalModel approach
+- Physical Model approach
 	- Based on laws of physics and mathematics for assessing degradation of components
 	- Without a lot of data collection, this model can reveal the faulty logic of the system
 	- Since most equipment is complex mechanical and electrical systems, establishing degradation models is difficult because of the ignorance of degradation.

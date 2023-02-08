@@ -9,7 +9,7 @@ tags: ['book', 'review']
 
 Chapter 2 Voltage-source inverter-fed drives  
 2.1 Condition monitoring, fault diagnosis and prognosis of electrical machines  
-[Electric Motor Fault Causes](../BLDC/electric-motor-fault-cause.md)
+[Electric Motor Fault Causes](../motor-fault/electric-motor-fault-cause.md)
 
 ## References
 

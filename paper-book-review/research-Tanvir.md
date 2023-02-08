@@ -95,11 +95,12 @@ ANN Assisted Multi Sensor Information Fusion for BLDC Motor Fault Diagnosis (202
 - Current. Third harmonics of motor currents are analyzed to detect irregularity in the stator coil operation. Frequencies of these harmonics as well as the amplitude are also determined to understand the fault magnitude.
 - Vibration signals are analyzed to detect rotor related fault called crack rotor fault (CRF).
 - Vibration. For the vibration signals, signals are decomposed into IMFs using CEEMD technique. CEEMD allows us to find the hidden fault characteristics which is a difficult task to find by directly analyzing the raw vibration signals. After CEEMD decomposition, several features are extracted from the best-fit IMF in time-domain and frequency-domain.
-- Primary concern of this study is to merge mechanical and electrical fault fea-tures by combining fault characteristics from vibration and current signals, respectively.
+- Primary concern of this study is to merge mechanical and electrical fault features by combining fault characteristics from vibration and current signals, respectively.
 - Most appropriate features from the current and vibration signals are chosen based on the monotonicity score. Selected features are further reduced to a 2-D feature space using the principal component analysis (PCA) method.
 - In this study, we have investigated both the stator and rotor faults at the same time.
-- A rotor fault is introduced by creating a circular crack with a diameter of 3.2 mm and depth 1.6mm.Rotor crack fault (CRF).
-- On the other hand, different types of shortcircuits such as: inter-turn, coil-to-ground, coil-to-coil, etc. are the most frequent faults that take place in the stator. For stator fault, a winding short circuit is created by joining phase A and phase C. Stator winding short-circuit (WSC).
+- A rotor fault is introduced by creating a circular crack with a diameter of 3.2 mm and depth 1.6mm.
+- Rotor crack fault (CRF).
+- On the other hand, different types of short circuits such as: inter-turn, coil-to-ground, coil-to-coil, etc. are the most frequent faults that take place in the stator. For stator fault, a winding short circuit is created by joining phase A and phase C. Stator winding short-circuit (WSC).
 - presence of third harmonics in the motor current spectra is considered as an irregular stator operation
 
 ![](https://i.imgur.com/3wV9lMT.png)

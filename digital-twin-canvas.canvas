@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"220f4b5f134e58c0","x":-156,"y":-258,"width":400,"height":252,"type":"file","file":"motor-fault/bearing-fault.md"},
+		{"id":"5eee02e27131d253","x":-406,"y":112,"width":250,"height":60,"type":"text","text":"Data"},
+		{"id":"584e81d26a472342","x":-156,"y":219,"width":400,"height":400,"type":"file","file":"motor-fault/stator-fault.md"}
+	],
+	"edges":[
+		{"id":"92b758123705f02d","fromNode":"220f4b5f134e58c0","fromSide":"bottom","toNode":"584e81d26a472342","toSide":"top"},
+		{"id":"8a94aa2f7d6280ee","fromNode":"5eee02e27131d253","fromSide":"top","toNode":"220f4b5f134e58c0","toSide":"left"}
+	]
+}

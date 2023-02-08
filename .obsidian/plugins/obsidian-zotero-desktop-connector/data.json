@@ -20,5 +20,6 @@
       "templatePath": "Templates/Zotero/ZoteroTemplates.md",
       "cslStyle": "apa"
     }
-  ]
+  ],
+  "shouldShowCiteSuggest": true
 }

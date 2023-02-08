@@ -21,3 +21,4 @@ Physics-informed ML
 ## Physics-informed ML
 
 ![link](https://i.imgur.com/KWsnznd.png)
+

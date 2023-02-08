@@ -48,8 +48,6 @@ Physical modeling: describes accuracy information, material information, and ass
 
 ## Other Examples of Physic-based Modeling
 - Empirical Performance Model (Rassolkin et al., 2022) [link](zotero://select/library/items/F2NM5RDP)
-- <font color=red>imron</font>
 - [link]()
 - [link](zotero://select/library/items/F2NM5RDP)
-- 
 

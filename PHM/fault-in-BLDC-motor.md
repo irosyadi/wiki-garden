@@ -39,3 +39,6 @@ References:
 Antonino-Daviu, J. (2020). Electrical monitoring under transient conditions: A new paradigm in electric motors predictive maintenance. _Applied Sciences (Switzerland)_, _10_(17). [https://doi.org/10/gqk2p8](https://doi.org/10/gqk2p8)  
 Faiz, J., & Jafari, A. (2018). Interturn fault diagnosis in brushless direct current motors—A review. _2018 IEEE International Conference on Industrial Technology (ICIT)_, 437–444. [https://doi.org/10.1109/ICIT.2018.8352217](https://doi.org/10.1109/ICIT.2018.8352217)  
 Kudelina, K., Asad, B., Vaimann, T., Rassõlkin, A., Kallaste, A., & Lukichev, D. V. (2020). _Main faults and diagnostic possibilities of BLDC Motors_. 1–6. [https://doi.org/10.1109/IWED48848.2020.9069553](https://doi.org/10.1109/IWED48848.2020.9069553)
+
+- [antonino-daviuElectricalMonitoringTransient2020](../zotero/antonino-daviuElectricalMonitoringTransient2020.md)
+- [kudelinaMainFaultsDiagnostic2020](../zotero/kudelinaMainFaultsDiagnostic2020.md)

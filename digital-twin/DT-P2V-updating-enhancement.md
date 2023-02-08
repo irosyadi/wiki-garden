@@ -8,8 +8,8 @@ tags: ['tag1', 'tag2']
 # Physical to Virtual (P2V) Updating and Enhancement
 
 - Measurement as input.
-  - Physical measurement to update the digital model. Mainly for [Geometric Model](digital-twin/DT-modeling-geometric.md)
-  - Physical system data as input for physics-based analysis/design. Mainly for [Physic-based Model](digital-twin/DT-modeling-physic.md).
+  - Physical measurement to update the digital model. Mainly for [Geometric Model](../dt-modeling/DT-modeling-geometric.md)
+  - Physical system data as input for physics-based analysis/design. Mainly for [Physic-based Model](../dt-modeling/DT-modeling-physic.md).
 - Probabilistic model updating
   - State estimation using Bayesian filters
     - methods:

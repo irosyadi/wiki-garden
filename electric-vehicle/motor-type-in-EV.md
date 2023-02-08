@@ -65,3 +65,4 @@ Paper:
 
 - [Review and Development of Electric Motor Systems and Electric Powertrains for New Energy Vehicles](https://link.springer.com/article/10.1007/s42154-021-00139-z)
 - [A survey on comparison of electric motor types and drives used for electric vehicles](https://ieeexplore.ieee.org/document/6980715)
+  
