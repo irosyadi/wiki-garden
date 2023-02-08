@@ -1,4 +1,4 @@
- ---
+---
 aliases: [Data-driven Modeling in Digital Twin]
 title: Data-driven Modeling in Digital Twin
 date: 2022-10-31 09:58

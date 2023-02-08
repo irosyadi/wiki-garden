@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DT-modeling-data-driven",
+      "path": "dt-modeling/DT-modeling-data-driven.md"
+    },
+    {
       "basename": "signal-python-toolbox",
       "path": "signal-processing/signal-python-toolbox.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HHT",
       "path": "signal-processing/HHT.md"
-    },
-    {
-      "basename": "source-of-fault",
-      "path": "motor-fault/source-of-fault.md"
     }
   ],
   "omittedPaths": [],
