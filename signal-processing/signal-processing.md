@@ -13,22 +13,14 @@ tags: ['signal']
   - Signal filtering
 - Signal processing
   - [Signal Processing in the Time Domain](signal-processing-time.md)
-    - Correlation analysis
   - [Signal Processing in the Frequency Domain](signal-processing-frequency.md)
-    - Fourier Transform
   - [Signal Processing in the Time-Frequency Domain](signal-processing-time-frequency.md)
-    - STFT
-    - WVD
-    - HHT
-      - HT
-      - EMD
-      - EEMD
-    - WT
-      - WPT
+- Feature reduction
 
 Images:  
 ![](https://i.imgur.com/UylONmU.png)
 
 ## References
 
-- [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)
+- [leiIntelligentFaultDiagnosis2017](zotero://select/library/items/EDJ2QLHN) [link](https://www.elsevier.com/books/intelligent-fault-diagnosis-and-remaining-useful-life-prediction-of-rotating-machinery/lei/978-0-12-811534-3) [DOI](https://doi.org/)
+- [delgadoprietoContributionsElectromechanicalSystems2012](zotero://select/library/items/R77CWBLY) [link](https://upcommons.upc.edu/handle/2117/94712) [DOI](https://doi.org/)

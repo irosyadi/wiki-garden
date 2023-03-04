@@ -2,7 +2,7 @@
 aliases: [Stator Faults]
 title: Stator Faults
 date: 2022-12-23 07:42
-tags: ['tag1', 'tag2']
+tags: ['motor', 'fault']
 ---
 
 # Stator Faults

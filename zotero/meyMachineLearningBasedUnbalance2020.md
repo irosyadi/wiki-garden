@@ -37,4 +37,4 @@ Fault detection at rotating machinery with the help of vibration sensors offers 
 #### Annotations
 
 
-%% Import Date: 2023-01-04T12:25:44.249+07:00 %%
+%% Import Date: 2023-02-11T09:49:32.826+07:00 %%

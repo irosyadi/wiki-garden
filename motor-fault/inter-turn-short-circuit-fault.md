@@ -2,7 +2,7 @@
 aliases: [Inter-turn Short Circuit Fault]
 title: Inter-turn Short Circuit Fault
 date: 2022-12-23 08:26
-tags: ['tag1', 'tag2']
+tags: ['fault', 'motor']
 ---
 
 # Inter-turn Short Circuit Fault

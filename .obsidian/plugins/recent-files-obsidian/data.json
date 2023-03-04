@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "DT-modeling-data-driven",
-      "path": "dt-modeling/DT-modeling-data-driven.md"
+      "basename": "time-series-feature-library",
+      "path": "time-series/time-series-feature-library.md"
     },
     {
-      "basename": "signal-python-toolbox",
-      "path": "signal-processing/signal-python-toolbox.md"
+      "basename": "time-series-classification",
+      "path": "time-series/time-series-classification.md"
     },
     {
-      "basename": "summary",
-      "path": "summary.md"
+      "basename": "motor-phm-dataset-code",
+      "path": "dataset/motor-phm-dataset-code.md"
+    },
+    {
+      "basename": "research-Tanvir",
+      "path": "paper-book-review/research-Tanvir.md"
+    },
+    {
+      "basename": "correlation-monotonicity",
+      "path": "signal-processing/correlation-monotonicity.md"
+    },
+    {
+      "basename": "time-series-library",
+      "path": "time-series/time-series-library.md"
+    },
+    {
+      "basename": "HHT",
+      "path": "signal-processing/HHT.md"
+    },
+    {
+      "basename": "paper-plan-01",
+      "path": "paper-plan/paper-plan-01.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "digital-twin-canvas",
-      "path": "digital-twin-canvas.canvas"
+      "basename": "parameter-choosing",
+      "path": "paper-plan/parameter-choosing.md"
     },
     {
-      "basename": "vibration-data-processing",
-      "path": "signal-processing/vibration-data-processing.md"
+      "basename": "thesis-delgadoprieto",
+      "path": "paper-book-review/thesis-delgadoprieto.md"
     },
     {
-      "basename": "DT-modeling",
-      "path": "dt-modeling/DT-modeling.md"
+      "basename": "paper-Thelen",
+      "path": "paper-book-review/paper-Thelen.md"
     },
     {
-      "basename": "3d-virtual-model",
-      "path": "dt-modeling/3d-virtual-model.md"
+      "basename": "test",
+      "path": "~private/test.md"
     },
     {
-      "basename": "electric-motor-fault-component",
-      "path": "motor-fault/electric-motor-fault-component.md"
+      "basename": "research-plan-01",
+      "path": "research/research-plan-01.md"
+    },
+    {
+      "basename": "signal-processing-time",
+      "path": "signal-processing/signal-processing-time.md"
+    },
+    {
+      "basename": "phm-paper-with-code",
+      "path": "paper-book-review/phm-paper-with-code.md"
+    },
+    {
+      "basename": "data-fusion-motor",
+      "path": "data-fusion/data-fusion-motor.md"
+    },
+    {
+      "basename": "chengFusionMethodApplication2021",
+      "path": "zotero/chengFusionMethodApplication2021.md"
+    },
+    {
+      "basename": "meyConditionMonitoringDrive2021",
+      "path": "zotero/meyConditionMonitoringDrive2021.md"
+    },
+    {
+      "basename": "shifatANNAssistedMulti2021",
+      "path": "zotero/shifatANNAssistedMulti2021.md"
+    },
+    {
+      "basename": "data-fusion-methods",
+      "path": "data-fusion/data-fusion-methods.md"
+    },
+    {
+      "basename": "data-fusion",
+      "path": "data-fusion/data-fusion.md"
+    },
+    {
+      "basename": "3d-visualization",
+      "path": "3d/3d-visualization.md"
+    },
+    {
+      "basename": "data-visualization-DT",
+      "path": "digital-twin/data-visualization-DT.md"
+    },
+    {
+      "basename": "data-visualization-python",
+      "path": "python/data-visualization-python.md"
     },
     {
       "basename": "motor-fault-dataset",
-      "path": "motor-fault/motor-fault-dataset.md"
+      "path": "dataset/motor-fault-dataset.md"
     },
     {
-      "basename": "bldc-fault",
-      "path": "motor-fault/bldc-fault.md"
+      "basename": "dataset-search-repo",
+      "path": "dataset/dataset-search-repo.md"
     },
     {
-      "basename": "bearing-fault",
-      "path": "motor-fault/bearing-fault.md"
+      "basename": "how to build connections in Fleeting Notes",
+      "path": "~fleetingnotes/how to build connections in Fleeting Notes.md"
     },
     {
-      "basename": "numpy-howto",
-      "path": "python/numpy-howto.md"
+      "basename": "how to sync notes with Obsidian",
+      "path": "~fleetingnotes/how to sync notes with Obsidian.md"
     },
     {
-      "basename": "jupyter-howto",
-      "path": "python/jupyter-howto.md"
+      "basename": "what are backlinks",
+      "path": "~fleetingnotes/what are backlinks.md"
     },
     {
-      "basename": "colab-howto",
-      "path": "python/colab-howto.md"
+      "basename": "START HERE",
+      "path": "~fleetingnotes/START HERE.md"
     },
     {
-      "basename": "cloud-GPU",
-      "path": "python/cloud-GPU.md"
+      "basename": "Google problems",
+      "path": "~fleetingnotes/Google problems.md"
     },
     {
-      "basename": "motor-type-in-EV",
-      "path": "electric-vehicle/motor-type-in-EV.md"
+      "basename": "keyword-motor-fault-detection-github",
+      "path": "research/keyword-motor-fault-detection-github.md"
     },
     {
-      "basename": "awesome-time-series",
-      "path": "ML-in-PHM/awesome-time-series.md"
+      "basename": "2023-02-15",
+      "path": "note/2023-02-15.md"
     },
     {
-      "basename": "SOTA-time-series",
-      "path": "ML-in-PHM/SOTA-time-series.md"
+      "basename": "to-do",
+      "path": "note/to-do.md"
+    },
+    {
+      "basename": "2023-02-14",
+      "path": "note/2023-02-14.md"
+    },
+    {
+      "basename": "ml-cheat-sheet",
+      "path": "ML/ml-cheat-sheet.md"
     },
     {
       "basename": "time-series-github",
       "path": "ML-in-PHM/time-series-github.md"
     },
     {
-      "basename": "hardware-setup",
-      "path": "research/hardware-setup.md"
+      "basename": "ml-zoo",
+      "path": "ML/ml-zoo.md"
     },
     {
-      "basename": "digital-twin-distiller",
-      "path": "random/digital-twin-distiller.md"
+      "basename": "anomaly-vs-fault-detection",
+      "path": "ML-in-PHM/anomaly-vs-fault-detection.md"
+    },
+    {
+      "basename": "time-series-repository",
+      "path": "ML-in-PHM/time-series-repository.md"
+    },
+    {
+      "basename": "SOTA-time-series",
+      "path": "ML-in-PHM/SOTA-time-series.md"
+    },
+    {
+      "basename": "optimization-method",
+      "path": "ML-in-PHM/optimization-method.md"
+    },
+    {
+      "basename": "new-ML-algorithm",
+      "path": "ML-in-PHM/new-ML-algorithm.md"
+    },
+    {
+      "basename": "ML-in-PHM",
+      "path": "ML-in-PHM/ML-in-PHM.md"
+    },
+    {
+      "basename": "DT-platform",
+      "path": "ML-in-PHM/DT-platform.md"
     },
     {
       "basename": "critical-difference-diagram",
       "path": "ML-in-PHM/critical-difference-diagram.md"
     },
     {
-      "basename": "stator-fault",
-      "path": "motor-fault/stator-fault.md"
+      "basename": "classification-methods",
+      "path": "ML-in-PHM/classification-methods.md"
     },
     {
-      "basename": "inter-turn-short-circuit-fault",
-      "path": "motor-fault/inter-turn-short-circuit-fault.md"
+      "basename": "Bayes Rule",
+      "path": "ML-in-PHM/Bayes Rule.md"
     },
     {
-      "basename": "prognosis-health-management",
-      "path": "PHM/prognosis-health-management.md"
-    },
-    {
-      "basename": "PHM-processes",
-      "path": "PHM/PHM-processes.md"
-    },
-    {
-      "basename": "EV-maintenance",
-      "path": "PHM/EV-maintenance.md"
-    },
-    {
-      "basename": "fault-in-BLDC-motor",
-      "path": "PHM/fault-in-BLDC-motor.md"
-    },
-    {
-      "basename": "PHM-in-BLDC-setup",
-      "path": "PHM/PHM-in-BLDC-setup.md"
-    },
-    {
-      "basename": "PHM-health-management-strategies",
-      "path": "PHM/PHM-health-management-strategies.md"
-    },
-    {
-      "basename": "PHM with Digital Twin",
-      "path": "PHM/PHM with Digital Twin.md"
-    },
-    {
-      "basename": "PHM Methods",
-      "path": "PHM/PHM Methods.md"
-    },
-    {
-      "basename": "challenge-motor-phm",
-      "path": "PHM/challenge-motor-phm.md"
-    },
-    {
-      "basename": "python-statistics",
-      "path": "python/python-statistics.md"
-    },
-    {
-      "basename": "leiIntelligentFaultDiagnosis2017",
-      "path": "zotero/leiIntelligentFaultDiagnosis2017.md"
-    },
-    {
-      "basename": "book-Lei",
-      "path": "paper-book-review/book-Lei.md"
-    },
-    {
-      "basename": "book-Cardoso",
-      "path": "paper-book-review/book-Cardoso.md"
-    },
-    {
-      "basename": "book-Benbouzid",
-      "path": "paper-book-review/book-Benbouzid.md"
-    },
-    {
-      "basename": "benbouzidSignalProcessingFault2020",
-      "path": "zotero/benbouzidSignalProcessingFault2020.md"
-    },
-    {
-      "basename": "paper-cited",
-      "path": "paper-book-review/paper-cited.md"
-    },
-    {
-      "basename": "book-Pecht",
-      "path": "paper-book-review/book-Pecht.md"
-    },
-    {
-      "basename": "book-Niu",
-      "path": "paper-book-review/book-Niu.md"
-    },
-    {
-      "basename": "scipy-howto",
-      "path": "python/scipy-howto.md"
-    },
-    {
-      "basename": "latex-howto",
-      "path": "python/latex-howto.md"
-    },
-    {
-      "basename": "python-to-jupyter",
-      "path": "python/python-to-jupyter.md"
-    },
-    {
-      "basename": "PHM-with-code",
-      "path": "python/PHM-with-code.md"
-    },
-    {
-      "basename": "colab-alternatives",
-      "path": "python/colab-alternatives.md"
-    },
-    {
-      "basename": "rotor-fault",
-      "path": "motor-fault/rotor-fault.md"
-    },
-    {
-      "basename": "HHT",
-      "path": "signal-processing/HHT.md"
+      "basename": "awesome-time-series",
+      "path": "ML-in-PHM/awesome-time-series.md"
     }
   ],
   "omittedPaths": [],

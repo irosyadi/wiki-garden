@@ -22,11 +22,7 @@ New techniques such as (Lee et al., 2020):
 - transient analysis,
 - intelligent algorithms, and fault prognostics for improving the reliability of condition monitoring and for providing a clear course of action for maintenance
 
-Bibliography:  
-Falekas, G., & Karlis, A. (2021). Digital twin in electrical machine control and predictive maintenance: State-of-the-art and future prospects. _Energies_, _14_(18). [https://doi.org/10.3390/en14185933](https://doi.org/10.3390/en14185933)  
-Lee, S. B., Stone, G. C., Antonino-Daviu, J., Gyftakis, K. N., Strangas, E. G., Maussion, P., & Platero, C. A. (2020). Condition Monitoring of Industrial Electric Machines. _IEEE Industrial Electronics Magazine_, _14_(4), 158–167. [https://doi.org/10.1109/MIE.2020.3016138](https://doi.org/10.1109/MIE.2020.3016138)
-
 ## References:
 
-- [falekasDigitalTwinElectrical2021](../zotero/falekasDigitalTwinElectrical2021.md)
-- [leeConditionMonitoringIndustrial2020](../zotero/leeConditionMonitoringIndustrial2020.md)
+- [falekasDigitalTwinElectrical2021](zotero://select/library/items/S8ZD9NAZ) [link]() [DOI](https://doi.org/10/gp897r)
+- [leeConditionMonitoringIndustrial2020](zotero://select/library/items/HJZDX8MW) [link](https://ieeexplore.ieee.org/document/9299395/) [DOI](https://doi.org/10/ghqf8z)

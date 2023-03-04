@@ -1,8 +1,11 @@
 ---
-title: bldc-fault
+aliases: [BLDC Motor Faults]
+title: BLDC Motor Faults
+date: 2023-02-13 05:55
+tags: ['motor', 'fault']
 ---
 
-# bldc-fault
+# BLDC Motor Faults
 
 ## BLDC Fault
 
@@ -30,20 +33,16 @@ mechanical faults include eccentricity and bearing faults.
 They are due to a degradation process in the bearings, destruction of the bearing cage, balls and rollers, and rotor shaft deformation, among others.  
 This kind of fault may result in increased friction for the brushless dc motor.
 
-
-
-Turn to turn (ITF) in BLDC
+Turn to turn (ITF) in BLDC  
 ![](https://d3i71xaburhd42.cloudfront.net/63b33db02fcbda13f01f2ddb0cf500740a476503/1-Figure1-1.png)
 
 ![](https://d3i71xaburhd42.cloudfront.net/3f329ed574acd339b7bf9bb89b4f83bc6a947327/1-Figure1-1.png)
 
-
-
 Researched BLDC faults
+
 - rotor fault
 
-
-
 Techniques
+
 - rotor fault
   - unbalanced disk

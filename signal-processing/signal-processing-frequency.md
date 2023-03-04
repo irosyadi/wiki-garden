@@ -19,8 +19,22 @@ tags: ['signal']
   - Maximum to minimum drop in Power Density Ratio
   - Signal to Noise Ratio
   - Signal to Motion Artifact Ratio
+  - Frequency-power density mean
+  - Frequency standard deviation
+  - Mean frequency
+  - Frequency skewness
   - p1, mean frequency
   - p2 - p4
+
+## Advantages
+
+- Powerful analysis and accepted standard for fault detection on steady state
+- A great deal of studies supports its application
+- Low computational cost
+
+## Weakness
+
+- Limited to static signals (stationary condition)
 
 ## References
 

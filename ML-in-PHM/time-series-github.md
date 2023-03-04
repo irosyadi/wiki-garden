@@ -21,3 +21,4 @@ tags: ['tag1', 'tag2']
 - [cure-lab/Awesome-time-series: A comprehensive survey on the time series domains](https://github.com/cure-lab/Awesome-time-series)
 - [zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction)
 - [fengyang95/Awesome-Deep-Learning-Based-Time-Series-Forecasting](https://github.com/fengyang95/Awesome-Deep-Learning-Based-Time-Series-Forecasting)
+- [qingsongedu/time-series-transformers-review: A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.](https://github.com/qingsongedu/time-series-transformers-review)

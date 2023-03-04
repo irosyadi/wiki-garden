@@ -6,9 +6,10 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "APA 7th",
-      "format": "formatted-citation",
-      "cslStyle": "apa"
+      "name": "citekeyURI",
+      "format": "template",
+      "cslStyle": "apa",
+      "template": "[{{citekey}}]({{desktopURI}}) [link]({{url}}) [DOI](https://doi.org/{{DOI}})"
     }
   ],
   "exportFormats": [

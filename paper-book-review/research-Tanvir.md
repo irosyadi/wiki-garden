@@ -84,7 +84,8 @@ EEMD assisted supervised learning for the fault diagnosis of BLDC motor using vi
 
 ![](https://i.imgur.com/18vU7Gh.png)
 
-ANN Assisted Multi Sensor Information Fusion for BLDC Motor Fault Diagnosis (2021)
+ANN Assisted Multi Sensor Information Fusion for BLDC Motor Fault Diagnosis (2021)  
+[shifatANNAssistedMulti2021](zotero://select/library/items/MZ3X944B) [link]() [DOI](https://doi.org/10/gqk2h8)
 
 - Robust fault diagnosis framework based on multi-sensor data fusion that will detect and classify BLDC motor faults at the incipient stage.
 - Main aim of this paper is early fault detection of BLDC motor for both mechanical and electrical faults at the same time.
@@ -105,7 +106,8 @@ ANN Assisted Multi Sensor Information Fusion for BLDC Motor Fault Diagnosis (202
 
 ![](https://i.imgur.com/3wV9lMT.png)
 
-A Data Driven RUL Estimation Framework of Electric Motor Using Deep Electrical Feature Learning from Current Harmonics and Apparent Power (2021)
+A Data Driven RUL Estimation Framework of Electric Motor Using Deep Electrical Feature Learning from Current Harmonics and Apparent Power (2021)  
+[shifatDataDrivenRul2021](../zotero/shifatDataDrivenRul2021.md)
 
 - Sensor data: phase currents (IA, IB, IC) and output apparent power (Q) of a coupled generator.
 - Purpose: RUL Estimation
@@ -113,6 +115,11 @@ A Data Driven RUL Estimation Framework of Electric Motor Using Deep Electrical F
 - Algorithm: A biLSTM neural network model with attention layer
 
 ![](https://i.imgur.com/Gp9ZkLP.png)
+
+Detection Technique for Stator Inter-Turn Faults in BLDC Motors Based on Third-Harmonic Components of Line Currents  
+[leeDetectionTechniqueStator2016](../zotero/leeDetectionTechniqueStator2016.md)
+
+- Third harmonics indicate a fault in BLDC motor
 
 Other notes:
 

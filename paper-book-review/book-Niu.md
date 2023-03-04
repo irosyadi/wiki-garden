@@ -58,11 +58,15 @@ The open system architecture for condition-based maintenance organization (OSA-C
 4.2.6 Frequency Span  
 4.2.7 Data Display  
 4.3 Data Processing  
+[Signal Processing](../signal-processing/signal-processing.md)  
 4.4 Data Analysis  
 4.4.1 Features in Time Domain  
+[Signal Processing in the Time Domain](../signal-processing/signal-processing-time.md)  
 4.4.2 Features in Frequency Domain  
+[Signal Processing in the Frequency Domain](../signal-processing/signal-processing-frequency.md)  
 4.4.3 Features in Time–Frequency Domain  
 5 Statistic Feature Extraction  
+[Feature Reduction](../signal-processing/feature-reduction.md)  
 5.1 Introduction  
 5.2 Basic Concepts  
 5.2.1 Pattern and Feature Vector  

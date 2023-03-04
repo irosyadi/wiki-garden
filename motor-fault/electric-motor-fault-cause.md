@@ -1,11 +1,11 @@
 ---
-aliases: [Electric Motor Fault Causes]
-title: Electric Motor Fault Causes
+aliases: [Electric Motor Fault by Causes]
+title: Electric Motor Fault by Causes
 date: 2022-10-02 10:15
-tags: ['fault', 'electric-motor']
+tags: ['fault', 'motor']
 ---
 
-# Electric Motor Fault Causes
+# Electric Motor Fault by Causes
 
 ## Internal Causes
 
@@ -83,6 +83,7 @@ tags: ['fault', 'electric-motor']
 ![comparison survey](https://www.degruyter.com/document/doi/10.1515/ijeeps-2020-0161/asset/graphic/j_ijeeps-2020-0161_fig_001.jpg)
 
 [bldc-fault](bldc-fault.md)
+
 ## Classification
 
 - Mechanical Faults (50% of BLDC failures)

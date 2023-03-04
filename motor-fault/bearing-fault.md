@@ -2,7 +2,7 @@
 aliases: [Bearing Faults]
 title: Bearing Faults
 date: 2022-12-23 07:36
-tags: ['tag1', 'tag2']
+tags: ['fault', 'motor']
 ---
 
 # Bearing Faults

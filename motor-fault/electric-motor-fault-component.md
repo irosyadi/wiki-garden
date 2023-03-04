@@ -1,11 +1,27 @@
 ---
-aliases: [Electric Motor Fault by Components]
-title: electric-motor-fault-component
+aliases: [Electric Motor Fault by Component]
+title: Electric Motor Fault by Component
 date: 2022-08-31 09:35:09
 tags: ['fault', 'motor']
 ---
 
-# electric-motor-fault-component
+# Electric Motor Fault by Component
+
+## Mechanical Component
+
+- Motor
+  - Air gap: [Eccentricity](eccentricity.md)
+  - Bearings: general degradation, local defect (BOR, BIR, BBF, BCF)
+- Gearbox
+  - Gearwheel: tooth
+- Other components: jamming, load, coupling
+
+## Electrical Component
+
+- Motor
+  - [Rotor Faults](rotor-fault.md)
+  - [Stator Faults](stator-fault.md)
+- Other components : inverter
 
 ## Electric Motor Fault by Components
 

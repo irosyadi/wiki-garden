@@ -2,7 +2,7 @@
 aliases: [Rotor Faults]
 title: Rotor Faults
 date: 2022-12-23 07:44
-tags: ['tag1', 'tag2']
+tags: ['motor', 'fault']
 ---
 
 # Rotor Faults

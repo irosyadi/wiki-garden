@@ -1,6 +1,6 @@
 ---
-aliases: ['Development of Digital Twin-based Prognosis and Health Management (PHM) for Electrical Motor in Electric Vehicle ', Thesis Structure]
-title: 'Development of Digital Twin-based Prognosis and Health Management (PHM) for Electrical Motor in Electric Vehicle '
+aliases: [Development of Digital Twin-based Prognosis and Health Management (PHM) for Electrical Motor in Electric Vehicle, 'Development of Digital Twin-based Prognosis and Health Management (PHM) for Electrical Motor in Electric Vehicle ', Thesis Structure]
+title: Development of Digital Twin-based Prognosis and Health Management (PHM) for Electrical Motor in Electric Vehicle
 date: 2022-09-27 19:42
 tags: ['thesis']
 ---
@@ -49,6 +49,8 @@ tags: ['thesis']
 - [PHM Processes](../PHM/PHM-processes.md)
 
 ## 3.2. Fault in Electric Motor
+
+- [Electric Motor](../electric-motor/electric-motor.md)
 
 ## 3.3. PHM in Electric Motor
 

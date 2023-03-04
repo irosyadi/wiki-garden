@@ -2,7 +2,7 @@
 aliases: [Demagnetization]
 title: Demagnetization
 date: 2022-12-23 07:46
-tags: ['tag1', 'tag2']
+tags: ['motor', 'fault']
 ---
 
 # Demagnetization

@@ -1,5 +1,5 @@
 ---
-aliases: [Data Reduction Techniques, template, templates]
+aliases: [Data Reduction Techniques]
 title: Data Reduction Techniques
 date: 2022-10-16 15:42
 tags: ['tag1', 'tag2']

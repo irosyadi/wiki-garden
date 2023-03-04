@@ -2,7 +2,7 @@
 aliases: [Eccentricity]
 title: Eccentricity
 date: 2022-12-23 07:39
-tags: ['tag1', 'tag2']
+tags: ['motor', 'fault']
 ---
 
 # Eccentricity
