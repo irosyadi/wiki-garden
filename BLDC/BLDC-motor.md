@@ -1,6 +1,5 @@
 ---
 aliases: [BLDC Motor]
-title: BLDC-motor
 date: 2022-07-23 12:45
 tags: ['motor', 'BLDC']
 ---

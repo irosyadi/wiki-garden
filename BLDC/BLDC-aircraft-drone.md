@@ -1,6 +1,5 @@
 ---
 aliases: [BLDC for Aircraft and Drone]
-title: BLDC for Aircraft and Drone
 date: 2022-08-31 07:50:05
 tags: ['BLDC']
 ---

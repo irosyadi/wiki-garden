@@ -1,8 +1,7 @@
 ---
 aliases: []
-title: "Title"
 date: 2022-10-18 13:37
-tags: ['tag1', 'tag2']
+tags: ['arduino']
 ---
 
 # Arduino Sampling Rate

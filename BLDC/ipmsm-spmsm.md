@@ -1,8 +1,7 @@
 ---
 aliases: []
-title: "Title"
 date: 2022-12-24 09:09
-tags: ['tag1', 'tag2']
+tags: ['motor']
 ---
 
 # IPMSM vs SPMSM

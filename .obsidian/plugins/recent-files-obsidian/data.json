@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "experimental-heading-2",
-      "path": "random/experimental-heading-2.md"
+      "basename": "time-series-feature-library",
+      "path": "time-series/time-series-feature-library.md"
     },
     {
       "basename": "experimental-heading-1",
       "path": "random/experimental-heading-1.md"
     },
     {
-      "basename": "time-series-feature-library",
-      "path": "time-series/time-series-feature-library.md"
+      "basename": "I2C-address-conflict",
+      "path": "arduino/I2C-address-conflict.md"
+    },
+    {
+      "basename": "arduino-sampling-rate",
+      "path": "arduino/arduino-sampling-rate.md"
+    },
+    {
+      "basename": "arduino-resource",
+      "path": "arduino/arduino-resource.md"
+    },
+    {
+      "basename": "ZoteroTemplates",
+      "path": "Templates/Zotero/ZoteroTemplates.md"
+    },
+    {
+      "basename": "WikiGardenTemplates",
+      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
+    },
+    {
+      "basename": "BLDC-EV-system",
+      "path": "BLDC/BLDC-EV-system.md"
+    },
+    {
+      "basename": "BLDC-motor",
+      "path": "BLDC/BLDC-motor.md"
+    },
+    {
+      "basename": "BLDC-aircraft-drone",
+      "path": "BLDC/BLDC-aircraft-drone.md"
+    },
+    {
+      "basename": "ipmsm-spmsm",
+      "path": "BLDC/ipmsm-spmsm.md"
+    },
+    {
+      "basename": "3d-visualization",
+      "path": "3d/3d-visualization.md"
+    },
+    {
+      "basename": "experimental-heading-2",
+      "path": "random/experimental-heading-2.md"
     },
     {
       "basename": "time-series-classification",
@@ -97,10 +137,6 @@
       "path": "data-fusion/data-fusion.md"
     },
     {
-      "basename": "3d-visualization",
-      "path": "3d/3d-visualization.md"
-    },
-    {
       "basename": "data-visualization-DT",
       "path": "digital-twin/data-visualization-DT.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "ml-zoo",
       "path": "ML/ml-zoo.md"
-    },
-    {
-      "basename": "anomaly-vs-fault-detection",
-      "path": "ML-in-PHM/anomaly-vs-fault-detection.md"
-    },
-    {
-      "basename": "time-series-repository",
-      "path": "ML-in-PHM/time-series-repository.md"
-    },
-    {
-      "basename": "SOTA-time-series",
-      "path": "ML-in-PHM/SOTA-time-series.md"
-    },
-    {
-      "basename": "optimization-method",
-      "path": "ML-in-PHM/optimization-method.md"
-    },
-    {
-      "basename": "new-ML-algorithm",
-      "path": "ML-in-PHM/new-ML-algorithm.md"
-    },
-    {
-      "basename": "ML-in-PHM",
-      "path": "ML-in-PHM/ML-in-PHM.md"
-    },
-    {
-      "basename": "DT-platform",
-      "path": "ML-in-PHM/DT-platform.md"
-    },
-    {
-      "basename": "critical-difference-diagram",
-      "path": "ML-in-PHM/critical-difference-diagram.md"
-    },
-    {
-      "basename": "classification-methods",
-      "path": "ML-in-PHM/classification-methods.md"
     }
   ],
   "omittedPaths": [],

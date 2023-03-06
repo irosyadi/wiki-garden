@@ -1,6 +1,5 @@
 ---
 aliases: [BLDC in EV System]
-title: BLDC in EV System
 date: 2022-07-23 12:22
 tags: ['BLDC', 'electric-vehicle']
 ---
