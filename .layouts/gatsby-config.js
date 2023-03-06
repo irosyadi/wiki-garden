@@ -4,7 +4,7 @@ const siteMetadata = {
   title: "irosyadi-wiki",
   shortName: "iwiki",
   description:
-    "My Obsidian-based wiki",
+    "A Digital Twin Wiki",
   twitterName: "irosyadi",
   imageUrl: "/graph-visualisation.jpg",
   siteUrl: "https://irosyadi-wiki.netlify.app",
@@ -28,25 +28,37 @@ module.exports = {
       resolve: "gatsby-theme-primer-wiki",
       options: {
         icon: "./static/logo.png",
-        sidebarDepth: 2,
-        sidebarComponents: ["summary", "tag", "category"],
-        //sidebarDefault: "auto",
-        contentMaxWidth: 1300,
+        
+		//sidebar-config
+		sidebarDepth: 0,
+        sidebarComponents: ["summary", "tag", "category"],  //"latest"
+        //sidebarDefault: "auto", //"auto", "tag"
+        
+		
+		contentMaxWidth: 1300,
         imageMaxWidth: 400,
-        searchBody: true,
-        shouldShowTagGroupsOnIndex: false,
+        
+		searchBody: true,
+		
+		//tags-config
+		//tagText: "Tags",
+        shouldShowTagGroupsOnIndex: true,
+		//shouldSupportTags: true,
+		 
+		//latest-config
+		//latestUpdatedText: "Recently Updated",
         //shouldShowLatestOnIndex: true,
-        //shouldSupportTags: true,
         //shouldShowLastUpdated: true,
         //shouldSupportLatest: true,
         //defaultIndexLatestPostCount: 10,
-        //editUrlText: "Edit this page",
-        //latestUpdatedText: "Recently Updated",
-        //tagText: "Tags",
-        //categoryText: "Categories",
+		
+		//summary-config
         summaryDepth: 2,
         summary1DepthIndent: true,
-        defaultColorMode: "auto",
+       	                   
+        //categoryText: "Categories",
+				
+		defaultColorMode: "auto", //"auto", "night"
         nav: [
           {
             title: "Latest",
@@ -57,7 +69,10 @@ module.exports = {
             url: "https://github.com/irosyadi/wiki-garden/",
           },
         ],
-        editUrl:
+        
+		//editurl-config
+		//editUrlText: "Edit this page",
+		editUrl:
           "https://github.com/irosyadi/wiki-garden/blob/main/",
       },
     },
@@ -92,3 +107,5 @@ module.exports = {
     },
   ],
 };
+
+// reference: https://github.com/theowenyoung/gatsby-theme-primer-wiki
