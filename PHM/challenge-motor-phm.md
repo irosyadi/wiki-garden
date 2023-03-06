@@ -5,7 +5,7 @@ date: 2022-07-24 12:50
 tags: ['PHM', 'motor']
 ---
 
-# Challenge of PHM in Motor
+## Challenge of PHM in Motor
 
 Challenge on PHM (Falekas and Karlis 2021)
 

@@ -5,7 +5,7 @@ date: 2022-10-16 15:46
 tags: ['tag1', 'tag2']
 ---
 
-# Surrogate Model
+## Surrogate Model
 
 Where the problem cannot easily be reduced to a sub-model, a high accuracy physics-based model can be used to generate a set of reliable results within the known operating parameter envelope of the physical object, and a surrogate model or metamodel can be constructed based on those results.  
 A surrogate model is a simplified model, typically data-driven rather than physics-based, that runs more quickly than a full physics-based model and so can be used to generate updated parameter estimates and associated uncertainties more quickly.  
@@ -19,6 +19,6 @@ One technique for surrogate model development that has been successful across a 
   - This approach is quite general, provided the model is broadly continuous, and a variety of correlation functions have been developed for different purposes.
   - Another advantage is that when the surrogate model is evaluated at a set of input values where the full model result is unknown, it returns both an estimate of the model result for those values and an estimate of the error associated with that estimate. The error estimate means that it is easy to identify regions of the input space where knowing the model result would add most benefit by reducing error the most, so the surrogate model can be developed iteratively.
 
-## References
+### References
 
 - [wrightHowTellDifference2020](zotero/wrightHowTellDifference2020.md)

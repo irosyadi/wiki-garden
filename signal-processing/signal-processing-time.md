@@ -5,7 +5,7 @@ date: 2022-09-28 08:19
 tags: ['signal']
 ---
 
-# Signal Processing in the Time Domain
+## Signal Processing in the Time Domain
 
 - Correlation Analysis
   - Autocorrelation: similarity a variable with its past, for finding repeating patterns
@@ -40,17 +40,17 @@ tags: ['signal']
   - Integral
   - Convolution
 
+### Advantages
 
-## Advantages
-- Simple implementation 
+- Simple implementation
 - Low computational cost
 - General trend information
 
-## Weakness
+### Weakness
+
 - Limited dynamic information
 
-
-## References
+### References
 
 - [leiIntelligentFaultDiagnosis2017](zotero://select/library/items/EDJ2QLHN) [link](https://www.elsevier.com/books/intelligent-fault-diagnosis-and-remaining-useful-life-prediction-of-rotating-machinery/lei/978-0-12-811534-3) [DOI](https://doi.org/)
 - [delgadoprietoContributionsElectromechanicalSystems2012](zotero://select/library/items/R77CWBLY) [link](https://upcommons.upc.edu/handle/2117/94712) [DOI](https://doi.org/)

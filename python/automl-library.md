@@ -5,7 +5,7 @@ date: 2023-02-13 16:57
 tags: ['tag1', 'tag2']
 ---
 
-# AutoML Library
+## AutoML Library
 
 - [auto-sklearn](https://automl.github.io/auto-sklearn/master/)
 - [AutoGluon](https://auto.gluon.ai/dev/index.html)
@@ -16,4 +16,4 @@ tags: ['tag1', 'tag2']
 - [Data Robot](https://www.datarobot.com/)
 - [Auto WEKA](https://www.cs.ubc.ca/labs/algorithms/Projects/autoweka/)
 
-## References
+### References

@@ -5,9 +5,9 @@ date: 2022-12-23 08:26
 tags: ['fault', 'motor']
 ---
 
-# Inter-turn Short Circuit Fault
+## Inter-turn Short Circuit Fault
 
-## Detection
+### Detection
 
 - stator current (motor phase currents)
   - explanation: stator current harmonic, sudden boost in current
@@ -27,10 +27,10 @@ tags: ['fault', 'motor']
 - torque ripple
 - instantaneous power
 
-## Fault Detection Diagram
+### Fault Detection Diagram
 
 ![alttext](https://i.vgy.me/JOAH1Y.png)
 
-## References
+### References
 
 - [ullahComprehensiveReviewWinding2018](zotero/ullahComprehensiveReviewWinding2018.md)

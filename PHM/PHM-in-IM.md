@@ -5,7 +5,7 @@ date: 2022-07-23 22:49
 tags: ['PHM', 'motor', 'induction-motor']
 ---
 
-# PHM in Induction Motor
+## PHM in Induction Motor
 
 Traditional IM fault diagnostic method (by human): smell, temperature increase, excessive vibration, and increased acoustic noise level.  
 Problem: These physical symptoms are prone to being contaminated with noise from other sources.

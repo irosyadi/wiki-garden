@@ -5,14 +5,14 @@ date: 2022-12-14 20:29
 tags: ['tag1', 'tag2']
 ---
 
-# Machine Learning in PHM
+## Machine Learning in PHM
 
-## Unsupervised
+### Unsupervised
 
 - K-means
 - Neural Network
 
-## Classification Supervised
+### Classification Supervised
 
 - Support vector machine (SVM),
 - k-Nearest Neighbors (kNN),
@@ -21,7 +21,7 @@ tags: ['tag1', 'tag2']
 - Decision Tree (DT)
 - SVM
 
-## Regression Supervised
+### Regression Supervised
 
 - ANN
 - Random forest
@@ -29,12 +29,12 @@ tags: ['tag1', 'tag2']
 - Support Vector Machines
 - Linear Regression
 
-##  Deep Learning
+### Deep Learning
 
 - DBN
 - CNN
 - RNN
 
-## References
+### References
 
 - [pechtPrognosticsHealthManagement2018](../zotero/pechtPrognosticsHealthManagement2018.md) Chapter 4

@@ -5,7 +5,7 @@ date: 2022-09-28 08:23
 tags: ['signal']
 ---
 
-# Signal Processing in the Frequency Domain
+## Signal Processing in the Frequency Domain
 
 - Fourier Transform
   - Fourier Series
@@ -26,17 +26,17 @@ tags: ['signal']
   - p1, mean frequency
   - p2 - p4
 
-## Advantages
+### Advantages
 
 - Powerful analysis and accepted standard for fault detection on steady state
 - A great deal of studies supports its application
 - Low computational cost
 
-## Weakness
+### Weakness
 
 - Limited to static signals (stationary condition)
 
-## References
+### References
 
 - [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)
 - [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)

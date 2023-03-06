@@ -5,7 +5,7 @@ date: 2023-02-23 11:46
 tags: ['tag1', 'tag2']
 ---
 
-# Research Plan 01
+## Research Plan 01
 
 [FaultDiagnosisRotating](zotero://select/library/items/PPLZRAPK) [link](https://www.hindawi.com/journals/sv/2017/3084197/) [DOI](https://doi.org/)
 
@@ -26,4 +26,4 @@ tags: ['tag1', 'tag2']
 Use tsfresh to automatically compute time-series feature  
 Learn HHT [irosyadi/hilbert-huang-transform](https://github.com/irosyadi/hilbert-huang-transform)
 
-## References
+### References

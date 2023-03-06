@@ -5,18 +5,18 @@ date: 2022-12-29 08:13
 tags: ['tag1', 'tag2']
 ---
 
-# Battery Equivalent Circuit
+## Battery Equivalent Circuit
 
 - PNGV
 - GNL
 
-## Battery Modeling
+### Battery Modeling
 
 - ECM Equivalent Circuit Model
 - Physics Electrochemical
 - DDM Data driven model
 
-## SoC Estimation
+### SoC Estimation
 
 - Direct Calculation
   - Look up Table
@@ -50,7 +50,7 @@ tags: ['tag1', 'tag2']
   - GA
   - SVR
 
-## SoH Estimation
+### SoH Estimation
 
 - Direct measurement
   - Discharge test
@@ -76,12 +76,12 @@ tags: ['tag1', 'tag2']
   - ANN
   - Particle Swarm Optimization
 
-## Battery Estimation Variable
+### Battery Estimation Variable
 
 - State of Charge (SoC)
 - State of Health (SoH)
 
-## Battery Management System
+### Battery Management System
 
 - monitoring of voltage, current, and temperature
 - battery performance optimization
@@ -91,4 +91,4 @@ tags: ['tag1', 'tag2']
 - lifetime prognostics
 - evaluation and optimization
 
-## References
+### References

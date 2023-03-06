@@ -5,7 +5,7 @@ date: 2023-02-23 09:37
 tags: ['tag1', 'tag2']
 ---
 
-# Correlation Monotonicity
+## Correlation Monotonicity
 
 The main task of feature selection is to discard irrelevant and redundant features which do not provide sufficient fault signatures. It means that a good prognostic feature should be monotonically correlated with degradation process. Based on these principles, here, the correlation and monotonicity metrics are utilized to select the most sensitive features from the feature set.
 
@@ -25,4 +25,4 @@ $$
 
 where $dF$ is the differential of feature series, and $T$ is the length of the samples during the lifetime. 1. Mon =1 means that the feature is totally monotonic, otherwise it is oscillating. It can be seen that these two metrics of features are confined in the range \[0, 1\] and they are positively correlated with the performance of the candidate features, which makes them suitable as the feature selection metrics.
 
-## References
+### References

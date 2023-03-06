@@ -5,7 +5,7 @@ date: 2022-08-31 11:06:32
 tags: ['sensor', 'torque']
 ---
 
-# Torque Sensor Dynamometer
+## Torque Sensor Dynamometer
 
 * [How to Choose FPV Drone Motors - Oscar Liang](https://oscarliang.com/quadcopter-motor-propeller/#:~:text=There%20are%20two%20types%20of,micro%20drones%20and%20toy%20drones.)
 * [dynamometer arduino - Penelusuran Google](https://www.google.com/search?q=dynamometer+arduino&ei=ktgOY-iKMubE3LUPhI-MCA&start=30&sa=N&ved=2ahUKEwjom5nBlPD5AhVmIrcAHYQHAwE4FBDy0wN6BAgBEEk&biw=1536&bih=758&dpr=1.25)

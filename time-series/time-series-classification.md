@@ -5,9 +5,9 @@ date: 2023-02-09 21:03
 tags: ['tag1', 'tag2']
 ---
 
-# Time Series Classification
+## Time Series Classification
 
-## Algorithms
+### Algorithms
 
 - Feature Engineering
 - Nearest-neighbor classification with dynamic time warping (DTW)
@@ -48,7 +48,7 @@ tags: ['tag1', 'tag2']
   - Collective of Transformation-Based Ensembles (COTE), Flat-COTE, HIVE-COTE
   - Time Series Combination of Heterogeneous and Integrated Embedding Forest (TS-CHIEF)
 
-## Deep Learning based Algorithms
+### Deep Learning based Algorithms
 
 - Generative Models: unsupervised training step that precedes the learning phase of the classifier, the goal is to find a good representation of time series prior to training a classifier
   - Auto Encoders: stacked denoising auto-encoders (SDAE), generative CNN-based, DBN, RNN auto encoder + classifier
@@ -64,7 +64,7 @@ tags: ['tag1', 'tag2']
     - Residual Network: Resnet
     - Hybrid
 
-## References
+### References
 
 - [faouziTimeSeriesClassification2022](../zotero/faouziTimeSeriesClassification2022.md)
 - [ismailfawazDeepLearningTime2019](../zotero/ismailfawazDeepLearningTime2019.md) [hfawaz/dl-4-tsc: Deep Learning for Time Series Classification](https://github.com/hfawaz/dl-4-tsc)

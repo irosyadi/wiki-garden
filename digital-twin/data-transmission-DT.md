@@ -5,7 +5,7 @@ date: 2022-07-28 16:08
 tags: ['data', 'digital-twin']
 ---
 
-# Data Transmission in Digital Twin
+## Data Transmission in Digital Twin
 
 Data transmission in Digital Twin:
 

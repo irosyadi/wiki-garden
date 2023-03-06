@@ -5,7 +5,7 @@ date: 2023-02-14 09:54
 tags: ['tag1', 'tag2']
 ---
 
-# Anomaly vs Fault Detection
+## Anomaly vs Fault Detection
 
 Fault detection is not anomaly detection. It’s based on a model of system. Anomaly detection just tells you what’s unusual, not what’s bad.
 
@@ -25,4 +25,4 @@ Instead, anomaly detection is typically a one-class classification problem, wher
 
 Some anomaly detection methods may use a two-class classification approach, where the goal is to classify data into either normal or anomalous classes. However, this is usually done in cases where labeled data is available for both normal and anomalous behavior, and the focus is on building a classifier that can accurately classify new data as either normal or anomalous.
 
-## References
+### References

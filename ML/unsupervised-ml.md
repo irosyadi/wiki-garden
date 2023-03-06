@@ -5,11 +5,11 @@ date: 2023-02-12 08:40
 tags: ['tag1', 'tag2']
 ---
 
-# Unsupervised Machine Learning
+## Unsupervised Machine Learning
 
 - No labeling task
 
-## Tasks
+### Tasks
 
 - dimensionality reduction, reducing the number of input features in a dataset
 - anomaly detection, detecting instances that are very different from the norm, also used for data cleaning
@@ -17,7 +17,7 @@ tags: ['tag1', 'tag2']
 - density estimation, estimating the density of the distribution (PDF) of data points
 - association rule learning, to detect unobvious relationships between variables in a dataset
 
-## Algorithm
+### Algorithm
 
 - Dimensionality reduction
   - Principle Component Analysis: Incremental PCA, Randomized PCA, Kernel PCA
@@ -46,4 +46,4 @@ tags: ['tag1', 'tag2']
   - Eclat
   - FP-Growth
 
-## References
+### References

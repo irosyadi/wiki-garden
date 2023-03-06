@@ -4,7 +4,7 @@ date: 2022-07-23 12:22
 tags: ['BLDC', 'electric-vehicle']
 ---
 
-# BLDC in EV System
+## BLDC in EV System
 
 ![](https://www.mdpi.com/energies/energies-10-01875/article_deploy/html/images/energies-10-01875-g003-550.jpg)
 

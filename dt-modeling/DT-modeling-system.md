@@ -5,16 +5,16 @@ date: 2022-10-31 10:02
 tags: ['tag1', 'tag2']
 ---
 
-# System Modeling in Digital Twin
+## System Modeling in Digital Twin
 
-## According to [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)
+### According to [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)
 
-### System Modeling
+#### System Modeling
 
   - Unified Modeling Language (UML) and Systems Modeling Language (SysML). Models: Structure diagram (system hierarchies), behavior diagram (state machine)
   - Ontology
 
-## According to [qiEnablingTechnologiesTools2021](qiEnablingTechnologiesTools2021.md):
+### According to [qiEnablingTechnologiesTools2021](qiEnablingTechnologiesTools2021.md):
 
 - Behavioral model describes various behaviors of a physical entity to fulfill functions, respond to changes, interact with others, adjust internal operations, maintain health, etc. These models can be developed based on finite state machines, Markov chains, and ontology-based modeling methods, etc.
 - State modeling includes state diagram and activity diagram. Dynamics modeling deals with rigid body motion, elastic system motion, high-speed rotating body motion, and fluid motion.

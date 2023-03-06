@@ -5,9 +5,9 @@ date: 2022-10-03 19:34
 tags: ['fault', 'motor']
 ---
 
-# Electric Motor Fault by Source
+## Electric Motor Fault by Source
 
-## Source of Electric Motor Fault
+### Source of Electric Motor Fault
 
 ![](https://i.imgur.com/ZD63wif.jpeg)
 
@@ -19,7 +19,7 @@ tags: ['fault', 'motor']
 - Rotor 5%.
 - Shaft or coupling 2%. Shaft failure is the least common cause of motor failure. Physical damage, corrosion, improper installation and excessive loads are often the root cause.
 
-### Problem
+#### Problem
 
 - Transient voltage (“surges” or “spikes”)
   - Possible causes: Power factor correction capacitor banks; Adjacent loads turning on and off; Electrical storms; Power quality issues

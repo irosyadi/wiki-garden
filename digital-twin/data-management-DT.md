@@ -5,7 +5,7 @@ date: 2022-07-28 15:15
 tags: ['data', 'digital-twin']
 ---
 
-# data-management-DT
+## data-management-DT
 
 Data management in Digital Twin:
 

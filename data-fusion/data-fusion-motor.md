@@ -5,14 +5,14 @@ date: 2023-02-11 17:02
 tags: ['fusion', 'motor']
 ---
 
-# Data Fusion Motor Diagnosis
+## Data Fusion Motor Diagnosis
 
-## Review
+### Review
 
 [gawdeScopingReviewMultifault2022](../zotero/gawdeScopingReviewMultifault2022.md)  
 [gawdeMultiFaultDiagnosisIndustrial2022](../zotero/gawdeMultiFaultDiagnosisIndustrial2022.md)
 
-## Paper
+### Paper
 
 - NN feature fusion [shifatANNAssistedMulti2021](zotero://select/library/items/MZ3X944B) [link]() [DOI](https://doi.org/10/gqk2h8)
 - NN activation fusion [meyConditionMonitoringDrive2021](zotero://select/library/items/VEKKQ2CP) [link]() [DOI](https://doi.org/10.3390/pr9071108)
@@ -28,11 +28,11 @@ tags: ['fusion', 'motor']
 - ANFIS
 - Stacked as input to CNN
 
-## Book
+### Book
 
 - [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md) SOM NN (prognosis) majority voting, Bayesian belief, and multi-agent algorithms (diagnosis)
 
-## Thesis
+### Thesis
 
 - [delgadoprietoContributionsElectromechanicalSystems2012](../zotero/delgadoprietoContributionsElectromechanicalSystems2012.md)
 - [research-Senanayaka](../paper-book-review/research-Senanayaka.md)

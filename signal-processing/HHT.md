@@ -5,7 +5,7 @@ date: 2023-01-11 05:00
 tags: ['tag1', 'tag2']
 ---
 
-# Hilbert-Huang Transform
+## Hilbert-Huang Transform
 
 - The Hilbert Huang Transform (HHT) is designed to work well with non-stationary and nonlinear data,
 - Non-stationary data can have means, variances, and covariances that change over time, and non-stationary behavior can be trends, cycles, random walks, or combinations of the three. 
@@ -14,7 +14,7 @@ tags: ['tag1', 'tag2']
 - The HSA method is used to examine each IMF's instantaneous frequency as functions of time, and the final result is a frequency-time distribution of signal amplitude (or energy) called the Hilbert spectrum.
 - Python libraries for Hilbert Huang Transform (HHT): NumPy, [SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.hilbert.html),
 
-## EMD Python Libraries
+### EMD Python Libraries
 
 - [PyEMD](https://pyemd.readthedocs.io/en/latest/index.html) `pip install EMD-signal`, `from PyEMD import EMD`
   - EMD, EEMD, CEEMDAN, VMD
@@ -25,13 +25,13 @@ tags: ['tag1', 'tag2']
   - EMD, EEMD, CEEMDAN
 - [mariogrune/MEMD-Python-: Python version of the Multivariate Empirical Mode Decomposition algorithm](https://github.com/mariogrune/MEMD-Python-)
 
-## EMD algorithms
+### EMD algorithms
 
 - EMD
 - EEMD
 - Complementary EEMD, complete EEMD, partly EEMD
 
-## References
+### References
 
 - [chendaichao/Hilbert-Huang-transform: A demo of using Hilbert-Huang Transform (HHT) for non-stationary and non-linear signal analysis.](https://github.com/chendaichao/Hilbert-Huang-transform)
 - [EMD Tutorials — emd 0.5.4 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/index.html#)
@@ -51,7 +51,7 @@ Example
 - [Instantaneous3D\_EEG\_SignalAnalysis/Notes at master · LetMeFly666/Instantaneous3D\_EEG\_SignalAnalysis](https://github.com/LetMeFly666/Instantaneous3D_EEG_SignalAnalysis)
 - [chendaichao/Hilbert-Huang-transform: A demo of using Hilbert-Huang Transform (HHT) for non-stationary and non-linear signal analysis.](https://github.com/chendaichao/Hilbert-Huang-transform)
 
-## IF alternative to EMD
+### IF alternative to EMD
 
 - [File Exchange - MATLAB Central](https://it.mathworks.com/matlabcentral/fileexchange/?q=profileid:3095743)
 - [Antonio Cicone - Software](http://people.disim.univaq.it/~antonio.cicone/Software.html)

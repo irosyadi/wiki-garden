@@ -5,14 +5,14 @@ date: 2023-01-09 11:46
 tags: ['tag1', 'tag2']
 ---
 
-# Google Colaboratory How To
+## Google Colaboratory How To
 
-## Comment
+### Comment
 
 - Block comment text using Ctrl+/.
 - _Tools->Keyboard Shortcuts_ and search for "Comment Current Line".
 
-## Google Drive Connection
+### Google Drive Connection
 
 ```python
 from google.colab import drive  
@@ -23,12 +23,12 @@ drive.mount('/content/gdrive')
 url = 'gdrive/MyDrive/Dataset/file.zip'
 ```
 
-### Ref:
+#### Ref:
 
 - [How to Deal With Files in Google Colab: Everything You Need to Know - neptune.ai](https://neptune.ai/blog/google-colab-dealing-with-files)
 - [Using Google Colab GPU VM + Drive as persistent storage for long Deep Learning training runs | by Prajwal Prashanth | Medium](https://medium.com/@prajwal.prashanth22/google-colab-drive-as-persistent-storage-for-long-training-runs-cb82bc1d5b71)
 
-## Google Colab Background Run
+### Google Colab Background Run
 
 - Free Google Colab. There are no official references for 'Idle' and 'Maximum Lifetime' durations, but [testing done by Korakot Chaovavanich](https://stackoverflow.com/a/47805171/10359765) shows that:
     - The **'maximum lifetime'** of a running notebook is **12 hours** (browser open)
@@ -45,14 +45,14 @@ url = 'gdrive/MyDrive/Dataset/file.zip'
   - [python - How can I prevent Google Colab from disconnecting? - Stack Overflow](https://stackoverflow.com/questions/57113226/how-can-i-prevent-google-colab-from-disconnecting)
   - [How to save Google Colab Notebooks from runtime timeouts | by Sourabh | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/how-to-save-google-colab-notebooks-from-runtime-timeouts-4aa133375a7e) AutoHotKey
 
-## Hardware Specs
+### Hardware Specs
 
 - disk information `!df -h`.
 - CPU specs `!cat /proc/cpuinfo`
 - memory specs `!cat /proc/meminfo`
 - Test specs <https://colab.research.google.com/drive/1dint4ly-7h8Trw0XRJ1uhC_VKe_wDJfY>
 
-## Tricks
+### Tricks
 
 - [10 tricks for a better Google Colab experience | by Cyprien NIELLY | Towards Data Science](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82)
 - [ColabTricks](https://jimut123.github.io/blogs/ML/ColabTricks.html)

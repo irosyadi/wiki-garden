@@ -4,7 +4,7 @@ date: 2022-07-24 11:29
 tags: ['PHM', 'digital-twin']
 ---
 
-# PHM with Digital Twin
+## PHM with Digital Twin
 
 Challenge on PHM:
 

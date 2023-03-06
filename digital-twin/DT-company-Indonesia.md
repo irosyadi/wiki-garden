@@ -3,7 +3,7 @@ aliases: [Digital Twin Company in Indonesia]
 title: Digital Twin Company in Indonesia
 ---
 
-# Digital Twin Company in Indonesia
+## Digital Twin Company in Indonesia
 
 **PT. SCADA PRIMA CIPTA**  
 Jl. Kembar 1 No. 12 Bandung 40253  

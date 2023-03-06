@@ -1,6 +1,5 @@
 ---
-aliases: [Hi 👋🏼]
-title: Hi 👋🏼
+aliases: [Hi]
 ---
 
 ## Hi 👋🏼

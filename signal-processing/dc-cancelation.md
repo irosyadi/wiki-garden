@@ -5,12 +5,12 @@ date: 2023-02-11 11:22
 tags: ['tag1', 'tag2']
 ---
 
-# DC Signal Cancelation
+## DC Signal Cancelation
 
 - Moving average filter
 - High pass filter
 
-## References
+### References
 
 - [matlab - How to implement a high pass filter digitally to remove the dc offset from sensor data - Signal Processing Stack Exchange](https://dsp.stackexchange.com/questions/74237/how-to-implement-a-high-pass-filter-digitally-to-remove-the-dc-offset-from-senso)
 - [Linear-phase DC Removal Filter - Rick Lyons](https://www.dsprelated.com/showarticle/58.php)

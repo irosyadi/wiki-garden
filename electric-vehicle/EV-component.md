@@ -5,28 +5,25 @@ date: 2022-07-23 10:07
 tags: ['electric-vehicle']
 ---
 
-# Electric Vehicle Components
-
-  
-  
+## Electric Vehicle Components
 
 ![electric vehicle components](https://www.omazaki.co.id/system/uploads/2019/09/Komponen-mobil-listrik-Electric-car-components-Omazaki.jpg)
 
-## **Traction Battery Pack (A)**
+### **Traction Battery Pack (A)**
 
-## **![](https://www.omazaki.co.id/system/uploads/2019/09/baterai-traksi-traction-battery-pack-Prius.jpg)**
+### **![](https://www.omazaki.co.id/system/uploads/2019/09/baterai-traksi-traction-battery-pack-Prius.jpg)**
 
 The function of the battery in an electric car is as an electrical [energy storage system](https://www.omazaki.co.id/en/energy-storage-systems/) in the form of direct-current electricity (DC).
 
-## **Power Inverter (B)**
+### **Power Inverter (B)**
 
-## **![](https://www.omazaki.co.id/system/uploads/2019/09/inverter-daya-mobil-listrik-electric-cars-power-inverter.jpg)**
+### **![](https://www.omazaki.co.id/system/uploads/2019/09/inverter-daya-mobil-listrik-electric-cars-power-inverter.jpg)**
 
 The inverter functions to change the direct current (DC) on the battery into an alternating current (AC) and then this alternating current is used by an electric motor.
 
-## **Controller (C)**
+### **Controller (C)**
 
-## **![](https://www.omazaki.co.id/system/uploads/2019/09/controller-mobil-listrik-electric-car-controller.jpg)**
+### **![](https://www.omazaki.co.id/system/uploads/2019/09/controller-mobil-listrik-electric-car-controller.jpg)**
 
 The main function of the controller is as a regulator of electrical energy from batteries and inverters that will be distributed to electric motors.
 

@@ -5,7 +5,7 @@ date: 2022-10-16 15:17
 tags: ['tag1', 'tag2']
 ---
 
-# When Digital Twin is Used?
+## When Digital Twin is Used?
 
 Digital twins are of most use when an object is changing over time, thus making the initial model of the object invalid, and when measurement data that can be correlated with this change can be captured ([wrightHowTellDifference2020](../zotero/wrightHowTellDifference2020.md))
 
@@ -17,6 +17,6 @@ Staging real-world tests for all of these events would be costly, complicated to
 - a model of the vehicle response to driving commands (e.g. steering changes, braking, etc.) that takes road surface conditions into account,
 - and the AV control algorithms.
 
-## References
+### References
 
 - [wrightHowTellDifference2020](../zotero/wrightHowTellDifference2020.md)

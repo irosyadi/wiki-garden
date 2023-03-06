@@ -5,7 +5,7 @@ date: 2022-07-22 20:15
 tags: ['motor', 'electric-vehicle']
 ---
 
-# Electric Motor Types in Electric Vehicles
+## Electric Motor Types in Electric Vehicles
 
 Motor types used in electric vehicle:
 

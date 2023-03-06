@@ -5,7 +5,7 @@ date: 2022-09-28 07:54
 tags: ['signal']
 ---
 
-# Signal Processing
+## Signal Processing
 
 - Signal preprocessing
   - Mean removal
@@ -20,7 +20,7 @@ tags: ['signal']
 Images:  
 ![](https://i.imgur.com/UylONmU.png)
 
-## References
+### References
 
 - [leiIntelligentFaultDiagnosis2017](zotero://select/library/items/EDJ2QLHN) [link](https://www.elsevier.com/books/intelligent-fault-diagnosis-and-remaining-useful-life-prediction-of-rotating-machinery/lei/978-0-12-811534-3) [DOI](https://doi.org/)
 - [delgadoprietoContributionsElectromechanicalSystems2012](zotero://select/library/items/R77CWBLY) [link](https://upcommons.upc.edu/handle/2117/94712) [DOI](https://doi.org/)

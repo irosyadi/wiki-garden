@@ -5,9 +5,9 @@ date: 2023-01-10 01:31
 tags: ['tag1', 'tag2']
 ---
 
-# Numpy Howto
+## Numpy Howto
 
-## numpy.arrange
+### numpy.arrange
 
 ```python
 numpy.arange([_start_, ]_stop_, [_step_, ]_dtype=None_, _*_, _like=None_)
@@ -27,7 +27,7 @@ array([3, 4, 5, 6])
 array([3, 5])
 ```
 
-## numpy.repeat
+### numpy.repeat
 
 ```
 numpy.repeat(_a_, _repeats_, _axis=None_)
@@ -50,7 +50,7 @@ array([[1, 2],
        [3, 4]])
 ```
 
-## numpy.concatenate
+### numpy.concatenate
 
 ```python
 numpy.concatenate(_(a1_, _a2_, _...)_, _axis=0_, _out=None_, _dtype=None_, _casting="same_kind"_)
@@ -70,4 +70,4 @@ array([[1, 2, 5],
 array([1, 2, 3, 4, 5, 6])
 ```
 
-## References
+### References

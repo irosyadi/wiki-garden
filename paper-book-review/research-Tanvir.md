@@ -5,7 +5,7 @@ date: 2022-08-05 10:16:50
 tags: ['paper', 'review']
 ---
 
-# Tanvir Alam Shifat BLDC PHM Research
+## Tanvir Alam Shifat BLDC PHM Research
 
 Papers:  
 An Improved Stator Winding Short-circuit Fault Diagnosis using AdaBoost Algorithm (2020)
@@ -53,7 +53,7 @@ Remaining Useful Life Estimation of BLDC Motor Considering Voltage Degradation a
 - Motor health degradation trend (generator voltage) is recorded for two types of stator-related faults. Once the necessary diagnostics information is obtained, collected data are filtered using the moving average technique to obtain an observable degradation trend.
 - Fault detection sensor: coil temperature (2-wire thermocouple is used to measure the coil temperature adjacent to faulty coil), motor current, vibration, and output voltage.
 - Motor vibration does not change during the incipient stage of failures
-- The motor current (MCSA) is analyzed by determining frequency components using fast Fourier transform (FFT). Every 3rd harmonic of motor current (3rd, 6th, 9th . . ..) is observed to detect both types of faults.
+- The motor current (MCSA) is analyzed by determining frequency components using fast Fourier transform (FFT). Every 3rd harmonic of motor current (3rd, 6th, 9th ….) is observed to detect both types of faults.
 - Later, LSTM architecture based on attention mechanism is used to estimate the RUL of motor for both types of faults.
 - However, in the case of nonlinear degradation trends, attention-based LSTM has a better RUL prediction over the regular LSTM
 

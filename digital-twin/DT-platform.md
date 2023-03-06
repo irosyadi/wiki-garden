@@ -5,7 +5,7 @@ date: 2022-08-09 09:50:31
 tags: ['digital-twin']
 ---
 
-# Digital Twin Platform
+## Digital Twin Platform
 
 - [Eclipse Ditto™ • open source framework for digital twins in the IoT](https://www.eclipse.org/ditto/)
 - [Digital Twins–Modeling and Simulations | Microsoft Azure](https://azure.microsoft.com/en-us/services/digital-twins/#overview)

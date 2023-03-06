@@ -5,9 +5,9 @@ date: 2022-10-31 09:58
 tags: ['tag1', 'tag2']
 ---
 
-# Data-driven Modeling in Digital Twin
+## Data-driven Modeling in Digital Twin
 
-## According to [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)
+### According to [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)
 
 - Statistical models
   - Statistical models for dynamic system identification (P2V). Models: time-based (AR, ARMA, ARIMA, SSI), non-linear (NARX, NARMAX), frequency (FDD)  
@@ -21,12 +21,12 @@ tags: ['tag1', 'tag2']
          - DL is used to learn the input-output relationship directly. Algorithm: LSTM
          - DL is used to learn the state-space model of a system. Algorithm: autoencoder
 
-## Data-driven modeling: reasons
+### Data-driven modeling: reasons
 
 - the underlying physics is too complicated or is not fully understood
 - the physics is understood and can be modeled using available software, but the simulation is too computationally expensive or time-consuming to be useful in a digital twin
 
-## Data-driven modeling: classes
+### Data-driven modeling: classes
 
 - Data-driven models for degradation modeling
 - Data-driven surrogate models. Surrogate modeling is typically constructed and optimized using computer simulation data for any type of physical simulation at any timescale.
@@ -34,7 +34,7 @@ tags: ['tag1', 'tag2']
 
 ![](https://i.vgy.me/B7jA3o.png)
 
-## Data-driven modeling: issues
+### Data-driven modeling: issues
 
 - Model selection
 - Uncertainty quantity (UQ) of ML models

@@ -5,7 +5,7 @@ date: 2022-07-28 17:32
 tags: ['data', 'digital-twin']
 ---
 
-# Data Processing in Digital Twin
+## Data Processing in Digital Twin
 
 Data processing means extracting useful information from a large volume of incomplete, unstructured, noisy, fuzzy, and random raw data.  
 Stage:

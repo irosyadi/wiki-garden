@@ -5,7 +5,7 @@ date: 2022-07-23 12:39
 tags: ['electric-vehicle']
 ---
 
-# Type of Electric Vehicle
+## Type of Electric Vehicle
 
 Content
 

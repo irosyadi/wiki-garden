@@ -5,9 +5,9 @@ date: 2022-08-20 13:53:20
 tags: ['hardware']
 ---
 
-# Hardware Setup
+## Hardware Setup
 
-## Components:
+### Components:
 
 1. Power Supply (PSU 24V 5A)
 2. BLDC Controller (embedded in motor)
@@ -22,21 +22,21 @@ tags: ['hardware']
 11. Load
 12. DAQ (Arduino Mega)
 
-## Flux Sensor
+### Flux Sensor
 
 - Hall Effect Sensor 3144E
 
-## Accelerometer
+### Accelerometer
 
 - ADXL345 (used)
 - Alternative: MPU-6050
 
-## Arduino DAQ
+### Arduino DAQ
 
 - Arduino
 - Sensor Shield
 
-## Thermal Camera
+### Thermal Camera
 
 - HT-02 HT02 HTI Thermal Camera
 	- Resolution: 60x60 pixel
@@ -59,22 +59,22 @@ tags: ['hardware']
 - [InfiRay P2 Pro](https://www.aliexpress.com/item/1005004950256049.html)
 - List [The 4 Best Smartphone Thermal Cameras of 2022](https://industrial-reviews.com/smartphone-thermal-camera/)
 
-## Magnetic Sensor
+### Magnetic Sensor
 
 - HMC5883LGY-273 MAGNETOMETER (used)
   - [code-1](https://github.com/adafruit/Adafruit_HMC5883_Unified)
   - [code-2](https://www.electronicwings.com/arduino/magnetometer-hmc5883l-interfacing-with-arduino-uno)
 
-## Current Sensor
+### Current Sensor
 
 - Current Sensor ACS712 20A (used)
   - [code](https://www.engineersgarage.com/acs712-current-sensor-with-arduino/)
 
-## DC Motor
+### DC Motor
 
 - Motor DC 775 24V 8000RPM
 
-## BLDC Motor
+### BLDC Motor
 
 - JGB37-3650 Brushless DC Motor High Torque 88RPM 24V
   - [code-1](<https://wiki.dfrobot.com/FIT0441_Brushless_DC_Motor_with_Encoder_12V_159RPM>
@@ -105,7 +105,7 @@ Code:
 
 ![](https://i.imgur.com/UuSy4hM.png)
 
-## Vibration Sensor Consideration
+### Vibration Sensor Consideration
 
 - [Choosing The Right Sensor for Vibration Analysis | by Amir Khademi | Medium](https://khademi.medium.com/choosing-the-right-sensor-for-vibration-analysis-95c751a8ccc8)
 - [Choosing Vibration Sensors for Rotating Equipment | Dynapar](https://www.dynapar.com/technology/vibration-sensors/)

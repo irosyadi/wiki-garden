@@ -5,9 +5,9 @@ date: 2023-01-10 08:16
 tags: ['tag1', 'tag2']
 ---
 
-# Jupyter Howto
+## Jupyter Howto
 
-## Display all line outputs in a cell
+### Display all line outputs in a cell
 
 - Place this code in a Jupyter cell
 
@@ -31,7 +31,7 @@ c = get_config()
 c.InteractiveShell.ast_node_interactivity = "all"
 ```
 
-## Debugging
+### Debugging
 
 ```python
 import pdb; 
@@ -69,4 +69,4 @@ See:
 - [01.06-Errors-and-Debugging.ipynb - Colaboratory](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
 - [gotcha/ipdb: Integration of IPython pdb](https://github.com/gotcha/ipdb)
 
-## References
+### References

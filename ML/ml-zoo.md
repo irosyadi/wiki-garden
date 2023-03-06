@@ -5,11 +5,11 @@ date: 2023-02-14 05:57
 tags: ['tag1', 'tag2']
 ---
 
-# Machine Learning Zoo
+## Machine Learning Zoo
 
-## Function-based Categorization
+### Function-based Categorization
 
-### Supervised Classification
+#### Supervised Classification
 
 - Support Vector Machines (SVM)
 - Discriminant Analysis
@@ -17,16 +17,16 @@ tags: ['tag1', 'tag2']
 - Nearest Neighbors
 - Neural Network
 
-### Supervised Regression
+#### Supervised Regression
 
-#### Linear Models
+##### Linear Models
 
 - Linear Regression
 - Logistic Regression
 - Ridge Regression
 - Lasso Regression
 
-#### Tree Models
+##### Tree Models
 
 - Decision Trees
 - Random Forests
@@ -34,15 +34,15 @@ tags: ['tag1', 'tag2']
 - Hierarchical Regression
 - XGBoost
 
-#### Ensemble Models
+##### Ensemble Models
 
 - Ensembles
 
-#### Neural Networks Models
+##### Neural Networks Models
 
 - Neural Networks  
 
-### Unsupervised Clustering
+#### Unsupervised Clustering
 
 - k-Means Clustering
 - DBSCAN
@@ -53,7 +53,7 @@ tags: ['tag1', 'tag2']
 - Hidden Markov
 - Neural Networks
 
-### Unsupervised Association Rules
+#### Unsupervised Association Rules
 
 - Apriori  
 - FP-growth
@@ -61,7 +61,7 @@ tags: ['tag1', 'tag2']
 - Eclat
 - Hypergeometric Network
 
-### Unsupervised Dimensionality Reduction
+#### Unsupervised Dimensionality Reduction
 
 - PCA
 - t-distributed Stochastic Neighbor Embedding (t-SNE)
@@ -69,13 +69,13 @@ tags: ['tag1', 'tag2']
 - ICA
 - Pairwise Controlled Manifold Approximation (PaCMAP)
 
-### Semi-supervised Classification
+#### Semi-supervised Classification
 
-### Semi-supervised Regression
+#### Semi-supervised Regression
 
-## Similarity-based Categorization
+### Similarity-based Categorization
 
-### Dimensionality Reduction Algorithms
+#### Dimensionality Reduction Algorithms
 
 Seek and exploit the inherent structure in the data in an unsupervised manner in order to summarize or describe data using less information.
 
@@ -92,7 +92,7 @@ Tasks: dimensionality reduction
 - Quadratic Discriminant Analysis (QDA)
 - Flexible Discriminant Analysis (FDA)
 
-### Regression Algorithms
+#### Regression Algorithms
 
 Modeling the relationship between variables that is iteratively refined using a measure of error in the predictions made by the model.
 
@@ -105,7 +105,7 @@ Tasks: regression, classification
 - Multivariate Adaptive Regression Splines (MARS)
 - Locally Estimated Scatterplot Smoothing (LOESS)
 
-### Regularization Algorithms
+#### Regularization Algorithms
 
 An extension made to another method (typically regression methods) that penalizes models based on their complexity, favoring simpler models that are also better at generalizing.
 
@@ -116,7 +116,7 @@ Tasks: regression
  - Elastic Net
  - Least-Angle Regression (LARS)
 
-### Decision Tree Algorithms
+#### Decision Tree Algorithms
 
 Decision tree methods construct a model of decisions made based on actual values of attributes in the data. Decisions fork in tree structures until a prediction decision is made for a given record.
 
@@ -130,7 +130,7 @@ Tasks: classification, regression
 - M5
 - Conditional Decision Trees
 
-### Bayesian Algorithms
+#### Bayesian Algorithms
 
 Bayesian methods are those that explicitly apply Bayes’ Theorem, an approach to calculate conditional probability based on prior knowledge, and the naive assumption that each feature is independent to each other.
 
@@ -143,7 +143,7 @@ Tasks: regression, classification
 - Bayesian Belief Network (BBN)
 - Bayesian Network (BN)
 
-### Clustering Algorithms
+#### Clustering Algorithms
 
 Concerning with using the inherent structures in the data to best organize the data into groups of maximum commonality.
 
@@ -154,7 +154,7 @@ Tasks: clustering
  - Expectation Maximisation (EM)
  - Hierarchical Clustering
 
-### Instance Based Algorithms
+#### Instance Based Algorithms
 
 Decision problem with instances or examples of training data that are deemed important or required to the model by building up a database of example data and compare new data to the database using a similarity measure in order to find the best match and make a prediction.
 
@@ -166,7 +166,7 @@ Tasks: clustering, classification
 - Locally Weighted Learning (LWL)
 - Support Vector Machines (SVM)
 
-### Association Rule Learning Algorithms
+#### Association Rule Learning Algorithms
 
 Association rule learning methods extract rules that best explain observed relationships between variables in data.
 
@@ -175,7 +175,7 @@ Tasks: association
 - Apriori algorithm
 - Eclat algorithm
 
-### Artificial Neural Network Algorithms
+#### Artificial Neural Network Algorithms
 
 Models that are inspired by the structure and/or function of biological neural networks.
 
@@ -188,7 +188,7 @@ Tasks: classification, regression
 - Hopfield Network
 - Radial Basis Function Network (RBFN)
 
-### Deep Learning Algorithms
+#### Deep Learning Algorithms
 
 Modern update to Artificial Neural Networks by building much larger and more complex neural networks.
 
@@ -201,7 +201,7 @@ Tasks: classification, regression
 - Deep Boltzmann Machine (DBM)
 - Deep Belief Networks (DBN)
 
-### Ensemble Algorithms
+#### Ensemble Algorithms
 
 Models composed of multiple weaker models that are independently trained and whose predictions are combined in some way to make the overall prediction.
 
@@ -217,21 +217,21 @@ Tasks: classification, regression
 - Gradient Boosted Regression Trees (GBRT)
 - Random Forest
 
-### Feature selection algorithms
+#### Feature selection algorithms
 
-### Algorithm accuracy evaluation
+#### Algorithm accuracy evaluation
 
-### Performance measures
+#### Performance measures
 
-### Optimization algorithms
+#### Optimization algorithms
 
-## References
+### References
 
 - [The Neural Network Zoo - The Asimov Institute](https://www.asimovinstitute.org/neural-network-zoo/)
 - [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Data Mining With Python and R documentation](https://runawayhorse001.github.io/DatamingTutorial/)
 
-## Images
+### Images
 
 ![](https://runawayhorse001.github.io/DatamingTutorial/_images/mlalgs.png)
 

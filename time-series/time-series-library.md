@@ -5,9 +5,9 @@ date: 2023-02-09 21:14
 tags: ['tag1', 'tag2']
 ---
 
-# Time Series Library
+## Time Series Library
 
-## Python
+### Python
 
 - `scikit-learn`
 - `pyts` : KNN, shapelets, tree-based, bag-of-words, image, random convolution
@@ -18,6 +18,6 @@ tags: ['tag1', 'tag2']
 - `tsfresh`
 - `cesium`
 
-## References
+### References
 
 - [faouziTimeSeriesClassification2022](../zotero/faouziTimeSeriesClassification2022.md)

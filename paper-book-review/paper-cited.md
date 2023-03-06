@@ -5,9 +5,9 @@ date: 2022-12-14 18:58
 tags: ['tag1', 'tag2']
 ---
 
-# Paper Cited
+## Paper Cited
 
-## Electric Motor
+### Electric Motor
 
 - [caoOverviewElectricMotors2021](../zotero/caoOverviewElectricMotors2021.md)
 - [rameshHighPowerDensity2019](../zotero/rameshHighPowerDensity2019.md)
@@ -15,18 +15,18 @@ tags: ['tag1', 'tag2']
 - [caiReviewDevelopmentElectric2021](../zotero/caiReviewDevelopmentElectric2021.md)
 - [yildirimSurveyComparisonElectric2014a](../zotero/yildirimSurveyComparisonElectric2014a.md)
 
-## BLDC
+### BLDC
 
 - [kudelinaMainFaultsDiagnostic2020](../zotero/kudelinaMainFaultsDiagnostic2020.md)
 
-## Motor Fault
+### Motor Fault
 
 - [kudelinaMainFaultsDiagnostic2020](../zotero/kudelinaMainFaultsDiagnostic2020.md)
 - [benbouzidSignalProcessingFault2020](../zotero/benbouzidSignalProcessingFault2020.md)
 - [cardosoDiagnosisFaultTolerance2018](../zotero/cardosoDiagnosisFaultTolerance2018.md)
 - [leeConditionMonitoringIndustrial2020](../zotero/leeConditionMonitoringIndustrial2020.md)
 
-## PHM
+### PHM
 
 - [biggioPrognosticsHealthManagement2020](../zotero/biggioPrognosticsHealthManagement2020.md)
 - [wangPrognosticsHealthManagement2021](../zotero/wangPrognosticsHealthManagement2021.md)
@@ -34,7 +34,7 @@ tags: ['tag1', 'tag2']
 - [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)
 - [pechtPrognosticsHealthManagement2018](../zotero/pechtPrognosticsHealthManagement2018.md)
 
-## Digital Twin
+### Digital Twin
 
 - [taoDigitalTwinModeling2022](../zotero/taoDigitalTwinModeling2022.md)
 - [taoDigitalTwinDriven2018](../zotero/taoDigitalTwinDriven2018.md)
@@ -45,11 +45,11 @@ tags: ['tag1', 'tag2']
 - [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)
 - [wrightHowTellDifference2020](../zotero/wrightHowTellDifference2020.md)
 
-## Digital Twin Electric Vehicle
+### Digital Twin Electric Vehicle
 
 - [bhattiFutureSmartElectric2021](../zotero/bhattiFutureSmartElectric2021.md)
 
-## PHM Motor
+### PHM Motor
 
 - [leeConditionMonitoringIndustrial2020](../zotero/leeConditionMonitoringIndustrial2020.md)
 - [wangPrognosticsHealthManagement2021](../zotero/wangPrognosticsHealthManagement2021.md)
@@ -57,28 +57,28 @@ tags: ['tag1', 'tag2']
 - [choudharyConditionMonitoringFault2019](../zotero/choudharyConditionMonitoringFault2019.md)
 - Tanvir
 
-## PHM Digital Twin
+### PHM Digital Twin
 
 - [falekasDigitalTwinElectrical2021](../zotero/falekasDigitalTwinElectrical2021.md)
 - [taoDigitalTwinDriven2019](../zotero/taoDigitalTwinDriven2019.md)
 
-## PHM Deep Learning
+### PHM Deep Learning
 
 - [zhangReviewDeepLearning2019](../zotero/zhangReviewDeepLearning2019.md)
 
-## PHM Digital Twin Motor
+### PHM Digital Twin Motor
 
 - [venkatesanHealthMonitoringPrognosis2019](../zotero/venkatesanHealthMonitoringPrognosis2019.md)
 - [rjabtsikovDigitalTwinService2021](../zotero/rjabtsikovDigitalTwinService2021.md)
 
-## BLDC PHM
+### BLDC PHM
 
 - [faizInterturnFaultDiagnosis2018](../zotero/faizInterturnFaultDiagnosis2018.md)
 - [chenFaultsDiagnosisMethods2019](../zotero/chenFaultsDiagnosisMethods2019.md)
 
-## BLDC Fault
+### BLDC Fault
 
 - [ullahComprehensiveReviewWinding2018](../zotero/ullahComprehensiveReviewWinding2018.md)
 - [kudelinaMainFaultsDiagnostic2020](../zotero/kudelinaMainFaultsDiagnostic2020.md)
 
-## References
+### References

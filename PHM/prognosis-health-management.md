@@ -5,7 +5,7 @@ date: 2022-10-01 22:06
 tags: ['PHM']
 ---
 
-# Prognosis and Health Management
+## Prognosis and Health Management
 
 Basic approaches:
 
@@ -42,9 +42,9 @@ The evolution of maintenance strategies:
   - actual condition based maintenance
   - to detect the onset of a failure/fault and applied to critical equipment where a failure would interrupt a continuous process or impact quality.
 
-## PHM
+### PHM
 
 The concept and framework of PHM have been developed based on the well-known maintenance methodologies and diagnostics techniques, such as preventative maintenance (PM), reliability-centered maintenance (RCM), and condition-based maintenance (CBM).  
 CBM consists of data acquisition and data processing (condition monitoring), resulting in actionable condition information on which maintenance decision making can be based, thus avoiding unnecessary maintenance tasks. Currently, more and more research effort has shifted toward prognostics and health management which focuses more on incipient failure detection, current health assessment, and remaining useful life prediction.
 
-## References
+### References

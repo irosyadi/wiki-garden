@@ -5,9 +5,9 @@ date: 2023-03-01 11:59
 tags: ['tag1', 'tag2']
 ---
 
-# Paper Plan 01
+## Paper Plan 01
 
-## Introduction
+### Introduction
 
 [gongFastAnomalyDiagnosis2022](zotero://select/library/items/GVWAJJMT) [link]() [DOI](https://doi.org/10.1109/TIE.2021.3135520)
 
@@ -50,7 +50,7 @@ Another method: retraining ([zufleMachineLearningModel2021](zotero://select/libr
 
 Another method: evolutionary ML ([telikaniEvolutionaryMachineLearning2022](zotero://select/library/items/UG3DMBG9) [link](https://dl.acm.org/doi/10.1145/3467477) [DOI](https://doi.org/10.1145/3467477)). Evolutionary algorithms perform parameter optimization.
 
-## ML Model Uncertainties
+### ML Model Uncertainties
 
 Oh my god, this means we should go to this topic.
 
@@ -59,4 +59,4 @@ In Bayesian deep learning, the model parameters are treated as random variables 
 - Probabilistic Machine Learning  
 Probabilistic deep learning, on the other hand, models the data-generating process as a probabilistic function.
 
-## References
+### References

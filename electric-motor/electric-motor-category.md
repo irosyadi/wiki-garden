@@ -5,7 +5,7 @@ date: 2023-02-12 04:32
 tags: ['motor']
 ---
 
-# Electric Motor Category
+## Electric Motor Category
 
 - DC Motor
   - Series
@@ -37,6 +37,6 @@ tags: ['motor']
       - Squirrel cage
       - Wound rotor
 
-## References
+### References
 
 - [delgadoprietoContributionsElectromechanicalSystems2012](../zotero/delgadoprietoContributionsElectromechanicalSystems2012.md)

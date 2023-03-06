@@ -5,14 +5,14 @@ date: 2022-12-23 07:39
 tags: ['motor', 'fault']
 ---
 
-# Eccentricity
+## Eccentricity
 
-## Notes
+### Notes
 
 - also called air-gap irregularities
 - when air gap>10%
 
-## Causes
+### Causes
 
 - bad bearing
 - worn bearing
@@ -20,19 +20,19 @@ tags: ['motor', 'fault']
 - excessive load
 - unequal air gap between rotor and stator
 
-## Effects
+### Effects
 
 - stray current in stator winding
 - heat
 - losses
 
-## Classification
+### Classification
 
 - static eccentricities
 - dynamic eccentricities
 - combined eccentricities
 
-## References
+### References
 
 - [benbouzidSignalProcessingFault2020](zotero/benbouzidSignalProcessingFault2020.md)
 - [kudelinaMainFaultsDiagnostic2020](zotero/kudelinaMainFaultsDiagnostic2020.md)

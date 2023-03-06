@@ -5,7 +5,7 @@ date: 2022-07-25 13:41
 tags: ['digital-twin']
 ---
 
-# Application of Digital Twin
+## Application of Digital Twin
 
 Some examples of typical applications for digital twins include:
 

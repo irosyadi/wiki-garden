@@ -5,12 +5,12 @@ date: 2022-12-06 18:26
 tags: ['tag1', 'tag2']
 ---
 
-# Recursive Bayesian Estimation
+## Recursive Bayesian Estimation
 
 - Recursive Bayesian estimation (Bayes filter) is a general probabilistic approach for estimating an unknown probability density function (PDF) recursively over time using incoming measurements and a mathematical process model.
 - The process relies heavily upon mathematical concepts and models that are theorized within a study of prior and posterior probabilities known as Bayesian statistics.
 
-## Sequential Bayesian filtering
+### Sequential Bayesian filtering
 
 - Sequential Bayesian filtering is the extension of the Bayesian estimation for the case when the observed value changes in time.
 - It is a method to estimate the real value of an observed variable that evolves in time.  
@@ -19,9 +19,9 @@ tags: ['tag1', 'tag2']
   - smoothing when estimating past values given past and current observations, and
   - prediction when estimating a probable future value given past and current observations.
 
-## References
+### References
 
-### Bayesian Filtering Reference
+#### Bayesian Filtering Reference
 
 - [tittuvmathew/Bayesian\_filtering\_smoothing: MATLAB codes to perform Non-Linear Kalman filtering and smoothing using particle filters](https://github.com/tittuvmathew/Bayesian_filtering_smoothing)
 - [behnamasadi/Filters: This work contains implementation of Kalman Filter, Extended Kalman Filter and Particle Filter in python from scratch.](https://github.com/behnamasadi/Filters)

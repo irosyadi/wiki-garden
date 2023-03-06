@@ -5,7 +5,7 @@ date: 2022-12-13 20:08
 tags: ['tag1', 'tag2']
 ---
 
-# Prognostics and Health Management of Electronics
+## Prognostics and Health Management of Electronics
 
 1 Introduction  
 1.1 Reliability and Prognostics  
@@ -108,6 +108,6 @@ tags: ['tag1', 'tag2']
 17.3 Case Study: CVDP for Vehicle Batteries  
 17.4 Summary
 
-## References
+### References
 
 - [pechtPrognosticsHealthManagement2018](../zotero/pechtPrognosticsHealthManagement2018.md)

@@ -5,7 +5,7 @@ date: 2022-10-31 20:58
 tags: ['tag1', 'tag2']
 ---
 
-# Physical to Virtual (P2V) Updating and Enhancement
+## Physical to Virtual (P2V) Updating and Enhancement
 
 - Measurement as input.
   - Physical measurement to update the digital model. Mainly for [Geometric Model](../dt-modeling/DT-modeling-geometric.md)
@@ -31,4 +31,4 @@ Measurement as input (straightforward P2V) problems
 - However, for many engineering problems, digital states cannot be directly updated and are affected by various uncertainty sources.
 - A digital state often cannot be directly measured (or observed) but can be estimated through noisy measurements that depend on the digital state. The digital state of a physical system in operation changes over time and can be estimated as new information about the physical system becomes available.
 
-## References
+### References

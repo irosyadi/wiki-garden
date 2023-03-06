@@ -5,7 +5,7 @@ date: 2023-02-11 18:19
 tags: ['tag1', 'tag2']
 ---
 
-# PHM Paper with Code
+## PHM Paper with Code
 
 - [A novel deep learning approach for intelligent fault diagnosis applications based on time-frequency images | SpringerLink](https://link.springer.com/article/10.1007/s00521-021-06668-2)
   - Code: [ozggultekin/MultisensoryDataFusionWithSTFT](https://github.com/ozggultekin/MultisensoryDataFusionWithSTFT)
@@ -31,4 +31,4 @@ tags: ['tag1', 'tag2']
 - [False Data Injection Attacks in Internet of Things and Deep Learning enabled Predictive Analytics](https://www.catalyzex.com/paper/arxiv:1910.01716)
 - [Multi-Sensor Prognostics using an Unsupervised Health Index based on LSTM Encoder-Decoder](https://www.catalyzex.com/paper/arxiv:1608.06154)
 
-## References
+### References

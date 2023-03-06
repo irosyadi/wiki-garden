@@ -5,7 +5,7 @@ date: 2022-10-01 22:52
 tags: ['book', 'review', 'PHM', 'signal', 'electric-machine']
 ---
 
-# Signal Processing for Fault Detection and Diagnosis in Electric Machines and Systems
+## Signal Processing for Fault Detection and Diagnosis in Electric Machines and Systems
 
 1 Parametric signal processing approach  
 1.1 Fault effects on intrinsic parameters of electromechanical systems  
@@ -55,6 +55,6 @@ tags: ['book', 'review', 'PHM', 'signal', 'electric-machine']
 4 Higher-order spectra  
 5 Fault detection and diagnosis based on principal component analysis
 
-## References
+### References
 
 - [benbouzidSignalProcessingFault2020](../zotero/benbouzidSignalProcessingFault2020.md)

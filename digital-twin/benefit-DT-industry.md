@@ -5,7 +5,7 @@ date: 2022-07-25 13:41
 tags: ['digital-twin']
 ---
 
-# Benefit of DT in Industry
+## Benefit of DT in Industry
 
 The benefits that digital twin technologies offer your business include:
 

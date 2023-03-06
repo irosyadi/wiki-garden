@@ -5,7 +5,7 @@ date: 2022-08-08 10:20:54
 tags: ['SCADA', 'digital-twin']
 ---
 
-# SCADA and Digital Twin
+## SCADA and Digital Twin
 
 Keywords
 

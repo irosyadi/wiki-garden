@@ -5,7 +5,7 @@ date: 2022-10-01 23:31
 tags: ['book', 'review', 'PHM', 'electric-motor']
 ---
 
-# Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery
+## Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery
 
 1 - Introduction and background  
 2 - Signal processing and feature extraction  
@@ -14,6 +14,6 @@ tags: ['book', 'review', 'PHM', 'electric-motor']
 5 - Hybrid intelligent fault diagnosis methods  
 6 - Remaining useful life prediction
 
-## References
+### References
 
 [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)

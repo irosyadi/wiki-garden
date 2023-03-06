@@ -5,7 +5,7 @@ date: 2022-12-05 10:33
 tags: ['tag1', 'tag2']
 ---
 
-# Digital State in Digital Twin
+## Digital State in Digital Twin
 
 - In digital twin, digital system should be updated with a time-varying state called digital state
 - Digital state: a set of digital state variables that characterize the digital model(s) in a digital twin
@@ -16,6 +16,6 @@ tags: ['tag1', 'tag2']
 - The digital state of a physical system in operation changes over time and can be estimated as new information about the physical system becomes available.
 - The time evolution of the digital state can be modeled as a dynamic system perturbed by a certain process noise.
 
-## References
+### References
 
 - [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)

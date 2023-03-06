@@ -5,9 +5,9 @@ date: 2022-10-17 05:58
 tags: ['tag1', 'tag2']
 ---
 
-# Definition and Abbreviation
+## Definition and Abbreviation
 
-## Definition
+### Definition
 
 Digital Twin  
 Digital Shadow  
@@ -20,9 +20,9 @@ Virtual Reality (VR): completely immersive digital environment where interaction
 
 - DOE methodologies: Full Factorial, Box-Behnken, Plackett-Burman, and Central Composite Design.
 
-## Abbreviation
+### Abbreviation
 
-### ABC
+#### ABC
 
 AR: Augmented Reality  
 ARMA: auto-regressive moving average models  
@@ -32,7 +32,7 @@ CPS: Cyber Physical System
 CAE: computer-aided engineering  
 CFD: computational fluid dynamics
 
-### DEF
+#### DEF
 
 DOE: design of experiment  
 EMA: Electromechanical Actuator  
@@ -41,11 +41,11 @@ FEM: Finite Element Models
 FEA: finite element analysis  
 FDD: frequency domain decomposition  
 
-### GHI
+#### GHI
 
-### JKL
+#### JKL
 
-### MNO
+#### MNO
 
 MOR: Model Order Reduction  
 MR: Mixed Reality  
@@ -53,25 +53,20 @@ MBD: multi-body dynamics
 NARX: nonlinear autoregressive exogenous  
 NARMAX: nonlinear autoregressive moving average model with exogenous
 
-### PQR
+#### PQR
 
 P2V: Physical to Virtual  
 PDE: partial differential equations  
 
-### STU
+#### STU
 
 SOC: state of charge  
 SSI: stochastic subspace identification  
 UQ: Uncertainty Quantification
 
-### VWX
+#### VWX
 
 V2P: Virtual to Physical  
 VR: Virtual Reality  
 
-### YZ
-
-  
-
-  
-  
+#### YZ

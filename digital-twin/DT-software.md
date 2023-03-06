@@ -5,9 +5,9 @@ date: 2022-08-09 10:30:32
 tags: ['digital-twin']
 ---
 
-# Digital Twin Softwares
+## Digital Twin Softwares
 
-## Free DT Tools for Academia
+### Free DT Tools for Academia
 
 Osisoft and Aveva
 

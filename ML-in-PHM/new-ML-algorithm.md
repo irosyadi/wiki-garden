@@ -5,7 +5,7 @@ date: 2023-02-09 11:11
 tags: ['tag1', 'tag2']
 ---
 
-# New Machine Learning Algorithms
+## New Machine Learning Algorithms
 
 - CFC (Closed-form Coninuous-time NN)
   - [raminmh/CfC: Closed-form Continuous-time Neural Networks](https://github.com/raminmh/CfC)

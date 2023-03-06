@@ -5,17 +5,17 @@ date: 2022-07-28 14:06
 tags: ['visualization', 'digital-twin']
 ---
 
-# Data Visualization in DT
+## Data Visualization in DT
 
-## List of Visualization
+### List of Visualization
 
-### 2D
+#### 2D
 
 - 2D Solidworks.
 
-## Examples
+### Examples
 
-### Example 1
+#### Example 1
 
 Virtual stack [Tang. 2022. *Design of power lithium battery management system based on digital twin*](zotero://select/items/1_YTSXBP5Q):
 
@@ -54,6 +54,6 @@ HMI
 
 References:
 
-## Bibliography
+### Bibliography
 
 Tang, H., Wu, Y., Cai, Y., Wang, F., Lin, Z., & Pei, Y. (2022). Design of power lithium battery management system based on digital twin. _Journal of Energy Storage_, _47_, 103679. [https://doi.org/10.1016/j.est.2021.103679](https://doi.org/10.1016/j.est.2021.103679)

@@ -5,9 +5,9 @@ date: 2022-12-23 07:42
 tags: ['motor', 'fault']
 ---
 
-# Stator Faults
+## Stator Faults
 
-## Classification
+### Classification
 
 - open-phase (open circuit) fault
 - turn to turn short circuit (shorted turn, [Inter-turn Short Circuit Fault](inter-turn-short-circuit-fault.md)), (ITSF) within a coil
@@ -21,23 +21,23 @@ tags: ['motor', 'fault']
 
 ![stator faults](https://i.vgy.me/Qk1qIt.png)
 
-## Causes
+### Causes
 
 - Mechanical stresses (due to movement of stator coil and rotor striking the stator)
 - Electrical stresses (supply voltage transient due to different faults (like line-to-line, line-to-ground, or three-phase fault), due to lightning, opening, or closing of circuit breakers or due to variable frequency drives)
 - Thermal stresses (due to thermal overloading, due to over current flowing due to sustained overload or fault, higher ambient temperature, obstructed ventilation, unbalanced supply voltage, etc.)
 - Environmental stresses (too hot or too cold or too humid environment, presence of foreign material)
 
-## Effects
+### Effects
 
-### Effects of winding failures
+#### Effects of winding failures
 
 - High temperature (core, winding)
 - Electrical discharges
 - Environmental pollution
 - Short circuit
 
-### Causes of winding failures
+#### Causes of winding failures
 
 - breakdown of the winding’s insulation
 - high temperature,
@@ -47,7 +47,7 @@ tags: ['motor', 'fault']
 - excessive voltage
 - physical damage.
 
-## Visualization
+### Visualization
 
 - Open-phase fault  
 ![](https://easa.com/portals/0/Images/FailuresBrochure/WindingFailure1_web.png)
@@ -68,12 +68,12 @@ tags: ['motor', 'fault']
 
 Inter-turn short circuit of the stator winding in three-phase induction motors. (a) Short circuits in one phase due to motor overload (b) Short circuits in one phase due to blocked rotor. (c) Inter-turn short circuits are due to voltage transients. (d) Short circuits in one phase due to a phase loss in a Y-connected motor. (e) Short circuits in one phase due to a phase loss in a delta-connected motor. (f) Short circuits in one phase due to an unbalanced stator voltage
 
-## References
+### References
 
 - [cardosoDiagnosisFaultTolerance2018](zotero/cardosoDiagnosisFaultTolerance2018.md)
 - [saadConditionMonitoringFaults2018](../zotero/saadConditionMonitoringFaults2018.md)
 - [karmakarInductionMotorFault2016](../zotero/karmakarInductionMotorFault2016.md)
 
-## References
+### References
 
 - [Failures in Three-Phase Stator Windings](https://easa.com/resources/failures-in-three-phase-stator-windings)

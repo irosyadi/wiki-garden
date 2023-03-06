@@ -5,9 +5,9 @@ date: 2023-02-13 16:49
 tags: ['tag1', 'tag2']
 ---
 
-# Dataset Search and Repository
+## Dataset Search and Repository
 
-## Dataset Search
+### Dataset Search
 
 - [Dataset Storage and Dataset Search Platform | IEEE DataPort](https://ieee-dataport.org/)
 - [Mendeley Data](https://data.mendeley.com/)
@@ -16,7 +16,7 @@ tags: ['tag1', 'tag2']
 - [Scientific Data](https://www.nature.com/sdata/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 
-## Timeseries Data Repository
+### Timeseries Data Repository
 
 - [UCR Time Series Classification](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
 - [Monash Forecasting Repository](https://forecastingdata.org/)

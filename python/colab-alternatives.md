@@ -5,7 +5,7 @@ date: 2023-01-09 12:33
 tags: ['tag1', 'tag2']
 ---
 
-# Google Colab Alternatives
+## Google Colab Alternatives
 
 - Paperspace Gradient
 - CoCalc
@@ -17,7 +17,7 @@ tags: ['tag1', 'tag2']
 - Azure Notebooks
 - IBM DataPlatform Notebooks
 
-## References
+### References
 
 - [Data Science Notebooks](https://datasciencenotebook.org/)
 - [Top Google Colab Alternatives in 2023](https://slashdot.org/software/p/Google-Colab/alternatives)

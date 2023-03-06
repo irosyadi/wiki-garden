@@ -5,7 +5,7 @@ date: 2022-10-17 05:21
 tags: ['paper', 'review', 'digital-twin']
 ---
 
-# Papers by Adam Thelen
+## Papers by Adam Thelen
 
 [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)  
 1 Introduction  
@@ -27,11 +27,11 @@ tags: ['paper', 'review', 'digital-twin']
 [System Modeling in Digital Twin](../dt-modeling/DT-modeling-system.md)  
 4 P2V twinning enabling technologies  
 4.1 Physical measurements as input  
-[P2V with Physical Measurements](../dt-p2v/p2v-physical.md)
+[P2V with Physical Measurements](../dt-p2v/p2v-physical.md)  
 4.2 Probabilistic model updating  
-[Digital State in Digital Twin](../dt-p2v/digital-state.md)
-[State Estimation in P2V](../dt-p2v/state-estimation.md)
-[P2V with Probabilistic Model Updating](../dt-p2v/state-estimation.md)
+[Digital State in Digital Twin](../dt-p2v/digital-state.md)  
+[State Estimation in P2V](../dt-p2v/state-estimation.md)  
+[P2V with Probabilistic Model Updating](../dt-p2v/state-estimation.md)  
 4.3 ML model updating  
 4.4 Fault diagnostics and failure prognostics  
 4.5 Ontology-based reasoning  
@@ -62,7 +62,7 @@ tags: ['paper', 'review', 'digital-twin']
 5.2 Digital twins for sustainability  
 5.3 UQ of digital twins
 
-## References
+### References
 
 - [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)
 - [thelenComprehensiveReviewDigital2022a](../zotero/thelenComprehensiveReviewDigital2022a.md)

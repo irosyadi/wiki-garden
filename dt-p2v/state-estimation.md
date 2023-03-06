@@ -5,9 +5,9 @@ date: 2022-12-05 10:28
 tags: ['tag1', 'tag2']
 ---
 
-# State Estimation in P2V
+## State Estimation in P2V
 
-## State Estimation
+### State Estimation
 
 - Consider $x_k$ is digital state vectors, $y_k$ is noisy measurement (observation) vector, $u_k$ is measured input vector, $\omega_k$ vector of process noise variable, $v_k$ is vector of measurement noise variable, $f(\cdot)$ is state transition function and $g(\cdot)$ measurement function.  
   - State transition: $x_k=f(x_{k-1},u_{k-1})+\omega_k$
@@ -26,7 +26,7 @@ where $y_{1:k}$ are observation from $t_1$ to $t_k$, $\propto$ is proportional t
 
 See [Recursive Bayesian Estimation](bayesian-estimation.md).
 
-## State Estimation Problems
+### State Estimation Problems
 
 - Filtering
   - estimate present (current) states
@@ -44,15 +44,15 @@ See [Recursive Bayesian Estimation](bayesian-estimation.md).
 
 ![State Estimation Problems](https://i.vgy.me/r2nwfw.png)
 
-## Bayesian Filters
+### Bayesian Filters
 
 - Four recursive Bayesian filter as below  
 ![](https://i.vgy.me/nlSXeE.png)
 - Applications of particle filters for state estimation in the digital twin context have been mostly limited to a small number of state dimensions (typically < 5)
 
-## State Estimation vs Parameter Estimation
+### State Estimation vs Parameter Estimation
 
 - Parameter estimation: estimating digital state variables that change very slowly or do not change with time.
 - State estimation: estimating digital state variables that change rapidly with time
 
-## References
+### References

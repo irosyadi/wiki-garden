@@ -5,7 +5,7 @@ date: 2022-07-28 19:40
 tags: ['hardware', 'motor', 'BLDC', 'PHM']
 ---
 
-# PHM in BLDC Setup
+## PHM in BLDC Setup
 
 Setup 1: [Shifat. 2020. *An effective stator fault diagnosis framework of BLDC motor based on vibration and current signals*](zotero://select/items/1_4HXCFS5L)
 

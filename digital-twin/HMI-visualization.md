@@ -5,7 +5,7 @@ date: 2022-08-08 09:08:16
 tags: ['HMI', 'visualization']
 ---
 
-# HMI Visualization
+## HMI Visualization
 
 Free Scada Visualization
 

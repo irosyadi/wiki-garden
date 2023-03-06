@@ -5,19 +5,19 @@ date: 2022-08-05 21:50:22
 tags: ['motor', 'fault']
 ---
 
-# Motor Fault Dataset
+## Motor Fault Dataset
 
 [Dataset Search and Repository](dataset-search-repo.md)  
 [Electric Motor Dataset, Paper, and Code](motor-phm-dataset-code.md)
 
-## Dataset List
+### Dataset List
 
-### List
+#### List
 
 - [hustcxl/Rotating-machine-fault-data-set: Open rotating mechanical fault datasets)](https://github.com/hustcxl/Rotating-machine-fault-data-set)
 - [Machine Learning Datasets for Production](https://www.bigdata-ai.fraunhofer.de/s/datasets/index.html)
 
-### Dataset: Vibration
+#### Dataset: Vibration
 
 - [Charlie5DH/PredictiveMaintenance-and-Vibration-Resources: Papers and datasets for Vibration Analysis](https://github.com/Charlie5DH/PredictiveMaintenance-and-Vibration-Resources) List of Dataset
 - [Vibration measurement on SAG mill drive motor | IEEE DataPort](https://ieee-dataport.org/documents/vibration-measurement-sag-mill-drive-motor)
@@ -25,16 +25,16 @@ tags: ['motor', 'fault']
   - motor: unknown
   - status: embargo
 
-### Dataset: RUL
+#### Dataset: RUL
 
 - [Prognosis based on Varying Data Quality | Kaggle](https://www.kaggle.com/datasets/prognosticshse/prognosis-based-on-varying-data-quality)
 - [Preventive to Predictive Maintenance | Kaggle](https://www.kaggle.com/datasets/prognosticshse/preventive-to-predicitve-maintenance)
 
-### Dataset: Inverter
+#### Dataset: Inverter
 
 - [Inverter Data Set | Kaggle](https://www.kaggle.com/datasets/stender/inverter-data-set)
 
-### Dataset: Bearing
+#### Dataset: Bearing
 
 - [Konstruktions- und Antriebstechnik (KAt)  -  Data Sets and Download (Universität Paderborn)](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/data-sets-and-download)
 - [IEEE phm 2012 data challenge | Kaggle](https://www.kaggle.com/datasets/alanhabrony/ieee-phm-2012-data-challenge)
@@ -49,12 +49,12 @@ tags: ['motor', 'fault']
   - report: [Wavelet transform applied on machine vibration analysis](https://rstudio-pubs-static.s3.amazonaws.com/715279_520cf75be7c04912a1de3e097d4634e8.html)
   - [Konstruktions- und Antriebstechnik (KAt)  -  Data Sets and Download (Universität Paderborn)](https://mb.uni-paderborn.de/en/kat/main-research/datacenter/bearing-datacenter/data-sets-and-download)
 
-### Dataset: Gearbox
+#### Dataset: Gearbox
 
 - [Gearbox Fault Detection Dataset, PHM 2009 (NASA) | Kaggle](https://www.kaggle.com/datasets/hetarthchopra/gearbox-fault-detection-dataset-phm-2009-nasa)
 - [cathysiyu/Mechanical-datasets](https://github.com/cathysiyu/Mechanical-datasets)
 
-### Dataset: Induction Motor
+#### Dataset: Induction Motor
 
 - [Current Signature Dataset of Three-Phase Induction Motor under Varying Load Conditions - Mendeley Data](https://data.mendeley.com/datasets/gxdd74czwh) dl
 - MAFAULDA Dataset Induction Motor Fault
@@ -73,13 +73,13 @@ tags: ['motor', 'fault']
 - [Modeling Electrical Motor Dynamics using Encoder-Decoder with Recurrent Skip Connection](https://sagarverma.github.io/dynamics.html) [sagarverma/MotorDynamics: Modelling electrical motor dynamics using neural networks.](https://github.com/sagarverma/MotorDynamics)
   - The dataset consists of the following electrical quantities; currents id and iq, voltages ud and uq, rotor speed ωr , stator pulsation ωs , and torque τem. The indices d and q denote three phase quantities represented in a two phase orthogonal rotating reference frame.
 
-### Dataset: DC Motor
+#### Dataset: DC Motor
 
 - [Direct current geared motor data: Voltage, current, and speed measured under different experimental conditions - Data in Brief](https://www.data-in-brief.com/article/S2352-3409(22)00014-2/fulltext)
 - [F.A.I.R. open dataset of brushed DC motor faults for testing of AI algorithms | Zenodo](https://zenodo.org/record/4314249)
   - motor: DC
 
-### Dataset: BLDC Motor
+#### Dataset: BLDC Motor
 
 - [Data on the first endurance activity of a Brushless DC motor for aerospace applications - Data in Brief](https://www.data-in-brief.com/article/S2352-3409(20)30047-0/fulltext)
   - [Data for: First endurance activity of a Brushless DC motor for aerospace applications - REPRISE project - Mendeley Data](https://data.mendeley.com/datasets/m58bdhy2df/1)
@@ -113,10 +113,10 @@ tags: ['motor', 'fault']
   - motor: BLDC
   - sensor: acoustic
 
-### Dataset: PMSM
+#### Dataset: PMSM
 
 - [Identifying the Physics Behind an Electric Motor | Kaggle](https://www.kaggle.com/datasets/hankelea/system-identification-of-an-electric-motor) [Data Set Description: Identifying the Physics Behind an Electric Motor -- Data-Driven Learning of the Electrical Behavior (Part I)](https://arxiv.org/abs/2003.07273)
 
-### Dataset: Vehicle
+#### Dataset: Vehicle
 
 - [Sensors | Free Full-Text | Multi-Sensor Fault Detection, Identification, Isolation and Health Forecasting for Autonomous Vehicles](https://www.mdpi.com/1424-8220/21/7/2547) [MAminSFV/multi-sensor-FDII-health-forecasting-for-autonomous-vehicles: An Extension of A2D2 dataset by Audi with augmented sensor faults and different degradation paths](https://github.com/MAminSFV/multi-sensor-FDII-health-forecasting-for-autonomous-vehicles)

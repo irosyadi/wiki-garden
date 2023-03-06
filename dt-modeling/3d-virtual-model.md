@@ -5,15 +5,15 @@ date: 2023-01-25 09:10
 tags: ['tag1', 'tag2']
 ---
 
-# 3D Virtual Model
+## 3D Virtual Model
 
-## 3D Engine
+### 3D Engine
 
 - [Open 3D Engine](https://www.o3de.org/)
 
-## Metaverse Tools
+### Metaverse Tools
 
-### List
+#### List
 
 - [Top Open-Source Tools, Frameworks for Metaverse Development](https://www.itprotoday.com/software-development/top-7-open-source-tools-and-frameworks-metaverse-development)
 - [Metaverse design toolkit. The concept of a metaverse that became…- by Nick Babich - UX Planet](https://uxplanet.org/metaverse-design-toolkit-a3c6f4b049f0)
@@ -23,7 +23,7 @@ tags: ['tag1', 'tag2']
 - [Python Game Engines–GameFromScratch.com](https://gamefromscratch.com/python-game-engines/)
 - [2d and 3d Game and Rendering Engines for Python - A Curated Collection - codeboje](http://codeboje.de/2d-and-3d-game-and-rendering-engines-python/)
 
-### Platforms/Engines
+#### Platforms/Engines
 
 - [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/creators/)
 - [Oculus Horizon Words](https://www.oculus.com/horizon-worlds/)
@@ -38,7 +38,7 @@ tags: ['tag1', 'tag2']
 - [Maplesoft - Software for Mathematics, Online Learning, Engineering](https://www.maplesoft.com/)
 - [Simulation, Production Planning and Scheduling Software - Simio](https://www.simio.com/index.php)
 
-### 3D Modeling Tools
+#### 3D Modeling Tools
 
 - [Adobe Medium](https://www.adobe.com/products/medium.html)
 - [Houdini](https://www.sidefx.com/)
@@ -56,23 +56,23 @@ tags: ['tag1', 'tag2']
 - [Education Plan - Onshape Product Development Platform](https://www.onshape.com/en/education/) Free
 - [Fusion 360 - Fusion 360 - Autodesk Knowledge Network](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html)
 
-### Avatar creation
+#### Avatar creation
 
 - [Ready Player Me](https://readyplayer.me/)
 - [Spatial](https://spatial.io/create-an-avatar)
 
-### Augmented Reality
+#### Augmented Reality
 
 - [Augmented Reality App and Studio for your company - 3DQR](https://3dqr.de/en/)
 - [DottyAR - InstantAR - First Instant Augmented Reality viewer from your website.](https://dottyar.com/)
 
-### Metaverse Environment
+#### Metaverse Environment
 
 ![](https://i.vgy.me/H2ktWj.png)
 
 ![Metaverse Map](vx_images/365010310236639.jpg)
 
-## Python - Simulation Connection
+### Python - Simulation Connection
 
 - Blender Python API - 3D Free
     - [Create 3D objects and animations in Blender with Python API](https://demando.se/blogg/post/dev-generating-a-procedural-solar-system-with-blenders-python-api/)
@@ -107,7 +107,7 @@ tags: ['tag1', 'tag2']
 - [SolveSpace - parametric 3d CAD](https://solvespace.com/index.pl) CAD Free
 - [Open Cascade CAD software for engineering - 3D CAD software](https://www.opencascade.com/products/)
 
-## CFD
+### CFD
 
 - [OpenFOAM](https://www.openfoam.com/)
 - [Gmsh: a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities](http://gmsh.info//)
@@ -115,18 +115,18 @@ tags: ['tag1', 'tag2']
 - [Gmsh: a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities](https://gmsh.info/)
 - [Precise Simulation - Physics Simulation Made Easy](https://www.precisesimulation.com/)
 
-## HMI Python
+### HMI Python
 
 - Python with Qt, pyqtgraph and pyModbusTCP
 - [Raspberry Pi Industrial Automation HMI/GUI designing using PYQT5](https://www.electroniclinic.com/raspberry-pi-industrial-automation-hmi-gui-designing-using-pyqt5/)
 - [Welcome to PyScada’s documentation!—PyScada 0.7.0rc16 documentation](https://pyscada.readthedocs.io/en/master/)
 
-## Tutorial
+### Tutorial
 
 - [Integrating LoRaWAN sensors in your Digital Twins environment - End-to-end tutorial on how to create digital twins of your LoRaWAN sensors and visualize them in a 3D environment.](https://kartben.github.io/lorawan-adt-demo/) Blender, Azure, Arduino
 - [Extending the AZ-220 Digital Twins hands-on lab with 3D visualization–Sander van de Velde](https://sandervandevelde.wordpress.com/2022/08/04/extending-the-az-220-digital-twins-hands-on-lab-with-3d-visualization/)
 
-## Motor Simulator
+### Motor Simulator
 
 - [PyLeeCan - PYthon Library for Electrical Engineering Computational ANalysis](https://www.pyleecan.org/tutorials.html) PYLEECAN project provides a user-friendly, unified, flexible simulation framework for the multi-physic design and optimization of electrical machines and drives.
 - [RobotPy—RobotPy 2021 documentation](https://robotpy.readthedocs.io/en/stable/index.html)
@@ -139,7 +139,7 @@ simulation, to be used later in a C reimplementation directly in Open-BLDC runni
 - [Comsol - Analyzing Electric Motor and Generator Designs with COMSOL® - COMSOL Blog](https://www.comsol.com/blogs/analyzing-electric-motor-and-generator-designs-with-comsol/)
 - [Ansys - Electric Motor Design, Analysis & Verification - Wilde Analysis Ltd](https://wildeanalysis.co.uk/software/design-simulation/ansys/electromagnetics/electric-motors/)
 
-## Physics Simulation
+### Physics Simulation
 
 - [Lesics - YouTube](https://www.youtube.com/c/Lesics/videos)
 - [Brushless DC Motor Animation - TI.com Video](https://training.ti.com/brushless-dc-motor-animation)
@@ -185,13 +185,13 @@ Experience
 - pygame for 2d animations.
 - panda3d for 3d animations.
 
-## Discrete Event Simulation
+### Discrete Event Simulation
 
 - [Salabim](https://www.salabim.org/)
 - [Simpy](https://simpy.readthedocs.io/en/latest/)
 - [pysim](https://github.com/francescobarbarulo/pysim)
 
-## Python Blog
+### Python Blog
 
 - [BragitOff.com - READ-LEARN-BRAG!](https://www.bragitoff.com/)
 - [Python Graph Gallery](https://www.python-graph-gallery.com/)
@@ -201,21 +201,21 @@ Experience
 - [A Multi-Language Reinforcement Learning Digital Twin Environment](https://xaviergeerinck.com/2020/04/15/a-multi-language-reinforcement-learning-digital-twin-environment/)
 - [Internet Of Things - Digital Twins Explained](https://xaviergeerinck.com/2020/04/15/internet-of-things---digital-twins-explained/)
 
-## SCADA HMI
+### SCADA HMI
 
 - [CODESYS Group](https://www.codesys.com/) Free
 
-## Digital Twin BLog
+### Digital Twin BLog
 
 - [Home - Sutanto Notes](https://freddy.sutanto.info/)
 - [RIAPS - Resilient Information Architecture Platform for the Smart Grid](https://riaps.isis.vanderbilt.edu/)
 
-## Embedded Machine Learning Platform
+### Embedded Machine Learning Platform
 
 [Edge Impulse](https://www.edgeimpulse.com/)  
 [Welcome - Expert Projects](https://docs.edgeimpulse.com/experts/)
 
-## Digital Twin Philosophy
+### Digital Twin Philosophy
 
 Digital twins are an interesting idea that, like "cognitive computing", is easily abused by marketing, and will probably rake in a lot of consulting fees for people like the authors of this piece (Accenture Research) and companies like IBM.  
 The essence of a digital twin is a simulation complex enough to be useful in making predictions in the real world. (That's the "twin" part.) Making complex simulations, as you might imagine, is difficult. It requires effort, deep domain knowledge (rare talent), good feedback mechanisms with the real situation in question, and some means of managing that complexity.  
@@ -260,7 +260,7 @@ The term has been widely used in manufacturing since then and has been a key sal
 
 The term regularly crops up in manufacturing, maintenance, smart cities, IoT and more recently AI related proposals and projects and generally means a virtual simulation that uses real data to simulate a complex system.
 
-As pointed out by many over the years - the concepts are also described by Prof.David Gelernter in his book 'MIrror Worlds: Or the Day Software Puts the Universe in a Shoebox...How It Will Happen and What It Will Mean' first ipublished in 1991.
+As pointed out by many over the years - the concepts are also described by Prof.David Gelernter in his book 'MIrror Worlds: Or the Day Software Puts the Universe in a Shoebox…How It Will Happen and What It Will Mean' first ipublished in 1991.
 
 [Digital Twin Software - GE Digital](https://www.ge.com/digital/applications/digital-twin)  
 [How Digital Twins Can Transform Track Maintenance - Railway Age](https://www.railwayage.com/news/how-digital-twins-support-big-data-driven-decisions-to-transform-track-maintenance/)  
@@ -277,7 +277,7 @@ He calls all this the "mobility operating system."
 In the interview I heard (I wish I could remember where, sorry) Mr. Hackett said he believes the defensible intellectual property for autonomous cars will be those detailed city models.  
 So, I am delighted to hear that municipalities are getting ahead of this issue with respect to city models.
 
-## Freecad Animation with Python
+### Freecad Animation with Python
 
 - [Jose Gabriel Egas Ortuño - YouTube](https://www.youtube.com/user/josegegas/videos)
     - [FreeCAD 4 stroke engine animation - YouTube](https://www.youtube.com/watch?v=SZ6KtSeSkW8)
@@ -293,16 +293,16 @@ So, I am delighted to hear that municipalities are getting ahead of this issue w
 - [mnesarco/HyperController: 8DOF Space Controller Device for FreeCAD](https://github.com/mnesarco/HyperController)
 - [Arduino With Python: How to Get Started–Real Python](https://realpython.com/arduino-python/)
 
-## VPython Animation with Python
+### VPython Animation with Python
 
 - [Motor Web VPython](https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/program/ElectricMotor), [Motor Code Web VPython](https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/program/ElectricMotor/edit)
 - [Web VPython](https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/)
 
-## Animation not Python
+### Animation not Python
 
 - [felipereigosa/mock-mechanics: Mechanical/visual programming language](https://github.com/felipereigosa/mock-mechanics)
 
-## Candidate List
+### Candidate List
 
 Candidate list  
 
@@ -316,21 +316,21 @@ Candidate list
 - IoT: nodered (See this [(39) How to visualize Node-RED 1.0 to MQTT Dashboard "HINET Live Panel" - YouTube](https://www.youtube.com/watch?v=Kdrhx5W0RvA), [Node-Red: OEE Monitoring System Dashboard with Animation - YouTube](https://www.youtube.com/watch?v=sQx7dC1xtsk), [SVG animation in Node-RED Dashboard with Delta PLC (DVP 12SE ) - YouTube](https://www.youtube.com/watch?v=j5O93dAjHwc))
 - IoT: threejs (see this [(39) Simulación 3D Web en Tiempo Real con Arduino, Node js, Websockets, Threejs y Sensor MPU6050 - YouTube](https://www.youtube.com/watch?v=cbYVnNJqVhc&t=0s) [(39) Arduino + Node.js + Three.js - A first demo - YouTube](https://www.youtube.com/watch?v=Vqw-OVQ0Zlg))
 
-## Youtube
+### Youtube
 
 - [(39) Heru Iqbal - YouTube](https://www.youtube.com/c/HeruIqbalNetworkEnterpriseTelemetry/videos)
 - [(39) Digital Twin, cases study for oil and gas industry - YouTube](https://www.youtube.com/watch?v=DLX7CxE8a-A)
 - [(39) XG Song - YouTube](https://www.youtube.com/user/songxguan) [‪Xueguan Song (宋学官)‬ - ‪Google Cendekia‬](https://scholar.google.co.id/citations?hl=id&user=iKNeLCYAAAAJ&view_op=list_works&sortby=pubdate)
 - [Yaser Ali Husen - YouTube](https://www.youtube.com/c/YaserAliHusen/videos)
 
-## SVG Animation
+### SVG Animation
 
 - [Awesome gauges for Node-Red - YouTube](https://www.youtube.com/watch?v=qr1BzXzLWe4)
 - [Animated Node-Red Graphics with MQTT and SVG–Fun Tech Projects](https://funprojects.blog/2020/04/15/animated-node-red-graphics-with-mqtt-and-svg/)
 - [Animation - Inkscape](https://inkscape.org/learn/animation/)
 - [Synfig–Free and open-source animation software](https://www.synfig.org/)
 
-## 3D BLDC Motor
+### 3D BLDC Motor
 
 - [▷ brushless dc motor design 3d models【STLFinder】](https://www.stlfinder.com/3dmodels/brushless-dc-motor-design/)
 - [Brushless DC Electric Motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-dc-electric-motor-2) Blender
@@ -349,7 +349,7 @@ Important
 - [RobotComponents/Printed-BLDC-motor at main · RepRapLtd/RobotComponents](https://github.com/RepRapLtd/RobotComponents/tree/main/Printed-BLDC-motor) [Blog - RepRap Ltd](https://reprapltd.com/blog/)
 - [High quality draft with 0.18\_pre with tutorial - FreeCAD Forum](https://forum.freecadweb.org/viewtopic.php?f=24&t=32446&hilit=brushless)
 
-## BLDC Motor Simulation
+### BLDC Motor Simulation
 
 - [joewa/open-bldc-modelica: Multi physics simulation models for open-bldc](https://github.com/joewa/open-bldc-modelica)
 
@@ -378,15 +378,15 @@ Python Graph
 Python Game Library  
 Pygame, PyopenGL, Pyglet, and Panda3D
 
-## Seed Studio Hardware
+### Seed Studio Hardware
 
 - [Seeed Wiki](https://wiki.seeedstudio.com/)
 
-## Machine Learning Platform
+### Machine Learning Platform
 
 - [Edge Impulse](https://edgeimpulse.com/)
 
-## Freecad Headless
+### Freecad Headless
 
 - [Scripting and macros - FreeCAD Documentation](https://wiki.freecadweb.org/Scripting_and_macros)
 - [Embedding FreeCAD - FreeCAD Documentation](https://wiki.freecadweb.org/Embedding_FreeCAD)
@@ -394,7 +394,7 @@ Pygame, PyopenGL, Pyglet, and Panda3D
 - [Solved run FreeCAD without GUI - FreeCAD Forum](https://forum.freecadweb.org/viewtopic.php?t=294)
 - [FreeCAD external editor with Code–OSS–Python HVAC](https://pythoncvc.net/?p=869)
 
-## Digital Twin Project
+### Digital Twin Project
 
 - [Digital Twin Greenhouse with IoT sensors - Hackster.io](https://www.hackster.io/Multimedia_Egg/digital-twin-greenhouse-with-iot-sensors-f7aa1c) [Smart Village](https://www.seeedstudio.com/smart-village)
 - [Digital Twin tests elevator ride in Ermua - Hackster.io](https://www.hackster.io/ivan-arakistain/digital-twin-tests-elevator-ride-in-ermua-39a047) [ML Anomaly Detection in Elevators w/ Edge Impulse & Notecard - Hackster.io](https://www.hackster.io/ivan-arakistain/ml-anomaly-detection-in-elevators-w-edge-impulse-notecard-344198)
@@ -402,17 +402,17 @@ Pygame, PyopenGL, Pyglet, and Panda3D
 - [Virtual Store System using digital twins and oneM2M - Hackster.io](https://www.hackster.io/meta-express-bus/virtual-store-system-using-digital-twins-and-onem2m-22d0ac)
 - [Controlling Virtual Object and Physical Object using BabylonJS and Arduino - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/controlling-virtual-object-and-physical-object-using-babylonjs-and-arduino/12266) [Github](https://github.com/ilhamachmada/robot-arm-babylonjs-webxr) [Virtual Engineering - Scenario and Sync Demo - YouTube](https://www.youtube.com/watch?v=z5pYWxzwzxA) Blender, Babylonjs, nodered, webxr
 
-## Web based SCADA
+### Web based SCADA
 
 - [frangoteam](https://frangoteam.org/) [frangoteam/FUXA: Web-based Process Visualization (SCADA/HMI/Dashboard) software](https://github.com/frangoteam/FUXA)
 - [IIOT Platform, Industrial Internet of Things, Web HMI, SCADA IOT, M2M](https://openautomationsoftware.com/)
 - [WebIQ - The Web HMI / SCADA Toolbox For Professional HMIs](https://www.smart-hmi.com/)
 
-## Web 3D
+### Web 3D
 
 - [Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best](https://www.babylonjs.com/)
 
-## IoT Platform
+### IoT Platform
 
 - [IoT platform - Internet of Things - Ubidots](https://ubidots.com/)
 - [Datacake - Low Code IoT Platform - White Label - LoRaWAN](https://datacake.co/)

@@ -5,9 +5,9 @@ date: 2022-08-31 09:35:09
 tags: ['fault', 'motor']
 ---
 
-# Electric Motor Fault by Component
+## Electric Motor Fault by Component
 
-## Mechanical Component
+### Mechanical Component
 
 - Motor
   - Air gap: [Eccentricity](eccentricity.md)
@@ -16,14 +16,14 @@ tags: ['fault', 'motor']
   - Gearwheel: tooth
 - Other components: jamming, load, coupling
 
-## Electrical Component
+### Electrical Component
 
 - Motor
   - [Rotor Faults](rotor-fault.md)
   - [Stator Faults](stator-fault.md)
 - Other components : inverter
 
-## Electric Motor Fault by Components
+### Electric Motor Fault by Components
 
 - Motor housing
   - Failures: improper installation, physical damage, corrosion and material buildup.
@@ -59,11 +59,11 @@ tags: ['fault', 'motor']
     - Examples:
       - For instance, installing a motor improperly can cause certain components, such as the motor casing, to corrode and create imbalance.
 
-## Cross-references
+### Cross-references
 
 [Electric Motor Fault Causes](../motor-fault/electric-motor-fault-cause.md)
 
-## References
+### References
 
 - [The 50 Failure Modes of Electric Motors](https://www.uesystems.com/the-50-failure-modes-of-electric-motors/)
 - [The essential guide to electric motor failure](https://www.dukeelectric.com/electric-motor-failure/)

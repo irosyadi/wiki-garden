@@ -5,9 +5,9 @@ date: 2023-02-13 05:55
 tags: ['motor', 'fault']
 ---
 
-# BLDC Motor Faults
+## BLDC Motor Faults
 
-## BLDC Fault
+### BLDC Fault
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S235248472100130X-gr2.jpg)
 

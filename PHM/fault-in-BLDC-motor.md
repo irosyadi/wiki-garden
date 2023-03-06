@@ -5,7 +5,7 @@ date: 2022-08-04 03:46:42
 tags: ['BLDC', 'fault-diagnostic']
 ---
 
-# Fault in BLDC Motor
+## Fault in BLDC Motor
 
 Faults in BLDC categories:
 

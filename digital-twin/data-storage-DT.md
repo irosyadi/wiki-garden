@@ -5,7 +5,7 @@ date: 2022-07-28 17:28
 tags: ['data', 'digital-twin']
 ---
 
-# Data Storage in Digital Twin
+## Data Storage in Digital Twin
 
 Data storage is to store the collected data for further processing, analysis, and management.
 

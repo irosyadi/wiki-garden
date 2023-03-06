@@ -5,7 +5,7 @@ date: 2023-01-11 11:04
 tags: ['tag1', 'tag2']
 ---
 
-# Scipy Howto
+## Scipy Howto
 
 Scipy, as many other large packages, doesn't import all modules automatically. If we want to use the subpackages of scipy, then we need to import them directly.
 
@@ -17,7 +17,7 @@ In many packages that use scipy, the preferred pattern is to import the subpacka
 >>> from scipy import stats, optimize, interpolate
 ```
 
-## Spectrogram vs STFT
+### Spectrogram vs STFT
 
 **Tl;dr**: If I write it with the ouput given by the SciPy documentation: `Sxx = Zxx ** 2`. Spectogram is STFT².
 
@@ -49,4 +49,4 @@ In reality, to get the real spectrogram, one should write:
 >>> plt.pcolormesh(t, f, Zxx ** 2, vmin=0, vmax=amp)
 ```
 
-## References
+### References

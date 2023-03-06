@@ -5,7 +5,7 @@ date: 2023-01-11 04:59
 tags: ['tag1', 'tag2']
 ---
 
-# PHM Papers with Code
+## PHM Papers with Code
 
 - Chatter in Machining
   - [Khasawneh-Lab/ML\_Toolbox\_Machining](https://github.com/Khasawneh-Lab/ML_Toolbox_Machining), [Machine learning EEMD](http://firaskhasawneh.com/assets/repo_docs/ML_WPT_EEMD_doc/index.html#yesilli2019)
@@ -36,4 +36,4 @@ tags: ['tag1', 'tag2']
   - [Functional Logistic Regression for Motor Fault Classification Using Acoustic Data in Frequency Domain](https://www.mdpi.com/1996-1073/15/15/5535) [KAIR-ISZ/fda-motor-acoustic](https://github.com/KAIR-ISZ/fda-motor-acoustic)
   - [Hardik096/-CONDITION-MONOTORING-BEARING-FAULT-DIAGNOSIS-OF-3-PHASE-BLDC-MOTOR-BY-ELECTRICAL-SIGNATURE-USING-: master thesis](https://github.com/Hardik096/-CONDITION-MONOTORING-BEARING-FAULT-DIAGNOSIS-OF-3-PHASE-BLDC-MOTOR-BY-ELECTRICAL-SIGNATURE-USING-) web based Condition monitoring
 
-## References
+### References

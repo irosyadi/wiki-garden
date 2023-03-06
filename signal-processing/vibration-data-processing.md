@@ -5,7 +5,7 @@ date: 2023-02-07 19:28
 tags: ['tag1', 'tag2']
 ---
 
-# Vibration Data Processing
+## Vibration Data Processing
 
 Pre-processing of vibration data for classification:
 
@@ -20,7 +20,7 @@ The best way to pre-process vibration data for classification depends on the typ
 
 The best way to pre process vibration data for classifying them is to use a combination of techniques. One of the most common methods is to use an empirical mode decomposition (EMD) to disintegrate the signal into narrowband IMFs, which can then be applied to a Hilbert transform (HT) to extract the instantaneous frequencies. Another popular method is to use a Fourier transform (FT), which takes a series of FFTs and overlaps them to illustrate how the spectrum (frequency domain) changes with time. Additionally, spectrograms can be used to illustrate how the spectrum of the vibration changes over time. Finally, it is important to consider the resolution in time and frequency as well as the tolerability of artifacts when selecting a technique for vibration signal analysis.
 
-## References
+### References
 
 - [Vibration Data and a Few Techniques to Analyze It | by khushnandan rai | Towards Data Science](https://towardsdatascience.com/vibration-data-and-a-few-techniques-to-analyze-it-549f311cd1e9)
 - [Vibration Analysis Explained | Reliable Plant](https://www.reliableplant.com/vibration-analysis-31569)

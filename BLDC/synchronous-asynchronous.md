@@ -5,9 +5,9 @@ date: 2022-12-23 10:13
 tags: ['tag1', 'tag2']
 ---
 
-# Synchronous Asynchronous Motor
+## Synchronous Asynchronous Motor
 
-## Synchronous Motor
+### Synchronous Motor
 
 - electric motor which has a rotor that is designed to rotate at the speed of rotational magnetic field of the stator (synchronous speed)
 - The operating principle of the synchronous motor is based on the principle of magnetic interlocking between the magnetic fields of stator and rotor.
@@ -17,7 +17,7 @@ tags: ['tag1', 'tag2']
 - The synchronous motor’s rotor rotates with synchronous speed that depends on the supply frequency and the poles of stator windings. Therefore, the motor speed does not vary with the load. In order to vary the speed of a synchronous motor, the supply frequency must be varied.
 - Example: Brushless motor, Variable Reluctance Motor, Switched Reluctance Motor and Hysteresis motor.
 
-## Asynchronous Motor
+### Asynchronous Motor
 
 - electric motor which is designed in such a way that its rotor does not synchronize with the speed of the rotating magnetic field
 - the rotor of the asynchronous motor rotates with a relatively lesser speed than the speed of the rotating magnetic field (or synchronous speed)
@@ -29,7 +29,7 @@ tags: ['tag1', 'tag2']
 - The asynchronous motor speed depends on the slip of the motor that varies with the load and the rotor resistance. In other words, the induction motor speed can vary with the load or by using varying rotor resistance.
 - Example: AC Induction Motor
 
-## References
+### References
 
 - [Difference between Synchronous and Asynchronous Motor](https://www.tutorialspoint.com/difference-between-synchronous-and-asynchronous-motor)
 - [Difference between Synchronous and Asynchronous Motor](https://www.electricaltechnology.org/2020/09/difference-synchronous-asynchronous-motor.html)

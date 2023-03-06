@@ -5,7 +5,7 @@ date: 2022-09-30 03:58
 tags: ['signal']
 ---
 
-# Signal Processing in the Time-Frequency Domain
+## Signal Processing in the Time-Frequency Domain
 
 - Time-Frequency Linear Transformation. Advantage: similar to classical spectral methods in concept and strategy.
   - Short-Time-Fourier Transform (STFT)
@@ -47,12 +47,12 @@ tags: ['signal']
       - Advantage: IMF may have variable frequency contents depending of local signal properties.
       - Disadvantage: Performance of WPT depends on choice of wavelet, its similarity to analyzed signal.
 
-## Advantage
+### Advantage
 
 - Algorithms able to represent how the frequency contents vary with time.
 - Non-stationary conditions can be analyzed.
 
-## Disadvantage
+### Disadvantage
 
 - In general, algorithms not so much validated industrially.
 - High computational costs.

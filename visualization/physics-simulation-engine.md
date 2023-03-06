@@ -5,9 +5,9 @@ date: 2022-10-13 07:09
 tags: ['visualization', 'simulation']
 ---
 
-# Physics Simulation Engine
-
 ## Physics Simulation Engine
+
+### Physics Simulation Engine
 
 A physics simulation engine is a custom software engine that grants developers add visual effects, simulate and tweak objects and environments according to the law of physics in 2D, 3D or both.
 
@@ -30,7 +30,7 @@ A physics simulation engine is a custom software engine that grants developers a
 - [Brax](https://github.com/google/brax) is a differentiable physics' engine that simulates environments made up of rigid bodies, joints, and actuators.
 - **[MuJoCo](https://mujoco.org/)** is a free and open source physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation
 
-## References:
+### References:
 
 - [15 Open-source Physics Simulation Engine](https://medevel.com/os-physics-engine/)
 - [Full List Of Open Source Physics Engines](https://www.tapirgames.com/blog/open-source-physics-engines)

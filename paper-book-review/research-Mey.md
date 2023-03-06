@@ -5,9 +5,9 @@ date: 2023-02-11 09:49
 tags: ['tag1', 'tag2']
 ---
 
-# Oliver Mey PHM Research
+## Oliver Mey PHM Research
 
-## Research 1
+### Research 1
 
 Ref: [meyMachineLearningBasedUnbalance2020](../zotero/meyMachineLearningBasedUnbalance2020.md)
 

@@ -5,7 +5,7 @@ date: 2022-07-24 11:43
 tags: ['digital-twin']
 ---
 
-# Five Dimensions of Digital Twin
+## Five Dimensions of Digital Twin
 
 The dimensions according to [Falekas. 2021. *Digital twin in electrical machine control and predictive maintenance: state-of-the-art and future prospects*](zotero://select/items/1_S8ZD9NAZ) are :
 
@@ -27,7 +27,7 @@ The five dimensions according to [thelenComprehensiveReviewDigital2022](../zoter
 4. Prediction Engine (V2P)
 5. Optimization Dimension (OPT). An optimization dimension (OPT, i.e., the fifth dimension) supports the functionalities of the other four dimensions in the digital twin by optimizing the data collection, modeling, state estimation, decision making, etc.
 
-## Diagram Examples
+### Diagram Examples
 
 - [Example 1](https://ars.els-cdn.com/content/image/1-s2.0-S027861251930086X-gr5.jpg)
 

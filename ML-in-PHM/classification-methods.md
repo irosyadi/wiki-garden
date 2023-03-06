@@ -5,7 +5,7 @@ date: 2023-02-13 09:46
 tags: ['tag1', 'tag2']
 ---
 
-# Classification Methods
+## Classification Methods
 
 - Bayesian Inference
 - Regression Models
@@ -20,4 +20,4 @@ tags: ['tag1', 'tag2']
 - Fuzzy Logic
 - Expert Systems
 
-## References
+### References

@@ -5,9 +5,9 @@ date: 2023-02-12 02:55
 tags: ['fusion']
 ---
 
-# Data Fusion Methods
+## Data Fusion Methods
 
-## Sensor Fusion Categories
+### Sensor Fusion Categories
 
 - Complementary. Each sensor provides data about different aspects or attributes of the environment. By combining the data from each of the sensors we can arrive at a more global view of the environment or situation. Since there is no dependency between the sensors combining the data is relatively easy.
 - Competitive. Several sensors measure the same or similar attributes. The data from several sensors is used to determine the overall value for the attribute under measurement. The measurements are taken independently and can also include measurements at different time instants for a single sensor. This method is useful in fault tolerant architectures to provide increased reliability of the measurement
@@ -15,7 +15,7 @@ tags: ['fusion']
 
 Several other types of sensor networks exist such as corroborative, concordant, redundant, etc. Most of them are derived from the above mentioned sensor fusion categories.
 
-## Sensor Fusion Types
+### Sensor Fusion Types
 
 - Data In - Data Out (DAI-DAO) Fusion
 - Data In - Feature Out (DAI-FEO) Fusion
@@ -23,25 +23,25 @@ Several other types of sensor networks exist such as corroborative, concordant, 
 - Feature In - Decision Out (FIE-DEO) Fusion
 - Decision In - Decision Out (DEI-DEO) Fusion
 
-## Sensor Fusion Topologies
+### Sensor Fusion Topologies
 
 - Centralized Architecture. A single node handles the fusion process. The sensors undergo preprocessing before they are sent to the central node for the fusion process to take place.
 - Decentralized Architecture. Each of the sensor processes data at its node and there is no need for a global or central node. Since the information is processed individually at the node.
 - Hierarchical Architecture. Combination of both centralized and distributed type.
 
-## Sensor Fusion Models
+### Sensor Fusion Models
 
 - JDL Fusion Architecture
 - Waterfall Fusion Process Model
   - Sensing ⭢ Signal Processing ⭢ Feature Extraction ⭢ Pattern Processing ⭢ Situation Assessment ⭢ Decision Making
 
-## Sensor Fusion Levels
+### Sensor Fusion Levels
 
 - Signal Level Fusion
 - Feature Level Fusion
 - Decision Level Fusion
 
-## Signal Level Fusion
+### Signal Level Fusion
 
 - Data from multiple sources (sensors) are combined to obtain better quality data and higher understanding of the environment being observed.
 - Goals:
@@ -50,7 +50,7 @@ Several other types of sensor networks exist such as corroborative, concordant, 
 - Common representation format
   - spatial alignment ⭢ temporal alignment ⭢ normalization ⭢ scaling
 
-## Signal Level Fusion Methods
+### Signal Level Fusion Methods
 
 - Weighted Averaging. Taking an average of the various sensor signals measuring a particular parameter of the environment.
 - Kalman Filter. Adaptive method of sensor fusion to remove redundancy in the system and to predict the state of the system. If there are two sensors and both of them sending data simultaneously, then $$ z(k) = [z1(k), z2(k)] = Hx(k)+v $$
@@ -61,7 +61,7 @@ Several other types of sensor networks exist such as corroborative, concordant, 
 - Adaptive observer
 - Composite coherent spectrum (CCS), poly-CCS (see Yanusa Kaltungo), embedding both sensor and feature level fusion
 
-## Decision Level Fusion
+### Decision Level Fusion
 
 - Identity based
   - Dempster-Shafer evidence theory see ([jiangNewEngineFault2017](zotero://select/library/items/EJX4SEP4) [link](https://www.mdpi.com/2076-3417/7/3/280))
@@ -69,16 +69,16 @@ Several other types of sensor networks exist such as corroborative, concordant, 
   - Maximum likelihood
   - Z numbers
   - D numbers
-  - Voting methods 
-  - Bayesian Belief fusion 
-  - Multi agent fusion 
+  - Voting methods
+  - Bayesian Belief fusion
+  - Multi agent fusion
   - Decision Templates
 - Knowledge based
   - Syntax rule
   - Neural Network
   - Fuzzy logic and set
 
-## References
+### References
 
 - [chandrasekaranSurveyMultisensorFusion2017](zotero://select/library/items/AIISJC8G) [link]() [DOI](https://doi.org/10.1109/SECON.2017.7925311)
 - [niuDataDrivenTechnologyEngineering2017](zotero://select/library/items/AQ6U3GGX) [link](http://link.springer.com/10.1007/978-981-10-2032-2) [DOI](https://doi.org/)

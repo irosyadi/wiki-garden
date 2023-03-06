@@ -5,9 +5,9 @@ date: 2023-01-11 05:01
 tags: ['tag1', 'tag2']
 ---
 
-# Python Statistics
+## Python Statistics
 
-## Time series statistic
+### Time series statistic
 
 - [Top 12 Vibration Metrics to Monitor & How to Calculate Them](https://blog.endaq.com/top-vibration-metrics-to-monitor-how-to-calculate-them)
 - [Frequency domain feature extraction methods | Kaggle](https://www.kaggle.com/code/oybekeraliev/frequency-domain-feature-extraction-methods)
@@ -16,6 +16,6 @@ tags: ['tag1', 'tag2']
 - [Welcome to TSFEL documentation! — TSFEL 0.1.4 documentation](https://tsfel.readthedocs.io/en/latest/index.html)
 - [Introduction — tsfresh 0.18.1.dev39+g611e04f documentation](https://tsfresh.readthedocs.io/en/latest/text/introduction.html)
 
-## References
+### References
 
 - [Python Statistics Fundamentals: How to Describe Your Data – Real Python](https://realpython.com/python-statistics/)

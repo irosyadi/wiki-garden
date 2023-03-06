@@ -5,7 +5,7 @@ date: 2022-10-01 23:03
 tags: ['book', 'review', 'PHM']
 ---
 
-# Data-Driven Technology for Engineering Systems Health Management
+## Data-Driven Technology for Engineering Systems Health Management
 
 1 Background of Systems Health Management  
 1.1 Introduction  
@@ -85,6 +85,6 @@ The open system architecture for condition-based maintenance organization (OSA-C
 5.11.3 Hierarchical Clustering  
 5.12 Other Techniques
 
-## References
+### References
 
 - [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)

@@ -5,7 +5,7 @@ date: 2022-09-28 07:48
 tags: ['PHM']
 ---
 
-# PHM Processes
+## PHM Processes
 
 PHM is generally composed of five major processes:
 

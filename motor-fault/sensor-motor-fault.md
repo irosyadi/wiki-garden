@@ -5,7 +5,7 @@ date: 2023-02-13 06:15
 tags: ['tag1', 'tag2']
 ---
 
-# Sensor for Motor Fault Identification
+## Sensor for Motor Fault Identification
 
 - Electromagnetic Flux
 - Temperature
@@ -14,4 +14,4 @@ tags: ['tag1', 'tag2']
 - Acoustic noise
 - Current (MCSA)
 
-## References
+### References

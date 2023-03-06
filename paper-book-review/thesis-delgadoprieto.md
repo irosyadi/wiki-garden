@@ -5,14 +5,14 @@ date: 2023-02-12 02:51
 tags: ['tag1', 'tag2']
 ---
 
-# Thesis by Delgado Prieto
+## Thesis by Delgado Prieto
 
 2.2 Information Fusion
 
 [Data Fusion](../data-fusion/data-fusion.md)
 
-2.3 Electromechanical fault
-[Electric Motor Category](../electric-motor/electric-motor-category.md)
+2.3 Electromechanical fault  
+[Electric Motor Category](../electric-motor/electric-motor-category.md)  
 [Electric Motor Fault](../motor-fault/electric-motor-fault.md)
 
 Vibration signal diagnosis capabilities
@@ -33,7 +33,6 @@ Stator current signal diagnosis capabilities
 
 2.4 Signal Acquisition
 
-
-## References
+### References
 
 - [delgadoprietoContributionsElectromechanicalSystems2012](zotero://select/library/items/R77CWBLY) [link](https://upcommons.upc.edu/handle/2117/94712) [DOI](https://doi.org/)

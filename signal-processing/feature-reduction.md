@@ -5,9 +5,9 @@ date: 2023-02-13 08:36
 tags: ['tag1', 'tag2']
 ---
 
-# Feature Reduction
+## Feature Reduction
 
-## Feature spaces
+### Feature spaces
 
 - Reduced number of features are not descriptive enough to characterize classes
 - But too many features will blur the vision to the system
@@ -15,14 +15,14 @@ tags: ['tag1', 'tag2']
 - Redundant, correlated and non-discriminant features will decrease data density.
 - These are curse of dimensionality phenomenon and can lead overfitting
 
-## Goal of feature reduction
+### Goal of feature reduction
 
 - Avoid the "curse of dimensionality".
 - Improve generalization.
 - Decrease computational complexity.
 - Reduce the number of needed observations.
 
-## Feature reduction methods
+### Feature reduction methods
 
 - Selection: choosing a subset of all the features using an objective function. Advantage: The selected features maintain their physical meaning, Approaches relatively simple to configure, Direct information about the most significant features. Disadvantage: The reduction capabilities are not extremely high, The application should be in high-dimensional sets (more than 50 features).
   - Filters.
@@ -47,6 +47,6 @@ tags: ['tag1', 'tag2']
     - Disadvantage: original data should be analyzed first in order to design properly the non-linear reduction
     - Methods: Kernels version (Kernel PCA, Kernel ICA), Manifold learning, Multidimensional scaling (MDS), Sammon's mapping, SOM (Self Organizing Map), Curvilinear Component Analysis (CCA)
 
-## References
+### References
 
 - [delgadoprietoContributionsElectromechanicalSystems2012](zotero://select/library/items/R77CWBLY) [link](https://upcommons.upc.edu/handle/2117/94712) [DOI](https://doi.org/)

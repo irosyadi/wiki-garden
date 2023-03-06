@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "antonino-daviuElectricalMonitoringTransient2020",
+      "path": "zotero/antonino-daviuElectricalMonitoringTransient2020.md"
+    },
+    {
       "basename": "ZoteroTemplates",
       "path": "Templates/Zotero/ZoteroTemplates.md"
     },
@@ -9,12 +13,36 @@
       "path": "Templates/WikiGarden/WikiGardenTemplates.md"
     },
     {
-      "basename": "paper-plan-01",
-      "path": "paper-plan/paper-plan-01.md"
+      "basename": "readme",
+      "path": "readme.md"
     },
     {
       "basename": "BLDC-aircraft-drone",
       "path": "BLDC/BLDC-aircraft-drone.md"
+    },
+    {
+      "basename": "arduino-resource",
+      "path": "arduino/arduino-resource.md"
+    },
+    {
+      "basename": "winding-method",
+      "path": "BLDC/winding-method.md"
+    },
+    {
+      "basename": "synchronous-asynchronous",
+      "path": "BLDC/synchronous-asynchronous.md"
+    },
+    {
+      "basename": "ipmsm-spmsm",
+      "path": "BLDC/ipmsm-spmsm.md"
+    },
+    {
+      "basename": "BLDC-motor",
+      "path": "BLDC/BLDC-motor.md"
+    },
+    {
+      "basename": "BLDC-EV-system",
+      "path": "BLDC/BLDC-EV-system.md"
     },
     {
       "basename": "I2C-address-conflict",
@@ -25,16 +53,16 @@
       "path": "arduino/arduino-sampling-rate.md"
     },
     {
-      "basename": "arduino-resource",
-      "path": "arduino/arduino-resource.md"
+      "basename": "3d-visualization",
+      "path": "3d/3d-visualization.md"
+    },
+    {
+      "basename": "paper-plan-01",
+      "path": "paper-plan/paper-plan-01.md"
     },
     {
       "basename": "clustering-method",
       "path": "clustering-method.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
     },
     {
       "basename": "experimental-heading-1",
@@ -43,22 +71,6 @@
     {
       "basename": "time-series-feature-library",
       "path": "time-series/time-series-feature-library.md"
-    },
-    {
-      "basename": "BLDC-EV-system",
-      "path": "BLDC/BLDC-EV-system.md"
-    },
-    {
-      "basename": "BLDC-motor",
-      "path": "BLDC/BLDC-motor.md"
-    },
-    {
-      "basename": "ipmsm-spmsm",
-      "path": "BLDC/ipmsm-spmsm.md"
-    },
-    {
-      "basename": "3d-visualization",
-      "path": "3d/3d-visualization.md"
     },
     {
       "basename": "experimental-heading-2",
@@ -187,18 +199,6 @@
     {
       "basename": "to-do",
       "path": "note/to-do.md"
-    },
-    {
-      "basename": "2023-02-14",
-      "path": "note/2023-02-14.md"
-    },
-    {
-      "basename": "ml-cheat-sheet",
-      "path": "ML/ml-cheat-sheet.md"
-    },
-    {
-      "basename": "time-series-github",
-      "path": "ML-in-PHM/time-series-github.md"
     }
   ],
   "omittedPaths": [],

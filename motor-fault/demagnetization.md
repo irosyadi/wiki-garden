@@ -5,13 +5,13 @@ date: 2022-12-23 07:46
 tags: ['motor', 'fault']
 ---
 
-# Demagnetization
+## Demagnetization
 
-## Notes
+### Notes
 
 - also called Irreversible Demagnetization Fault (IDF)
 
-## Causes
+### Causes
 
 - overheating
 - overload
@@ -21,7 +21,7 @@ tags: ['motor', 'fault']
 - open circuit fault
 - aging
 
-## Effects
+### Effects
 
 - decrease the back electromotive force (BEMF) of the motor
 - disturbs the symmetry of the air-gap flux density
@@ -32,7 +32,7 @@ tags: ['motor', 'fault']
 - raises the temperature of the stator winding
 - more flux drops under IDF in the PMSM.
 
-## Detection
+### Detection
 
 - stator current
   - explanation: almost every fault disturbs the symmetry of magnetic flux in the PMSM, which results in torque and speed variations in the motor. These variations are reflected in the stator current.
@@ -46,11 +46,11 @@ tags: ['motor', 'fault']
 - Torque Ripple Based Detection Techniques
   - explanation: The effect of a demagnetization fault is directly reflected in the torque profile of the machine. The direct analysis of the torque requires an expensive torque sensor, which is mostly not present in motor control drive systems.
 
-## Fault Detection Diagram
+### Fault Detection Diagram
 
 ![demagnetization detection](https://i.vgy.me/dKs7V7.png)
 
-## References
+### References
 
 - [kudelinaMainFaultsDiagnostic2020](zotero/kudelinaMainFaultsDiagnostic2020.md)
 - [ullahComprehensiveReviewWinding2018](../zotero/ullahComprehensiveReviewWinding2018.md)

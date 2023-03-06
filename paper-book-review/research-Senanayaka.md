@@ -5,13 +5,13 @@ date: 2023-02-11 19:22
 tags: ['tag1', 'tag2']
 ---
 
-# Jagath Sri Lal Senanayaka Research
+## Jagath Sri Lal Senanayaka Research
 
 Thesis
 
 - [senanayakaOnlineConditionMonitoring2020](../zotero/senanayakaOnlineConditionMonitoring2020.md) Naive Bayes Combiner
 
-## References
+### References
 
 - A robust method for detection and classification of permanent magnet synchronous motor faults: Deep autoencoders and data fusion approach
   - Fusion with Bayes Classifier
@@ -32,5 +32,5 @@ Thesis
   - Unsupervised with SVM
   - Supervised with CNN
 - Towards online bearing fault detection using envelope analysis of vibration signal and decision tree classification algorithm
-  - Envelope detection 
+  - Envelope detection
   - Decision tree

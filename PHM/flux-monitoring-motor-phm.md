@@ -5,7 +5,7 @@ date: 2022-08-22 19:40:28
 tags: ['flux', 'PHM', 'motor']
 ---
 
-# Flux Monitoring for PHM in Motor
+## Flux Monitoring for PHM in Motor
 
 "Nonetheless, after many years now, the consensus is that there is no method based on a single quantity that can provide a comprehensive knowledge of the machine's health conditions. Most commercialised techniques are based on motor current signature analysis (MCSA), which has been proved to be susceptible to false/missed alarms."  
 [Airgap and stray magnetic flux monitoring techniques for fault diagnosis of electrical machines: An overview - Mazaheri‐Tehrani - 2022 - IET Electric Power Applications - Wiley Online Library](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/elp2.12157)

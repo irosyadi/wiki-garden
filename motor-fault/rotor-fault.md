@@ -5,9 +5,9 @@ date: 2022-12-23 07:44
 tags: ['motor', 'fault']
 ---
 
-# Rotor Faults
+## Rotor Faults
 
-## Classification
+### Classification
 
 - in PMSM/BLDC:
   - [Demagnetization](../motor-fault/demagnetization.md)
@@ -19,7 +19,7 @@ tags: ['motor', 'fault']
   - iron related faults
   - broken rotor bars
 
-## Causes
+### Causes
 
 - too many starts
 - sudden action or outburst
@@ -27,8 +27,8 @@ tags: ['motor', 'fault']
 - physical damage
 - excessive heat.
 
-## Effects
+### Effects
 
-## References
+### References
 
 - [cardosoDiagnosisFaultTolerance2018](zotero/cardosoDiagnosisFaultTolerance2018.md)

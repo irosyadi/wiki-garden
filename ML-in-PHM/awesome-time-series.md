@@ -5,11 +5,11 @@ date: 2023-01-23 06:25
 tags: ['tag1', 'tag2']
 ---
 
-# Awesome Time Series
+## Awesome Time Series
 
 List of state of the art papers, code, and other resources focus on time series forecasting.
 
-## [Table of Contents]()
+### [Table of Contents]()
 
 * [M4 competition](#M4-competition)
 * [Kaggle time series competition](#Kaggle-time-series-competition)
@@ -19,18 +19,18 @@ List of state of the art papers, code, and other resources focus on time series 
 * [Code Resource](#Code-Resource)
 * [Datasets](#Datasets)
 
-## M4-competition
+### M4-competition
 
 [M4](https://github.com/Mcompetitions/M4-methods)
 
-### papers
+#### papers
 
 * [The M4 Competition: 100,000 time series and 61 forecasting methods](https://www.sciencedirect.com/science/article/pii/S0169207019301128)
 * [A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting](https://www.sciencedirect.com/science/article/pii/S0169207019301153)
 * [Weighted ensemble of statistical models](https://www.sciencedirect.com/science/article/pii/S0169207019301190#b5)
 * [FFORMA: Feature-based forecast model averaging](https://www.sciencedirect.com/science/article/pii/S0169207019300895)
 
-## Kaggle-time-series-competition
+### Kaggle-time-series-competition
 
 * [Walmart Store Sales Forecasting (2014)](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 * [Walmart Sales in Stormy Weather (2015)](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
@@ -41,9 +41,9 @@ List of state of the art papers, code, and other resources focus on time series 
 * [COVID19 Global Forecasting (2020)](https://www.kaggle.com/c/covid19-global-forecasting-week-5)
 * [Jane Street Future Market Prediction(2021)](https://www.kaggle.com/c/jane-street-market-prediction/)
 
-## Papers
+### Papers
 
-### 2022
+#### 2022
 
 * [Deep Learning for Time Series Anomaly Detection: A Survey]() `survey`
 * [A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting]() `survey`
@@ -73,7 +73,7 @@ Analysis and Embedding]() `AAAI 2022`
 * [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://arxiv.org/pdf/2202.07125) `ICLR 2022 oral`
   * Liu, et al.
 
-### 2021
+#### 2021
 
 * [A machine learning approach for forecasting hierarchical time series](https://www.sciencedirect.com/science/article/pii/S0957417421005431)
   * Mancuso, et al.
@@ -113,7 +113,7 @@ Analysis and Embedding]() `AAAI 2022`
   * Ye, et al.
   * [Code](https://github.com/Essaim/CGCDemandPrediction)
 
-### 2020
+#### 2020
 
 * [Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/download/6032/5888) `AAAI 2020`
   * Shi, et al.
@@ -191,7 +191,7 @@ Analysis and Embedding]() `AAAI 2022`
   * `Research AI, IBM`
   * Code not yet.
 
-## Conferences
+### Conferences
 
    * [ICLR](https://iclr.cc/)
    * [AAAI](https://www.aaai.org/)
@@ -201,7 +201,7 @@ Analysis and Embedding]() `AAAI 2022`
    * [ICML](https://icml.cc/)
    * [M5 Competition](https://mofc.unic.ac.cy/m5-competition/)
 
-## Theory-Resource
+### Theory-Resource
 
 * [Time Series Analysis, MIT](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/)
 * [Time Series Forecasting, Udacity](https://www.udacity.com/course/time-series-forecasting--ud980)
@@ -216,7 +216,7 @@ Analysis and Embedding]() `AAAI 2022`
 * [Time Series Forecasting in Python](https://www.manning.com/books/time-series-forecasting-in-python-book)
 * [time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)
 
-## Code-Resource
+### Code-Resource
 
 * [FOST from microsoft](https://github.com/microsoft/FOST)
 * [pyWATTS: Python Workflow Automation Tool for Time-Series](https://github.com/KIT-IAI/pyWATTS)
@@ -240,7 +240,7 @@ Analysis and Embedding]() `AAAI 2022`
 * [Matrix Profile analysis methods in Python for clustering, pattern mining, and anomaly detection](https://github.com/matrix-profile-foundation/matrixprofile)
 * [Flow Forecast: A deep learning framework for time series forecasting, classification and anomaly detection built in PyTorch](https://github.com/AIStream-Peelout/flow-forecast)
 
-## Datasets
+### Datasets
 
 * [SkyCam: A Dataset of Sky Images and their Irradiance values](https://github.com/vglsd/SkyCam)
 * [U.S. Air Pollution Data](https://data.world/data-society/us-air-pollution-data)
@@ -265,6 +265,6 @@ Analysis and Embedding]() `AAAI 2022`
 * [NYC Crime Data](https://data.world/data-society/nyc-crime-data)
 * [Kaggle-Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 
-### Reference
+#### Reference
 
 * [cuge1995/awesome-time-series: list of papers, code, and other resources](https://github.com/cuge1995/awesome-time-series#readme)

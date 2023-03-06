@@ -5,7 +5,7 @@ date: 2022-08-31 07:01:21
 tags: ['electric-vehicle']
 ---
 
-# Electric Vehicle Maintenance
+## Electric Vehicle Maintenance
 
 All-electric vehicles typically require less maintenance than conventional vehicles because:
 
@@ -14,19 +14,19 @@ All-electric vehicles typically require less maintenance than conventional vehic
 - Brake wear is significantly reduced due to regenerative braking
 - There are far fewer moving parts relative to a conventional fuel engine.
 
-## A vehicle that needs few consumables
+### A vehicle that needs few consumables
 
 An [electric motor](https://www.renaultgroup.com/en/news-on-air/news/how-does-an-electric-car-motor-work/) requires much simpler maintenance than an internal combustion engine. With no friction between any moving parts or exchanges between liquids and gases, it needs neither lubricant nor exhaust. This means no oil, filter or exhaust system changes. All this can be taken off the cost of the car’s upkeep. Maintenance therefore involves far fewer mechanical elements than in a combustion-powered car. In fact, the tires, windshield washer fluid, brake pads and air conditioning filters are the only consumables that require regular changing in an electric car.
 
-## A small number of parts
+### A small number of parts
 
 The design of the [electric car’s motor](https://www.renaultgroup.com/en/news-on-air/news/learn-all-you-need-to-know-about-the-motor-of-an-electric-car/) considerably reduces the number of parts required for it to function. Among these, none are what’s known as “wear parts”, which can affect the running of the motor. So, in an [electric vehicle](https://www.renaultgroup.com/en/news-on-air/news/?page=1&tag=electric-vehicle), there’s no timing belt, no cylinder head gasket and no cooling hose—which can all cause engine breakdown when worn. As for traction, these vehicles are reliable over hundreds of thousands of kilometers. For drivers looking for peace of mind as well as easy maintenance, the electric vehicle is an obvious choice. Especially because simplified maintenance doesn’t mean it’s any less thorough: every part in the vehicle is checked by experts within the manufacture’s network.
 
-## Less wear on the brakes
+### Less wear on the brakes
 
 Electric cars use two braking systems: first, **regenerative braking**, which uses the motor as a generator to charge the battery from time to time, then standard braking—with discs or drums and brake pads—which is activated afterwards. This therefore lightens the load on the mechanical braking system and tires, which means that the parts involved need to be replaced less frequently.
 
-## A simplified transmission
+### A simplified transmission
 
 With no manual gearbox or clutch, the transmission of an electric vehicle is much simpler: unlike a combustion engine, an electric motor delivers direct drive. When the driver presses the accelerator, the battery generates a magnetic field within a fixed part, which then causes a mobile part to rotate. In the electric vehicles produced by Groupe Renault, this latter part is a wound rotor synchronous motor, which increases the energy efficiency of the motor. All breakdowns related to the traditional transmission are therefore avoided, reducing the overall costs of maintenance.
 
@@ -47,7 +47,7 @@ Important components to maintenance:
 
 Below are the EV components that usually need basic maintenance. 
 
-## 1. Battery pack
+### 1. Battery pack
 
 The battery packs in electric cars are considered highly robust. However, you should follow the charging and maintenance recommendations given by the manufacturer. Moreover, you can follow these tips for EV battery maintenance.
 
@@ -55,7 +55,7 @@ The battery packs in electric cars are considered highly robust. However, you sh
 - Avoid exposure to extremely low or high temperatures for long periods.
 - Avoid storing the full charge without driving the car for long periods.
 
-## 2. Tyres
+### 2. Tyres
 
 Your electric car may come with specific tyres that assist with acceleration and make lesser noise. By maintaining your EV tyres, you ensure low rolling resistance, which puts less strain on the battery pack.  
 You must take these steps to keep your EV tyres in good condition.
@@ -63,9 +63,8 @@ You must take these steps to keep your EV tyres in good condition.
 - Follow the manufacturer’s instructions for timely [tyre rotation](https://ackodrive.com/car-guide/tyre-rotation/).
 - Maintain optimal pressure on the front and rear tyres.
 - Look for uneven tread wear and replace worn-out tyres. 
- 
 
-## 3. Brakes
+### 3. Brakes
 
 An electric vehicle usually comes with a regenerative braking system. A regenerative braking system utilises the energy generated from slowing down the car and transfers it to the battery pack. It helps to extend the car’s range and increases the longevity of the braking system.  
 While EV’s regenerative brakes last longer than the brakes of a conventional-fuel vehicle, you will need to replace a few parts occasionally.
@@ -73,18 +72,18 @@ While EV’s regenerative brakes last longer than the brakes of a conventional-f
 - Change brake fluid from time to time.
 - Replace worn-out brake discs and pads.
 
-## 4. Coolant
+### 4. Coolant
 
 Coolants are used in most electric vehicles to cool down battery packs. Typically, you must get a professional to check the condition of the cooling system. Also, you can refer to the user manual regarding the maintenance of your EV’s brakes. 
 
 - Get a technician to check and fix any leakage in the cooling system.
 - Follow the EV manufacturer’s recommendations to flush out and top up the coolant periodically.
 
-## Oil
+### Oil
 
 EVs do contain oil in the reduction gearbox that may need replacement over a long period of time.
 
-## The Fluids
+### The Fluids
 
 In most cases, your electric car won’t require the same kind of regular oil changes that are needed for gasoline cars. However, there are other fluids in an EV that need periodical checks and, occasionally, require changing. Some of these fluids include the following:
 
@@ -96,23 +95,23 @@ In most cases, your electric car won’t require the same kind of regular oil ch
 
 There’s no universal rule for when these fluids need to be checked or changed. You can best consult your car’s owner’s manual for the electric car maintenance schedule.
 
-## The Tires and Wheels
+### The Tires and Wheels
 
 Your electric car’s tires and wheels will also require regular maintenance. This includes checking the air pressure, inspecting the treads for wear and tear, and ensuring the wheels are properly aligned.
 
-## The Brakes
+### The Brakes
 
 Electric cars have regenerative braking, which means that the electric motor is used to slow down the car instead of the traditional friction brakes. Even though electric cars have regenerative brakes, it’s still important to check the traditional brakes periodically to ensure they’re in good working order.
 
-## The 12V Battery
+### The 12V Battery
 
 You might be surprised that your electric vehicle still has an old-school 12V battery. This battery is used to power the car’s lights, infotainment system, and other accessories when the main electric battery is turned off. You’ll need to regularly check the 12V battery to ensure it’s holding a charge. If it’s not, you’ll need to replace it.
 
-## Suspension
+### Suspension
 
 Keep in mind that electric cars are just like regular cars in many ways—they still have suspension components that will eventually need to be serviced or replaced. This includes shocks, struts, and control arms.
 
-## Filters
+### Filters
 
 Yes, pure BEVs don’t have fuel filters, engine air filters, or oil filters. However, they do have cabin filters and HVAC filters that need to be replaced periodically.
 

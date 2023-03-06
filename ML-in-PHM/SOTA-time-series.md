@@ -5,38 +5,38 @@ date: 2023-01-12 17:50
 tags: ['tag1', 'tag2']
 ---
 
-# SOTA (State of the Art) in Time Series
+## SOTA (State of the Art) in Time Series
 
-## Time Series Classification
+### Time Series Classification
 
-### Irregularly Sampled
+#### Irregularly Sampled
 
 - GRU-D
 - IP-NETS, Interpolation-Prediction Networks, for Irregularly Sampled Time Series
 - Transformer
 - m-TAND, Multi-Time Attention Networks, for Irregularly Sampled Time Series
 
-### Regularly Sampled
+#### Regularly Sampled
 
 - MALSTM-FCN, Multivariate LSTM-Fully Convolutional network
 - FCN-SNLST (FCN-LS2T)
 - GP-based, Gaussian Process (GP-LSTM, GP-GRU, GP-Conv1D)
 
-### References of Models
+#### References of Models
 
 - MALSTM-FCN, [Multivariate LSTM-FCNs for Time Series Classification](https://arxiv.org/abs/1801.04503v2), [houshd/MLSTM-FCN: Multivariate LSTM Fully Convolutional Networks for Time Series Classification](https://github.com/houshd/MLSTM-FCN)
 - FCN-SNLST, [Seq2Tens: An Efficient Representation of Sequences by Low-Rank Tensor Projections](https://arxiv.org/abs/2006.07027v2) [tgcsaba/seq2tens: Seq2Tens: An efficient representation of sequences by low-rank tensor projections](https://github.com/tgcsaba/seq2tens)
 - GP-based, [Bayesian Learning from Sequential Data using Gaussian Processes with Signature Covariances](https://arxiv.org/abs/1906.08215v2), [tgcsaba/GPSig: Bayesian Learning from Sequential Data using Gaussian Processes with Signature Covariances](https://github.com/tgcsaba/GPSig)
 
-## Time Series Forecasting
+### Time Series Forecasting
 
-### Univariate
+#### Univariate
 
 - NLinear
 - FiLM. Frequency improved Legendre Memory Model
 - SCINet
 
-### Multivariate
+#### Multivariate
 
 - DLinear
 - Query Selector
@@ -46,7 +46,7 @@ tags: ['tag1', 'tag2']
 - FiLM
 - SCINet
 
-### References of Model
+#### References of Model
 
 - FiLM [FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting](https://arxiv.org/abs/2205.08897) [tianzhou2011/FiLM](https://github.com/tianzhou2011/FiLM/)
 - SCINet [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction | OpenReview](https://openreview.net/forum?id=AyajSjTAzmg) [cure-lab/SCINet: The GitHub repository for the paper: “Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction“. (NeurIPS 2022)](https://github.com/cure-lab/SCINet)
@@ -56,7 +56,7 @@ tags: ['tag1', 'tag2']
 - Informer
 - Yformer
 
-## Library of Timeseries Classification and Forecasting
+### Library of Timeseries Classification and Forecasting
 
 - [timeseriesAI/tsai: Time series Timeseries Deep Learning Machine Learning Pytorch fastai | State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai](https://github.com/timeseriesAI/tsai) [tsai](https://timeseriesai.github.io/tsai/) mainly for classification
   - RNN (LSTM, GRU)
@@ -73,7 +73,7 @@ tags: ['tag1', 'tag2']
   - TCN
   - Autoformer, Informer
 
-## SOTA in other Area
+### SOTA in other Area
 
 - OpenScience’s Bloom (opensource, 175B params),
 - Google’s T5 (opensource, 11B)

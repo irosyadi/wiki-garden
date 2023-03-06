@@ -5,13 +5,13 @@ date: 2022-07-28 14:53
 tags: ['modeling', 'digital-twin']
 ---
 
-# Modeling in Digital Twin
+## Modeling in Digital Twin
 
-## Background
+### Background
 
 Digital twins can use any sort of model that is a sufficiently accurate representation of the physical object that is being twinned. In an ideal world, where computation would be instantaneous and accuracy would be perfect, digital twins would use models derived directly from physics that took all phenomena likely to affect the quantities being measured and updated into account. For instance, a digital twin of a machine tool would be able to simulate the thermal and mechanical processes involved in milling of metal in real time and update knowledge about tool wear based on real-time measurements of part temperature and shape, so that plant maintenance could become more proactive and efficient. ([wrightHowTellDifference2020](../zotero/wrightHowTellDifference2020.md))
 
-## Requirements of the Model
+### Requirements of the Model
 
 - Can be sufficiently accurate representation of the physical object that is being twinned
 - do not require high-speed computation, because the time frame over which the twin is to be updated is hours rather than seconds
@@ -27,7 +27,7 @@ In general, a model for a digital twin should be:
 - Sufficiently quick to run that decisions about the application can be made within the required timescale.  
 ([wrightHowTellDifference2020](../zotero/wrightHowTellDifference2020.md))
 
-## List of Models
+### List of Models
 
 List modeling in Digital Twin according to [qiEnablingTechnologiesTools2021](qiEnablingTechnologiesTools2021.md):
 
@@ -45,23 +45,23 @@ List modeling in Digital Twin according to [thelenComprehensiveReviewDigital2022
 - [Physic-informed ML Modeling](DT-modeling-physic-informed-ML.md)
 - [System Modeling](DT-modeling-system.md)
 
-## Recommended models
+### Recommended models
 
 - Geometric model: solid modeling
 - Physical model: finite element analysis, computational fluid dynamics
 - Behavioral model: finite state machines
 - Rule model: XML-based representation and ontology representation
 
-## Trend in modeling
+### Trend in modeling
 
 - multi-objective and full-performance
 - combined with the historical usage, maintenance, and upgrade data, various DT models
 
-## Notes:
+### Notes:
 
 - Mathematical model is not a digital twin modeling since it cannot be updated
 
-## References:
+### References:
 
 - [qiEnablingTechnologiesTools2021](../zotero/qiEnablingTechnologiesTools2021.md)
 - [wrightHowTellDifference2020](../zotero/wrightHowTellDifference2020.md)

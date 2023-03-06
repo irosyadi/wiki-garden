@@ -5,7 +5,7 @@ date: 2022-07-28 17:46
 tags: ['data', 'digital-twin']
 ---
 
-# data-fusion-DT
+## data-fusion-DT
 
 Data fusion copes with multisource data through synthesis, filtering, correlation, and integration.
 

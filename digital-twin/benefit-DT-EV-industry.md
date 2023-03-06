@@ -5,7 +5,7 @@ date: 2022-07-25 13:45
 tags: ['digital-twin']
 ---
 
-# Benefit of Digital Twin in Electric Vehicle Industries
+## Benefit of Digital Twin in Electric Vehicle Industries
 
 In a general sense, the digital twin can emulate the actual vehicle on the road in order to predict/optimize its performance and improve the car safety. Additionally, the digital twin can be used for optimization of the manufacturing processes, real-time condition monitoring (at all levels and in all drivetrain components), energy management optimization, repurposing of the components, and even recycling processes.
 

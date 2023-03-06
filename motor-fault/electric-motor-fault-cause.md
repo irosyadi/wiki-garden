@@ -5,17 +5,17 @@ date: 2022-10-02 10:15
 tags: ['fault', 'motor']
 ---
 
-# Electric Motor Fault by Causes
+## Electric Motor Fault by Causes
 
-## Internal Causes
+### Internal Causes
 
-### Electrical
+#### Electrical
 
 - [Stator Faults](stator-fault.md)
 - Insulation faults
 - [Rotor Faults](rotor-fault.md)
 
-### Mechanical
+#### Mechanical
 
 - Fraction/abrasion
 - Displacement of conductors
@@ -26,22 +26,22 @@ tags: ['fault', 'motor']
 - cooling fan
 - irregularities with the connected mechanical load (overloading and load oscillations).
 
-## External Causes
+### External Causes
 
-### Electrical
+#### Electrical
 
 - Transient
 - Voltage fluctuation
 - Voltage imbalance
 
-### Mechanical
+#### Mechanical
 
 - Pulsating torque
 - Improper installation
 - Overload
 - External magnetic field
 
-### Environmental
+#### Environmental
 
 - Temperature
 - Fouling
@@ -49,14 +49,14 @@ tags: ['fault', 'motor']
 - Air acidity
 - Dust
 
-## Origins
+### Origins
 
 - electrical origins:
 - mechanical causes:
 - thermal stresses:
 - environmental reasons:
 
-## Consequences
+### Consequences
 
 - magnetic field distortion ⭢ sensed by magnetic sensor
 - overheating ⭢ sensed by temperature sensor
@@ -68,13 +68,13 @@ tags: ['fault', 'motor']
 - additional torque
 - stator damages
 
-## Fault Classification Diagram
+### Fault Classification Diagram
 
 ![](https://i.imgur.com/UyoJs6L.png)
 
 ![](https://i.imgur.com/VYqQyIP.png)
 
-## Fault Distributions
+### Fault Distributions
 
 ![](https://i.imgur.com/RBm2iq0.png)
 
@@ -84,7 +84,7 @@ tags: ['fault', 'motor']
 
 [bldc-fault](bldc-fault.md)
 
-## Classification
+### Classification
 
 - Mechanical Faults (50% of BLDC failures)
 
@@ -117,15 +117,15 @@ Signal Processing techniques (Kudelina et al., 2020)
 
 ![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)
 
-## References
+### References
 
 - (Kudelina et al., 2020)
 
-## Cross-references
+### Cross-references
 
 [Electric Motor Fault by Components](electric-motor-fault-component.md)
 
-## References
+### References
 
 - [benbouzidSignalProcessingFault2020](../zotero/benbouzidSignalProcessingFault2020.md)
 - [cardosoDiagnosisFaultTolerance2018](../zotero/cardosoDiagnosisFaultTolerance2018.md)
