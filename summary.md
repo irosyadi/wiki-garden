@@ -1,7 +1,5 @@
 ## Summary
 
-### Main Topics
-
 - [Digital Twin](digital-twin/digital-twin.md)
 - [BLDC Motor](BLDC/BLDC-motor.md)
 - [Prognosis and Health Management](PHM/prognosis-health-management.md)

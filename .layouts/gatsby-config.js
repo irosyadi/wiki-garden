@@ -42,7 +42,7 @@ module.exports = {
 		
 		//tags-config
 		//tagText: "Tags",
-        shouldShowTagGroupsOnIndex: true,
+        shouldShowTagGroupsOnIndex: false,
 		//shouldSupportTags: true,
 		 
 		//latest-config
