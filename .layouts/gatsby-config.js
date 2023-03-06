@@ -58,7 +58,7 @@ module.exports = {
           },
         ],
         editUrl:
-          "https://github.com/irosyadi/wiki-garden/main/",
+          "https://github.com/irosyadi/wiki-garden/blob/main/",
       },
     },
     {
