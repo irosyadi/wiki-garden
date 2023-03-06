@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "experimental-heading-2",
+      "path": "random/experimental-heading-2.md"
+    },
+    {
+      "basename": "experimental-heading-1",
+      "path": "random/experimental-heading-1.md"
+    },
+    {
       "basename": "time-series-feature-library",
       "path": "time-series/time-series-feature-library.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "classification-methods",
       "path": "ML-in-PHM/classification-methods.md"
-    },
-    {
-      "basename": "Bayes Rule",
-      "path": "ML-in-PHM/Bayes Rule.md"
-    },
-    {
-      "basename": "awesome-time-series",
-      "path": "ML-in-PHM/awesome-time-series.md"
     }
   ],
   "omittedPaths": [],
