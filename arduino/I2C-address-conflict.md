@@ -1,10 +1,9 @@
 ---
 aliases: [I2C Address Conflict]
+title: I2C Address Conflict
 date: 2022-10-14 03:15
 tags: ['arduino']
 ---
-
-# I2C Address Conflict
 
 ## I2C Address Conflict
 

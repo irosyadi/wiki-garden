@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "readme",
-      "path": "readme.md"
+      "basename": "ZoteroTemplates",
+      "path": "Templates/Zotero/ZoteroTemplates.md"
     },
     {
-      "basename": "experimental-heading-1",
-      "path": "random/experimental-heading-1.md"
+      "basename": "WikiGardenTemplates",
+      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
     },
     {
-      "basename": "time-series-feature-library",
-      "path": "time-series/time-series-feature-library.md"
+      "basename": "paper-plan-01",
+      "path": "paper-plan/paper-plan-01.md"
+    },
+    {
+      "basename": "BLDC-aircraft-drone",
+      "path": "BLDC/BLDC-aircraft-drone.md"
     },
     {
       "basename": "I2C-address-conflict",
@@ -25,12 +29,20 @@
       "path": "arduino/arduino-resource.md"
     },
     {
-      "basename": "ZoteroTemplates",
-      "path": "Templates/Zotero/ZoteroTemplates.md"
+      "basename": "clustering-method",
+      "path": "clustering-method.md"
     },
     {
-      "basename": "WikiGardenTemplates",
-      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "experimental-heading-1",
+      "path": "random/experimental-heading-1.md"
+    },
+    {
+      "basename": "time-series-feature-library",
+      "path": "time-series/time-series-feature-library.md"
     },
     {
       "basename": "BLDC-EV-system",
@@ -39,10 +51,6 @@
     {
       "basename": "BLDC-motor",
       "path": "BLDC/BLDC-motor.md"
-    },
-    {
-      "basename": "BLDC-aircraft-drone",
-      "path": "BLDC/BLDC-aircraft-drone.md"
     },
     {
       "basename": "ipmsm-spmsm",
@@ -79,10 +87,6 @@
     {
       "basename": "HHT",
       "path": "signal-processing/HHT.md"
-    },
-    {
-      "basename": "paper-plan-01",
-      "path": "paper-plan/paper-plan-01.md"
     },
     {
       "basename": "parameter-choosing",
@@ -195,10 +199,6 @@
     {
       "basename": "time-series-github",
       "path": "ML-in-PHM/time-series-github.md"
-    },
-    {
-      "basename": "ml-zoo",
-      "path": "ML/ml-zoo.md"
     }
   ],
   "omittedPaths": [],
