@@ -1,6 +1,6 @@
 ---
 aliases: [No Heading 1]
-title: experimental-heading-1
+title: Experimental Heading
 tags: ["markdown"]
 date: 2020-11-26 21:10:40
 ---

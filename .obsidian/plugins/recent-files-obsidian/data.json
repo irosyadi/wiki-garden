@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "time-series-feature-library",
-      "path": "time-series/time-series-feature-library.md"
+      "basename": "readme",
+      "path": "readme.md"
     },
     {
       "basename": "experimental-heading-1",
       "path": "random/experimental-heading-1.md"
+    },
+    {
+      "basename": "time-series-feature-library",
+      "path": "time-series/time-series-feature-library.md"
     },
     {
       "basename": "I2C-address-conflict",
@@ -79,10 +83,6 @@
     {
       "basename": "paper-plan-01",
       "path": "paper-plan/paper-plan-01.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "parameter-choosing",

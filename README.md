@@ -3,8 +3,6 @@ aliases: [Hi 👋🏼]
 title: Hi 👋🏼
 ---
 
-# Hi 👋🏼
-
 I'm _Imron Rosyadi_
 
 ## About Me
