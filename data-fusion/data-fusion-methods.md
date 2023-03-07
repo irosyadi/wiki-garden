@@ -64,7 +64,7 @@ Several other types of sensor networks exist such as corroborative, concordant, 
 ### Decision Level Fusion
 
 - Identity based
-  - Dempster-Shafer evidence theory see ([jiangNewEngineFault2017](zotero://select/library/items/EJX4SEP4) [link](https://www.mdpi.com/2076-3417/7/3/280))
+  - Dempster-Shafer evidence theory (_[jiangNewEngineFault2017](zotero://select/library/items/EJX4SEP4)_, [link](https://www.mdpi.com/2076-3417/7/3/280), [DOI](https://doi.org/10.3390/app7030280))
   - Maximum a priori (MAP)
   - Maximum likelihood
   - Z numbers
@@ -80,5 +80,7 @@ Several other types of sensor networks exist such as corroborative, concordant, 
 
 ### References
 
-- [chandrasekaranSurveyMultisensorFusion2017](zotero://select/library/items/AIISJC8G) [link]() [DOI](https://doi.org/10.1109/SECON.2017.7925311)
-- [niuDataDrivenTechnologyEngineering2017](zotero://select/library/items/AQ6U3GGX) [link](http://link.springer.com/10.1007/978-981-10-2032-2) [DOI](https://doi.org/)
+- (_[chandrasekaranSurveyMultisensorFusion2017](zotero://select/library/items/AIISJC8G)_, [link](), [DOI](https://doi.org/10.1109/SECON.2017.7925311))
+- (_[niuDataDrivenTechnologyEngineering2017](zotero://select/library/items/AQ6U3GGX)_, [link](http://link.springer.com/10.1007/978-981-10-2032-2), [DOI](https://doi.org/))
+
+[Bhatti_Singh_2021_Intelligent_Fault_Diagnosis_Mechanism_for_Industrial_Robot_Actuators_using.pdf](file://C:\Users\User\Zotero\storage\34K9NUZZ\Bhatti_Singh_2021_Intelligent_Fault_Diagnosis_Mechanism_for_Industrial_Robot_Actuators_using.pdf)

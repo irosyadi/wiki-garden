@@ -7,7 +7,9 @@ tags: ['fault-detection']
 
 ## Fault Detection Frameworks
 
-### [benbouzidSignalProcessingFault2020](../zotero/benbouzidSignalProcessingFault2020.md)
+### benbouzidSignalProcessingFault2020
+
+Reference: (_[benbouzidSignalProcessingFault2020](zotero://select/library/items/8J7VLLY9)_, [link](https://digital-library.theiet.org/content/books/po/pbpo153e), [DOI](https://doi.org/))
 
 ![](https://i.imgur.com/ikcSClY.png "Model-based approaches for diagnosis")
 
@@ -24,4 +26,3 @@ Model-based and data-driven fault diagnosis. a Model-based, b Data-driven
 ### References
 
 - [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)
-- [benbouzidSignalProcessingFault2020](../zotero/benbouzidSignalProcessingFault2020.md)

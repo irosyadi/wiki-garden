@@ -1,28 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "antonino-daviuElectricalMonitoringTransient2020",
-      "path": "zotero/antonino-daviuElectricalMonitoringTransient2020.md"
-    },
-    {
-      "basename": "ZoteroTemplates",
-      "path": "Templates/Zotero/ZoteroTemplates.md"
-    },
-    {
-      "basename": "WikiGardenTemplates",
-      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
+      "basename": "summary",
+      "path": "summary.md"
     },
     {
       "basename": "readme",
       "path": "readme.md"
     },
     {
-      "basename": "BLDC-aircraft-drone",
-      "path": "BLDC/BLDC-aircraft-drone.md"
+      "basename": "clustering-method",
+      "path": "ML/clustering-method.md"
     },
     {
-      "basename": "arduino-resource",
-      "path": "arduino/arduino-resource.md"
+      "basename": "bhattiFutureSmartElectric2021",
+      "path": "zotero/bhattiFutureSmartElectric2021.md"
+    },
+    {
+      "basename": "biggioPrognosticsHealthManagement2020",
+      "path": "zotero/biggioPrognosticsHealthManagement2020.md"
+    },
+    {
+      "basename": "ZoteroTemplates",
+      "path": "Templates/Zotero/ZoteroTemplates.md"
+    },
+    {
+      "basename": "data-fusion-methods",
+      "path": "data-fusion/data-fusion-methods.md"
+    },
+    {
+      "basename": "data-fusion",
+      "path": "data-fusion/data-fusion.md"
+    },
+    {
+      "basename": "chenFaultsDiagnosisMethods2019",
+      "path": "zotero/chenFaultsDiagnosisMethods2019.md"
+    },
+    {
+      "basename": "cardosoDiagnosisFaultTolerance2018",
+      "path": "zotero/cardosoDiagnosisFaultTolerance2018.md"
+    },
+    {
+      "basename": "caoOverviewElectricMotors2021",
+      "path": "zotero/caoOverviewElectricMotors2021.md"
+    },
+    {
+      "basename": "caiReviewDevelopmentElectric2021",
+      "path": "zotero/caiReviewDevelopmentElectric2021.md"
+    },
+    {
+      "basename": "delgadoprietoContributionsElectromechanicalSystems2012",
+      "path": "zotero/delgadoprietoContributionsElectromechanicalSystems2012.md"
+    },
+    {
+      "basename": "wangPrognosticsHealthManagement2021",
+      "path": "zotero/wangPrognosticsHealthManagement2021.md"
+    },
+    {
+      "basename": "paper-cited",
+      "path": "paper-book-review/paper-cited.md"
+    },
+    {
+      "basename": "electric-motor-fault-cause",
+      "path": "motor-fault/electric-motor-fault-cause.md"
+    },
+    {
+      "basename": "book-Benbouzid",
+      "path": "paper-book-review/book-Benbouzid.md"
+    },
+    {
+      "basename": "bearing-fault",
+      "path": "motor-fault/bearing-fault.md"
+    },
+    {
+      "basename": "eccentricity",
+      "path": "motor-fault/eccentricity.md"
+    },
+    {
+      "basename": "fault-detection-framework",
+      "path": "PHM/fault-detection-framework.md"
+    },
+    {
+      "basename": "fault-in-BLDC-motor",
+      "path": "PHM/fault-in-BLDC-motor.md"
+    },
+    {
+      "basename": "data-fusion-motor",
+      "path": "data-fusion/data-fusion-motor.md"
     },
     {
       "basename": "winding-method",
@@ -45,6 +109,10 @@
       "path": "BLDC/BLDC-EV-system.md"
     },
     {
+      "basename": "BLDC-aircraft-drone",
+      "path": "BLDC/BLDC-aircraft-drone.md"
+    },
+    {
       "basename": "I2C-address-conflict",
       "path": "arduino/I2C-address-conflict.md"
     },
@@ -53,16 +121,24 @@
       "path": "arduino/arduino-sampling-rate.md"
     },
     {
+      "basename": "arduino-resource",
+      "path": "arduino/arduino-resource.md"
+    },
+    {
       "basename": "3d-visualization",
       "path": "3d/3d-visualization.md"
     },
     {
-      "basename": "paper-plan-01",
-      "path": "paper-plan/paper-plan-01.md"
+      "basename": "bldc-fault",
+      "path": "motor-fault/bldc-fault.md"
     },
     {
-      "basename": "clustering-method",
-      "path": "clustering-method.md"
+      "basename": "WikiGardenTemplates",
+      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
+    },
+    {
+      "basename": "paper-plan-01",
+      "path": "paper-plan/paper-plan-01.md"
     },
     {
       "basename": "experimental-heading-1",
@@ -123,82 +199,6 @@
     {
       "basename": "signal-processing-time",
       "path": "signal-processing/signal-processing-time.md"
-    },
-    {
-      "basename": "phm-paper-with-code",
-      "path": "paper-book-review/phm-paper-with-code.md"
-    },
-    {
-      "basename": "data-fusion-motor",
-      "path": "data-fusion/data-fusion-motor.md"
-    },
-    {
-      "basename": "chengFusionMethodApplication2021",
-      "path": "zotero/chengFusionMethodApplication2021.md"
-    },
-    {
-      "basename": "meyConditionMonitoringDrive2021",
-      "path": "zotero/meyConditionMonitoringDrive2021.md"
-    },
-    {
-      "basename": "shifatANNAssistedMulti2021",
-      "path": "zotero/shifatANNAssistedMulti2021.md"
-    },
-    {
-      "basename": "data-fusion-methods",
-      "path": "data-fusion/data-fusion-methods.md"
-    },
-    {
-      "basename": "data-fusion",
-      "path": "data-fusion/data-fusion.md"
-    },
-    {
-      "basename": "data-visualization-DT",
-      "path": "digital-twin/data-visualization-DT.md"
-    },
-    {
-      "basename": "data-visualization-python",
-      "path": "python/data-visualization-python.md"
-    },
-    {
-      "basename": "motor-fault-dataset",
-      "path": "dataset/motor-fault-dataset.md"
-    },
-    {
-      "basename": "dataset-search-repo",
-      "path": "dataset/dataset-search-repo.md"
-    },
-    {
-      "basename": "how to build connections in Fleeting Notes",
-      "path": "~fleetingnotes/how to build connections in Fleeting Notes.md"
-    },
-    {
-      "basename": "how to sync notes with Obsidian",
-      "path": "~fleetingnotes/how to sync notes with Obsidian.md"
-    },
-    {
-      "basename": "what are backlinks",
-      "path": "~fleetingnotes/what are backlinks.md"
-    },
-    {
-      "basename": "START HERE",
-      "path": "~fleetingnotes/START HERE.md"
-    },
-    {
-      "basename": "Google problems",
-      "path": "~fleetingnotes/Google problems.md"
-    },
-    {
-      "basename": "keyword-motor-fault-detection-github",
-      "path": "research/keyword-motor-fault-detection-github.md"
-    },
-    {
-      "basename": "2023-02-15",
-      "path": "note/2023-02-15.md"
-    },
-    {
-      "basename": "to-do",
-      "path": "note/to-do.md"
     }
   ],
   "omittedPaths": [],

@@ -1,30 +1,25 @@
 ---
-citekey: bhattiFutureSmartElectric2021  
-title: "Towards the future of smart electric vehicles: Digital twin technology"
+citekey: bhattiFutureSmartElectric2021
+title: bhattiFutureSmartElectric2021
 year: 2021
 tags: ['journalArticle']
 ---
 
 ### Towards the future of smart electric vehicles: Digital twin technology  
 
-#### Type: journalArticle
-
 #### Bibliography
   
 Bhatti, G., Mohan, H., & Raja Singh, R. (2021). Towards the future of smart electric vehicles: Digital twin technology. _Renewable and Sustainable Energy Reviews_, _141_(August 2020), 110801. [https://doi.org/10/gkxrzs](https://doi.org/10/gkxrzs)  
   
 
-#### Zotero Web Link
-[**Zotero Web**](http://zotero.org/users/242940/items/Z5CP9QQX)  
+#### Web Link
+- [**DOI**](https://doi.org/10/gkxrzs)
+- [**Publisher Link**](https://doi.org/10.1016/j.rser.2021.110801)  
+- [**Zotero Web Link**](https://www.zotero.org/irosyadi/items/Z5CP9QQX)  
 
-#### Publisher Link
-[**Publisher Link**](https://doi.org/10.1016/j.rser.2021.110801)  
-
-#### Local PDF Link
-[Bhatti_2021_Towards_the_future_of_smart_electric_vehicles.pdf](file:///C:/Users/User/Zotero/storage/9S287MQ8/Bhatti_2021_Towards_the_future_of_smart_electric_vehicles.pdf)  
-
-#### Local Zotero Link
-[**Open in Zotero Desktop**](zotero://select/library/items/Z5CP9QQX)  
+#### Local Link
+- [**Open in Zotero Desktop**](zotero://select/library/items/Z5CP9QQX)  
+- [Bhatti_2021_Towards_the_future_of_smart_electric_vehicles.pdf](file://C:\Users\User\Zotero\storage\9S287MQ8\Bhatti_2021_Towards_the_future_of_smart_electric_vehicles.pdf)
 
 #### Abstract
 
@@ -35,20 +30,19 @@ Worldwide, transportation accounts for 18% of global carbon dioxide emissions (a
   
 Smart vehicle digital twin technologies ([Bhatti et al., 2021](zotero://select/library/items/Z5CP9QQX)):
 
--   “Predictive mobility and autonomous motion control” [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=7&annotation=undefined) ([Bhatti et al., 2021, p. 7](zotero://select/library/items/Z5CP9QQX))
--   “Advanced driver assistance systems” [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=8&annotation=undefined) ([Bhatti et al., 2021, p. 8](zotero://select/library/items/Z5CP9QQX))
--   “Vehicle health monitoring and management” [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=9&annotation=undefined) ([Bhatti et al., 2021, p. 9](zotero://select/library/items/Z5CP9QQX))
--   “Battery management systems and intelligent charging” [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=9&annotation=undefined) ([Bhatti et al., 2021, p. 9](zotero://select/library/items/Z5CP9QQX))
--   “Vehicle power electronic converters” [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=11&annotation=undefined) ([Bhatti et al., 2021, p. 11](zotero://select/library/items/Z5CP9QQX))
-
-Referred in [Digital Twin](zotero://note/u/CCAVEUUB/?ignore=1)
-
+-   [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=7&annotation=undefined)“Predictive mobility and autonomous motion control” ([Bhatti et al., 2021, p. 7](zotero://select/library/items/Z5CP9QQX))
+-   [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=8&annotation=undefined)“Advanced driver assistance systems” ([Bhatti et al., 2021, p. 8](zotero://select/library/items/Z5CP9QQX))
+-   [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=9&annotation=undefined)“Vehicle health monitoring and management” ([Bhatti et al., 2021, p. 9](zotero://select/library/items/Z5CP9QQX))
+-   [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=9&annotation=undefined)“Battery management systems and intelligent charging” ([Bhatti et al., 2021, p. 9](zotero://select/library/items/Z5CP9QQX))
+-   [Go to annotation](zotero://open-pdf/library/items/9S287MQ8?page=11&annotation=undefined)“Vehicle power electronic converters” ([Bhatti et al., 2021, p. 11](zotero://select/library/items/Z5CP9QQX))
 
 #### Annotations
   
-**Imported: 2022-12-14**
+**Imported: 2023-03-08**
 
 > “The study sifts the digital twin domain for contributions in smart vehicle systems, exploring its potential and contemporaneous challenges to realization.” Yellow Highlight [Page 1](zotero://open-pdf/library/items/9S287MQ8?page=1)
+
+Contribution of the paper
 
 > “The review has been systematically classified into specific domains within the smart vehicle system such as autonomous navigation control, advanced driver assistance systems, vehicle health monitoring, battery management systems, vehicle power electronics, and electrical power drive systems.” Yellow Highlight [Page 1](zotero://open-pdf/library/items/9S287MQ8?page=1)
 
@@ -61,4 +55,4 @@ enabling technologies : sensors, machine networking, artificial intelligence as 
 Overview of enabling technologies for electric power drive systems.
 
 
-%% Import Date: 2022-12-14T20:02:53.527+07:00 %%
+%% Import Date: 2023-03-08T03:37:09.404+07:00 %%

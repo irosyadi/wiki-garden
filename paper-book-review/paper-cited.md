@@ -11,7 +11,7 @@ tags: ['tag1', 'tag2']
 
 - [caoOverviewElectricMotors2021](../zotero/caoOverviewElectricMotors2021.md)
 - [rameshHighPowerDensity2019](../zotero/rameshHighPowerDensity2019.md)
-- [antonino-daviuElectricalMonitoringTransient2020](../zotero/antonino-daviuElectricalMonitoringTransient2020.md)
+- (_[antonino-daviuElectricalMonitoringTransient2020](zotero://select/library/items/YSVF6XZ8)_, [link](), [DOI](https://doi.org/10/gqk2p8))
 - [caiReviewDevelopmentElectric2021](../zotero/caiReviewDevelopmentElectric2021.md)
 - [yildirimSurveyComparisonElectric2014a](../zotero/yildirimSurveyComparisonElectric2014a.md)
 
@@ -22,13 +22,13 @@ tags: ['tag1', 'tag2']
 ### Motor Fault
 
 - [kudelinaMainFaultsDiagnostic2020](../zotero/kudelinaMainFaultsDiagnostic2020.md)
-- [benbouzidSignalProcessingFault2020](../zotero/benbouzidSignalProcessingFault2020.md)
+- (_[benbouzidSignalProcessingFault2020](zotero://select/library/items/8J7VLLY9)_, [link](https://digital-library.theiet.org/content/books/po/pbpo153e), [DOI](https://doi.org/))
 - [cardosoDiagnosisFaultTolerance2018](../zotero/cardosoDiagnosisFaultTolerance2018.md)
 - [leeConditionMonitoringIndustrial2020](../zotero/leeConditionMonitoringIndustrial2020.md)
 
 ### PHM
 
-- [biggioPrognosticsHealthManagement2020](../zotero/biggioPrognosticsHealthManagement2020.md)
+- (_[biggioPrognosticsHealthManagement2020](zotero://select/library/items/SGCL8H2X)_, [link](), [DOI](https://doi.org/10/gqk2ps))
 - [wangPrognosticsHealthManagement2021](../zotero/wangPrognosticsHealthManagement2021.md)
 - [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)
 - [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)
@@ -47,13 +47,13 @@ tags: ['tag1', 'tag2']
 
 ### Digital Twin Electric Vehicle
 
-- [bhattiFutureSmartElectric2021](../zotero/bhattiFutureSmartElectric2021.md)
+- (_[bhattiFutureSmartElectric2021](zotero://select/library/items/Z5CP9QQX)_, [link](https://doi.org/10.1016/j.rser.2021.110801), [DOI](https://doi.org/10/gkxrzs))
 
 ### PHM Motor
 
 - [leeConditionMonitoringIndustrial2020](../zotero/leeConditionMonitoringIndustrial2020.md)
 - [wangPrognosticsHealthManagement2021](../zotero/wangPrognosticsHealthManagement2021.md)
-- [baurReviewPrognosticsHealth2020](../zotero/baurReviewPrognosticsHealth2020.md)
+- (_[baurReviewPrognosticsHealth2020](zotero://select/library/items/ZR4KY9R9)_, [link](https://doi.org/10.1007/s00170-020-05202-3), [DOI](https://doi.org/10/gjh2cr))
 - [choudharyConditionMonitoringFault2019](../zotero/choudharyConditionMonitoringFault2019.md)
 - Tanvir
 

@@ -9,7 +9,7 @@
       "name": "citekeyURI",
       "format": "template",
       "cslStyle": "apa",
-      "template": "[{{citekey}}]({{desktopURI}}) [link]({{url}}) [DOI](https://doi.org/{{DOI}})"
+      "template": "(_[{{citekey}}]({{desktopURI}})_, [link]({{url}}), [DOI](https://doi.org/{{DOI}}))"
     }
   ],
   "exportFormats": [
@@ -22,5 +22,6 @@
       "cslStyle": "apa"
     }
   ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
   "shouldShowCiteSuggest": true
 }

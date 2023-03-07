@@ -1,30 +1,25 @@
 ---
-citekey: biggioPrognosticsHealthManagement2020  
-title: "Prognostics and Health Management of Industrial Assets: Current Progress and Road Ahead"
+citekey: biggioPrognosticsHealthManagement2020
+title: biggioPrognosticsHealthManagement2020
 year: 2020
 tags: ['journalArticle']
 ---
 
 ### Prognostics and Health Management of Industrial Assets: Current Progress and Road Ahead  
 
-#### Type: journalArticle
-
 #### Bibliography
   
 Biggio, L., & Kastanis, I. (2020). Prognostics and Health Management of Industrial Assets: Current Progress and Road Ahead. _Frontiers in Artificial Intelligence_, _3_(November), 1–24. [https://doi.org/10/gqk2ps](https://doi.org/10/gqk2ps)  
   
 
-#### Zotero Web Link
-[**Zotero Web**](http://zotero.org/users/242940/items/SGCL8H2X)  
+#### Web Link
+- [**DOI**](https://doi.org/10/gqk2ps)
+- [**Publisher Link**]()  
+- [**Zotero Web Link**](https://www.zotero.org/irosyadi/items/SGCL8H2X)  
 
-#### Publisher Link
-[**Publisher Link**]()  
-
-#### Local PDF Link
-[Biggio_Kastanis_2020_Prognostics_and_Health_Management_of_Industrial_Assets.pdf](file:///C:/Users/User/Zotero/storage/PYAISZT8/Biggio_Kastanis_2020_Prognostics_and_Health_Management_of_Industrial_Assets.pdf)  
-
-#### Local Zotero Link
-[**Open in Zotero Desktop**](zotero://select/library/items/SGCL8H2X)  
+#### Local Link
+- [**Open in Zotero Desktop**](zotero://select/library/items/SGCL8H2X)  
+- [Biggio_Kastanis_2020_Prognostics_and_Health_Management_of_Industrial_Assets.pdf](file://C:\Users\User\Zotero\storage\PYAISZT8\Biggio_Kastanis_2020_Prognostics_and_Health_Management_of_Industrial_Assets.pdf)
 
 #### Abstract
 
@@ -37,4 +32,4 @@ Prognostic and Health Management (PHM) systems are some of the main protagonists
 #### Annotations
 
 
-%% Import Date: 2022-12-14T19:00:20.921+07:00 %%
+%% Import Date: 2023-03-08T03:35:19.044+07:00 %%

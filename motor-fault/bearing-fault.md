@@ -45,4 +45,4 @@ tags: ['fault', 'motor']
 ### References
 
 - [kudelinaMainFaultsDiagnostic2020](zotero/kudelinaMainFaultsDiagnostic2020.md)
-- [benbouzidSignalProcessingFault2020](zotero/benbouzidSignalProcessingFault2020.md)
+- (_[benbouzidSignalProcessingFault2020](zotero://select/library/items/8J7VLLY9)_, [link](https://digital-library.theiet.org/content/books/po/pbpo153e), [DOI](https://doi.org/))
