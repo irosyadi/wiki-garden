@@ -2,7 +2,7 @@
 aliases: [Latex Howto]
 title: "Title"
 date: 2023-01-10 15:29
-tags: ['tag1', 'tag2']
+tags: ['latex']
 ---
 
 ## Latex Howto

@@ -2,7 +2,7 @@
 aliases: [Recursive Bayesian Estimation]
 title: Recursive Bayesian Estimation
 date: 2022-12-06 18:26
-tags: ['tag1', 'tag2']
+tags: ['statistics']
 ---
 
 ## Recursive Bayesian Estimation

@@ -2,7 +2,7 @@
 aliases: [System Modeling in Digital Twin]
 title: System Modeling in Digital Twin
 date: 2022-10-31 10:02
-tags: ['tag1', 'tag2']
+tags: ['modeling']
 ---
 
 ## System Modeling in Digital Twin

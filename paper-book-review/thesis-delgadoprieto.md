@@ -2,7 +2,7 @@
 aliases: [Thesis by Delgado Prieto]
 title: Thesis by Delgado Prieto
 date: 2023-02-12 02:51
-tags: ['tag1', 'tag2']
+tags: ['thesis']
 ---
 
 ## Thesis by Delgado Prieto

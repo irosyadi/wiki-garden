@@ -2,7 +2,7 @@
 aliases: [Definition and Abbreviation, template, templates]
 title: Definition and Abbreviation
 date: 2022-10-17 05:58
-tags: ['tag1', 'tag2']
+tags: ['definition']
 ---
 
 ## Definition and Abbreviation

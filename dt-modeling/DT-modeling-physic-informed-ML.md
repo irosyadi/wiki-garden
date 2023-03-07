@@ -2,7 +2,7 @@
 aliases: [Physics-informed ML Modeling in Digital Twin]
 title: Physics-informed ML Modeling in Digital Twin
 date: 2022-10-31 09:59
-tags: ['tag1', 'tag2']
+tags: ['modeling']
 ---
 
 ## Physics-informed ML Modeling in Digital Twin

@@ -2,7 +2,7 @@
 aliases: [Oliver Mey PHM Research]
 title: Oliver Mey PHM Research
 date: 2023-02-11 09:49
-tags: ['tag1', 'tag2']
+tags: ['paper']
 ---
 
 ## Oliver Mey PHM Research

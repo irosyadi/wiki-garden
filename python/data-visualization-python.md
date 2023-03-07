@@ -2,7 +2,7 @@
 aliases: [Data Visualization with Python]
 title: Data Visualization with Python
 date: 2023-02-21 10:29
-tags: ['tag1', 'tag2']
+tags: ['data-visualization']
 ---
 
 ## Data Visualization with Python

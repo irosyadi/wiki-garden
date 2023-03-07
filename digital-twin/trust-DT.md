@@ -2,7 +2,7 @@
 aliases: [Trustiness in Digital Twin, template, templates]
 title: Trustiness in Digital Twin
 date: 2022-10-16 15:33
-tags: ['tag1', 'tag2']
+tags: ['digital-twin']
 ---
 
 ## Trustiness in Digital Twin

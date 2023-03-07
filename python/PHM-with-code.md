@@ -2,7 +2,7 @@
 aliases: [PHM Papers with Code]
 title: PHM Papers with Code
 date: 2023-01-11 04:59
-tags: ['tag1', 'tag2']
+tags: ['PHM', 'code']
 ---
 
 ## PHM Papers with Code

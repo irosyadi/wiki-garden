@@ -3,7 +3,7 @@
   "tabSize": 2,
   "useMarkdownLinks": true,
   "attachmentFolderPath": "Attachments",
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative"

@@ -2,7 +2,7 @@
 aliases: [Multi Sensor Multi Fault PHM for Motor]
 title: Multi Sensor Multi Fault PHM for Motor 
 date: 2023-02-12 13:30
-tags: ['tag1', 'tag2']
+tags: ['multi-sensor','PHM']
 ---
 
 ## Multi Sensor Multi Fault PHM for Motor

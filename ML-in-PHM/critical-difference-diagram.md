@@ -1,11 +1,11 @@
 ---
-aliases: [Title]
-title: Title
+aliases: [Critical Difference Diagram]
+title: Critical Difference Diagram
 date: 2023-01-20 11:35
-tags: ['tag1', 'tag2']
+tags: ['data-analysis']
 ---
 
-## Title
+## Critical Difference Diagram
 
 The critical difference (CD) diagrams show the mean ranks of each model under the different masking rates for the test data of the datasets. The lower the rank (further to the left) the better performance of a model under the particular masking rate compared to the others on average. A line in each diagram indicates that there is no significant difference in performance among the models crossed by that particular line in terms of the Friedman test that compares the ranks of multiple classifiers.  
 Critical Difference (CD) diagrams showing the results of a statistical comparison of the performance of all the heterogeneous ensemble methods, conducted using Friedman and Nemenyi's tests. The groups of methods producing statistically equivalent performance are connected by horizontal lines.  

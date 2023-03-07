@@ -2,7 +2,7 @@
 aliases: [Classification Methods]
 title: Classification Methods
 date: 2023-02-13 09:46
-tags: ['tag1', 'tag2']
+tags: ['machine-learning']
 ---
 
 ## Classification Methods

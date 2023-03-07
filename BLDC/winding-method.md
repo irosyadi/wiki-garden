@@ -2,7 +2,7 @@
 aliases: [BLDC winding]
 title: BLDC winding
 date: 2022-12-24 09:24
-tags: ['tag1', 'tag2']
+tags: ['motor']
 ---
 
 ## BLDC winding

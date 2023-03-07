@@ -2,7 +2,7 @@
 aliases: [Google Colab Alternatives]
 title: Google Colab Alternatives
 date: 2023-01-09 12:33
-tags: ['tag1', 'tag2']
+tags: ['gpu']
 ---
 
 ## Google Colab Alternatives

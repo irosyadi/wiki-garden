@@ -2,7 +2,7 @@
 aliases: [Synchronous Asynchronous Motor]
 title: Synchronous Asynchronous Motor
 date: 2022-12-23 10:13
-tags: ['tag1', 'tag2']
+tags: ['motor']
 ---
 
 ## Synchronous Asynchronous Motor

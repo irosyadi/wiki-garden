@@ -2,7 +2,7 @@
 aliases: [Time Series Library]
 title: Time Series Library
 date: 2023-02-09 21:14
-tags: ['tag1', 'tag2']
+tags: ['time-series']
 ---
 
 ## Time Series Library

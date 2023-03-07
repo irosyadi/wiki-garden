@@ -2,7 +2,7 @@
 aliases: [Feature Reduction]
 title: Feature Reduction
 date: 2023-02-13 08:36
-tags: ['tag1', 'tag2']
+tags: ['signal-processing']
 ---
 
 ## Feature Reduction

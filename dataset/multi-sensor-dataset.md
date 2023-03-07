@@ -2,7 +2,7 @@
 aliases: [Multi sensor dataset]
 title: "Title"
 date: 2023-02-12 13:26
-tags: ['tag1', 'tag2']
+tags: ['dataset']
 ---
 
 ## Multi sensor dataset

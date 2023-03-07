@@ -2,7 +2,7 @@
 aliases: [Digital State in Digital Twin]
 title: Digital State in Digital Twin
 date: 2022-12-05 10:33
-tags: ['tag1', 'tag2']
+tags: ['digital-twin']
 ---
 
 ## Digital State in Digital Twin

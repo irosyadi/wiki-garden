@@ -2,7 +2,7 @@
 aliases: [Scipy Howto]
 title: Scipy Howto
 date: 2023-01-11 11:04
-tags: ['tag1', 'tag2']
+tags: ['python']
 ---
 
 ## Scipy Howto

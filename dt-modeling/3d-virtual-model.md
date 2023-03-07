@@ -2,7 +2,7 @@
 aliases: [3D Virtual Model]
 title: 3D Virtual Model
 date: 2023-01-25 09:10
-tags: ['tag1', 'tag2']
+tags: ['virtual-model']
 ---
 
 ## 3D Virtual Model

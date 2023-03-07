@@ -2,7 +2,7 @@
 aliases: [Cloud GPU]
 title: Cloud GPU
 date: 2023-01-09 12:46
-tags: ['tag1', 'tag2']
+tags: ['gpu']
 ---
 
 ## Cloud GPU

@@ -2,7 +2,7 @@
 aliases: [Geometric Modeling in Digital Twin]
 title: Geometric Modeling in Digital Twin
 date: 2022-10-31 09:56
-tags: ['tag1', 'tag2']
+tags: ['modeling']
 ---
 
 ## Geometric Modeling in Digital Twin

@@ -2,7 +2,7 @@
 aliases: [Battery Equivalent Circuit]
 title: Battery Equivalent Circuit
 date: 2022-12-29 08:13
-tags: ['tag1', 'tag2']
+tags: ['battery']
 ---
 
 ## Battery Equivalent Circuit

@@ -2,7 +2,7 @@
 aliases: [When Digital Twin is Used?]
 title: When Digital Twin is Used?
 date: 2022-10-16 15:17
-tags: ['tag1', 'tag2']
+tags: ['digital-twin']
 ---
 
 ## When Digital Twin is Used?

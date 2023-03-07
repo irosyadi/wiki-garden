@@ -2,7 +2,7 @@
 aliases: [Surrogate Model, template, templates]
 title: Surrogate Model
 date: 2022-10-16 15:46
-tags: ['tag1', 'tag2']
+tags: ['modeling']
 ---
 
 ## Surrogate Model

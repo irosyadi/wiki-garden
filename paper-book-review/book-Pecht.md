@@ -2,7 +2,7 @@
 aliases: [Prognostics and Health Management of Electronics]
 title: Prognostics and Health Management of Electronics
 date: 2022-12-13 20:08
-tags: ['tag1', 'tag2']
+tags: ['book']
 ---
 
 ## Prognostics and Health Management of Electronics

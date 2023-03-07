@@ -2,7 +2,7 @@
 aliases: [Data-driven Modeling in Digital Twin]
 title: Data-driven Modeling in Digital Twin
 date: 2022-10-31 09:58
-tags: ['tag1', 'tag2']
+tags: ['modeling']
 ---
 
 ## Data-driven Modeling in Digital Twin

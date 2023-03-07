@@ -2,7 +2,7 @@
 aliases: [Python to Jupyter]
 title: Python to Jupyter
 date: 2022-12-31 05:15
-tags: ['tag1', 'tag2']
+tags: ['python']
 ---
 
 ## Python to Jupyter

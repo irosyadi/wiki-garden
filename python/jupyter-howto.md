@@ -2,7 +2,7 @@
 aliases: [Jupyter Howto]
 title: Jupyter Howto
 date: 2023-01-10 08:16
-tags: ['tag1', 'tag2']
+tags: ['python']
 ---
 
 ## Jupyter Howto

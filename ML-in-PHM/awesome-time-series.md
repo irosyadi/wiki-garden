@@ -2,7 +2,7 @@
 aliases: [Awesome Time Series]
 title: Awesome Time Series
 date: 2023-01-23 06:25
-tags: ['tag1', 'tag2']
+tags: ['time-series']
 ---
 
 ## Awesome Time Series

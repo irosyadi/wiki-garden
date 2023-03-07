@@ -2,7 +2,7 @@
 aliases: [Electric Motor Dataset, Paper, and Code, Electric Motor Dataset, Paper, and Code]
 title: Electric Motor Dataset, Paper, and Code
 date: 2023-02-13 16:54
-tags: ['tag1', 'tag2']
+tags: ['dataset', 'code']
 ---
 
 ## Electric Motor Dataset, Paper, and Code

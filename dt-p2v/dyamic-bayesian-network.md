@@ -2,7 +2,7 @@
 aliases: [Dynamic Bayesian Network]
 title: Dynamic Bayesian Network
 date: 2022-12-07 13:07
-tags: ['tag1', 'tag2']
+tags: ['statistics']
 ---
 
 ## Dynamic Bayesian Network

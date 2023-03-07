@@ -1,204 +1,192 @@
 {
   "recentFiles": [
     {
-      "basename": "summary",
-      "path": "summary.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
-    },
-    {
-      "basename": "clustering-method",
-      "path": "ML/clustering-method.md"
-    },
-    {
-      "basename": "bhattiFutureSmartElectric2021",
-      "path": "zotero/bhattiFutureSmartElectric2021.md"
-    },
-    {
-      "basename": "biggioPrognosticsHealthManagement2020",
-      "path": "zotero/biggioPrognosticsHealthManagement2020.md"
-    },
-    {
       "basename": "ZoteroTemplates",
       "path": "Templates/Zotero/ZoteroTemplates.md"
-    },
-    {
-      "basename": "data-fusion-methods",
-      "path": "data-fusion/data-fusion-methods.md"
-    },
-    {
-      "basename": "data-fusion",
-      "path": "data-fusion/data-fusion.md"
-    },
-    {
-      "basename": "chenFaultsDiagnosisMethods2019",
-      "path": "zotero/chenFaultsDiagnosisMethods2019.md"
-    },
-    {
-      "basename": "cardosoDiagnosisFaultTolerance2018",
-      "path": "zotero/cardosoDiagnosisFaultTolerance2018.md"
-    },
-    {
-      "basename": "caoOverviewElectricMotors2021",
-      "path": "zotero/caoOverviewElectricMotors2021.md"
-    },
-    {
-      "basename": "caiReviewDevelopmentElectric2021",
-      "path": "zotero/caiReviewDevelopmentElectric2021.md"
-    },
-    {
-      "basename": "delgadoprietoContributionsElectromechanicalSystems2012",
-      "path": "zotero/delgadoprietoContributionsElectromechanicalSystems2012.md"
-    },
-    {
-      "basename": "wangPrognosticsHealthManagement2021",
-      "path": "zotero/wangPrognosticsHealthManagement2021.md"
-    },
-    {
-      "basename": "paper-cited",
-      "path": "paper-book-review/paper-cited.md"
-    },
-    {
-      "basename": "electric-motor-fault-cause",
-      "path": "motor-fault/electric-motor-fault-cause.md"
-    },
-    {
-      "basename": "book-Benbouzid",
-      "path": "paper-book-review/book-Benbouzid.md"
-    },
-    {
-      "basename": "bearing-fault",
-      "path": "motor-fault/bearing-fault.md"
-    },
-    {
-      "basename": "eccentricity",
-      "path": "motor-fault/eccentricity.md"
-    },
-    {
-      "basename": "fault-detection-framework",
-      "path": "PHM/fault-detection-framework.md"
-    },
-    {
-      "basename": "fault-in-BLDC-motor",
-      "path": "PHM/fault-in-BLDC-motor.md"
-    },
-    {
-      "basename": "data-fusion-motor",
-      "path": "data-fusion/data-fusion-motor.md"
-    },
-    {
-      "basename": "winding-method",
-      "path": "BLDC/winding-method.md"
-    },
-    {
-      "basename": "synchronous-asynchronous",
-      "path": "BLDC/synchronous-asynchronous.md"
-    },
-    {
-      "basename": "ipmsm-spmsm",
-      "path": "BLDC/ipmsm-spmsm.md"
-    },
-    {
-      "basename": "BLDC-motor",
-      "path": "BLDC/BLDC-motor.md"
-    },
-    {
-      "basename": "BLDC-EV-system",
-      "path": "BLDC/BLDC-EV-system.md"
-    },
-    {
-      "basename": "BLDC-aircraft-drone",
-      "path": "BLDC/BLDC-aircraft-drone.md"
-    },
-    {
-      "basename": "I2C-address-conflict",
-      "path": "arduino/I2C-address-conflict.md"
-    },
-    {
-      "basename": "arduino-sampling-rate",
-      "path": "arduino/arduino-sampling-rate.md"
-    },
-    {
-      "basename": "arduino-resource",
-      "path": "arduino/arduino-resource.md"
-    },
-    {
-      "basename": "3d-visualization",
-      "path": "3d/3d-visualization.md"
-    },
-    {
-      "basename": "bldc-fault",
-      "path": "motor-fault/bldc-fault.md"
     },
     {
       "basename": "WikiGardenTemplates",
       "path": "Templates/WikiGarden/WikiGardenTemplates.md"
     },
     {
-      "basename": "paper-plan-01",
-      "path": "paper-plan/paper-plan-01.md"
-    },
-    {
-      "basename": "experimental-heading-1",
-      "path": "random/experimental-heading-1.md"
-    },
-    {
-      "basename": "time-series-feature-library",
-      "path": "time-series/time-series-feature-library.md"
-    },
-    {
-      "basename": "experimental-heading-2",
-      "path": "random/experimental-heading-2.md"
-    },
-    {
-      "basename": "time-series-classification",
-      "path": "time-series/time-series-classification.md"
-    },
-    {
-      "basename": "motor-phm-dataset-code",
-      "path": "dataset/motor-phm-dataset-code.md"
-    },
-    {
-      "basename": "research-Tanvir",
-      "path": "paper-book-review/research-Tanvir.md"
-    },
-    {
-      "basename": "correlation-monotonicity",
-      "path": "signal-processing/correlation-monotonicity.md"
-    },
-    {
-      "basename": "time-series-library",
-      "path": "time-series/time-series-library.md"
-    },
-    {
-      "basename": "HHT",
-      "path": "signal-processing/HHT.md"
-    },
-    {
-      "basename": "parameter-choosing",
-      "path": "paper-plan/parameter-choosing.md"
-    },
-    {
-      "basename": "thesis-delgadoprieto",
-      "path": "paper-book-review/thesis-delgadoprieto.md"
-    },
-    {
-      "basename": "paper-Thelen",
-      "path": "paper-book-review/paper-Thelen.md"
+      "basename": "data-fusion-methods",
+      "path": "data-fusion/data-fusion-methods.md"
     },
     {
       "basename": "test",
       "path": "~private/test.md"
     },
     {
+      "basename": "to-do",
+      "path": "note/to-do.md"
+    },
+    {
+      "basename": "2023-02-14",
+      "path": "note/2023-02-14.md"
+    },
+    {
+      "basename": "2023-02-15",
+      "path": "note/2023-02-15.md"
+    },
+    {
+      "basename": "winding-method",
+      "path": "BLDC/winding-method.md"
+    },
+    {
+      "basename": "when-DT",
+      "path": "digital-twin/when-DT.md"
+    },
+    {
+      "basename": "vibration-data-processing",
+      "path": "signal-processing/vibration-data-processing.md"
+    },
+    {
+      "basename": "unsupervised-ml",
+      "path": "ML/unsupervised-ml.md"
+    },
+    {
+      "basename": "trust-DT",
+      "path": "digital-twin/trust-DT.md"
+    },
+    {
+      "basename": "time-series-repository",
+      "path": "ML-in-PHM/time-series-repository.md"
+    },
+    {
+      "basename": "time-series-library",
+      "path": "time-series/time-series-library.md"
+    },
+    {
+      "basename": "time-series-github",
+      "path": "ML-in-PHM/time-series-github.md"
+    },
+    {
+      "basename": "time-series-feature-library",
+      "path": "time-series/time-series-feature-library.md"
+    },
+    {
+      "basename": "time-series-classification",
+      "path": "time-series/time-series-classification.md"
+    },
+    {
+      "basename": "thesis-delgadoprieto",
+      "path": "paper-book-review/thesis-delgadoprieto.md"
+    },
+    {
+      "basename": "synchronous-asynchronous",
+      "path": "BLDC/synchronous-asynchronous.md"
+    },
+    {
+      "basename": "surrogate-model",
+      "path": "digital-twin/surrogate-model.md"
+    },
+    {
+      "basename": "state-estimation",
+      "path": "dt-p2v/state-estimation.md"
+    },
+    {
+      "basename": "spyder-howto",
+      "path": "python/spyder-howto.md"
+    },
+    {
+      "basename": "SOTA-time-series",
+      "path": "ML-in-PHM/SOTA-time-series.md"
+    },
+    {
+      "basename": "sensor-motor-fault",
+      "path": "motor-fault/sensor-motor-fault.md"
+    },
+    {
+      "basename": "signal-python-toolbox",
+      "path": "signal-processing/signal-python-toolbox.md"
+    },
+    {
+      "basename": "scipy-howto",
+      "path": "python/scipy-howto.md"
+    },
+    {
+      "basename": "research-Senanayaka",
+      "path": "paper-book-review/research-Senanayaka.md"
+    },
+    {
       "basename": "research-plan-01",
       "path": "research/research-plan-01.md"
     },
     {
-      "basename": "signal-processing-time",
-      "path": "signal-processing/signal-processing-time.md"
+      "basename": "research-Mey",
+      "path": "paper-book-review/research-Mey.md"
+    },
+    {
+      "basename": "reducing-computational-cost",
+      "path": "digital-twin/reducing-computational-cost.md"
+    },
+    {
+      "basename": "python-to-jupyter",
+      "path": "python/python-to-jupyter.md"
+    },
+    {
+      "basename": "python-timeseries-library",
+      "path": "python/python-timeseries-library.md"
+    },
+    {
+      "basename": "python-statistics",
+      "path": "python/python-statistics.md"
+    },
+    {
+      "basename": "PHM-with-code",
+      "path": "python/PHM-with-code.md"
+    },
+    {
+      "basename": "phm-paper-with-code",
+      "path": "paper-book-review/phm-paper-with-code.md"
+    },
+    {
+      "basename": "parameter-choosing",
+      "path": "paper-plan/parameter-choosing.md"
+    },
+    {
+      "basename": "paper-cited",
+      "path": "paper-book-review/paper-cited.md"
+    },
+    {
+      "basename": "paper-plan-01",
+      "path": "paper-plan/paper-plan-01.md"
+    },
+    {
+      "basename": "p2v-physical",
+      "path": "dt-p2v/p2v-physical.md"
+    },
+    {
+      "basename": "p2v-data-transfer",
+      "path": "dt-p2v/p2v-data-transfer.md"
+    },
+    {
+      "basename": "optimization-method",
+      "path": "ML-in-PHM/optimization-method.md"
+    },
+    {
+      "basename": "numpy-howto",
+      "path": "python/numpy-howto.md"
+    },
+    {
+      "basename": "new-ML-algorithm",
+      "path": "ML-in-PHM/new-ML-algorithm.md"
+    },
+    {
+      "basename": "multi-sensor-multi-fault-phm",
+      "path": "dataset/multi-sensor-multi-fault-phm.md"
+    },
+    {
+      "basename": "multi-sensor-dataset",
+      "path": "dataset/multi-sensor-dataset.md"
+    },
+    {
+      "basename": "motor-phm-dataset-code",
+      "path": "dataset/motor-phm-dataset-code.md"
+    },
+    {
+      "basename": "model-order-reduction",
+      "path": "digital-twin/model-order-reduction.md"
     }
   ],
   "omittedPaths": [],

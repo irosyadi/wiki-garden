@@ -2,7 +2,7 @@
 aliases: [Jagath Sri Lal Senanayaka Research]
 title: Jagath Sri Lal Senanayaka Research
 date: 2023-02-11 19:22
-tags: ['tag1', 'tag2']
+tags: ['paper']
 ---
 
 ## Jagath Sri Lal Senanayaka Research

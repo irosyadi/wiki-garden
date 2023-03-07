@@ -2,7 +2,7 @@
 aliases: [P2V with Physical Measurements]
 title: P2V with Physical Measurements
 date: 2022-12-05 10:19
-tags: ['tag1', 'tag2']
+tags: ['modeling']
 ---
 
 ## P2V with Physical Measurements

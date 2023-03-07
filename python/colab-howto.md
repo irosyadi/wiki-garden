@@ -2,7 +2,7 @@
 aliases: [Google Colaboratory How To]
 title: Google Colaboratory How To
 date: 2023-01-09 11:46
-tags: ['tag1', 'tag2']
+tags: ['python']
 ---
 
 ## Google Colaboratory How To

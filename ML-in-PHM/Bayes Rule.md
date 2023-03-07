@@ -1,7 +1,7 @@
 ---
 title: "Title"
 date: 2022-12-14 20:30
-tags: ['tag1', 'tag2']
+tags: ['statistics']
 ---
 
 ## Bayes Rule

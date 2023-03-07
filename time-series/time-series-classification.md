@@ -2,7 +2,7 @@
 aliases: [Time Series Classification]
 title: Time Series Classification
 date: 2023-02-09 21:03
-tags: ['tag1', 'tag2']
+tags: ['time-series']
 ---
 
 ## Time Series Classification

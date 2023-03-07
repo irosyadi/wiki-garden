@@ -2,7 +2,7 @@
 aliases: [Python Time Series Library]
 title: Python Time Series Library 
 date: 2023-02-13 16:43
-tags: ['tag1', 'tag2']
+tags: ['time-series', 'python']
 ---
 
 ## Python Time Series Library

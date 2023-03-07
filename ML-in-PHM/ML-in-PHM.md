@@ -2,7 +2,7 @@
 aliases: [Machine Learning in PHM]
 title: Machine Learning in PHM
 date: 2022-12-14 20:29
-tags: ['tag1', 'tag2']
+tags: ['machine-learning', 'PHM']
 ---
 
 ## Machine Learning in PHM

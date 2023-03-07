@@ -2,7 +2,7 @@
 aliases: [Digital Twin Definition]
 title: Digital Twin Definition
 date: 2022-10-30 15:44
-tags: ['tag1', 'tag2']
+tags: ['digital-twin']
 ---
 
 ## Digital Twin Definition

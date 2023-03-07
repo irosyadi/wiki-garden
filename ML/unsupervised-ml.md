@@ -2,7 +2,7 @@
 aliases: [Unsupervised Machine Learning]
 title: Unsupervised Machine Learning
 date: 2023-02-12 08:40
-tags: ['tag1', 'tag2']
+tags: ['machine-learning']
 ---
 
 ## Unsupervised Machine Learning

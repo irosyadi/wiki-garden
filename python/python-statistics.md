@@ -2,7 +2,7 @@
 aliases: [Python Statistics]
 title: Python Statistics
 date: 2023-01-11 05:01
-tags: ['tag1', 'tag2']
+tags: ['time-series', 'python']
 ---
 
 ## Python Statistics

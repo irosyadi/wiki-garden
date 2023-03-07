@@ -2,7 +2,7 @@
 aliases: [AutoML Library]
 title: AutoML Library
 date: 2023-02-13 16:57
-tags: ['tag1', 'tag2']
+tags: ['machine-learning']
 ---
 
 ## AutoML Library

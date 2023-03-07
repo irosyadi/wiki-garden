@@ -2,7 +2,7 @@
 aliases: [DC Signal Cancelation]
 title: DC Signal Cancelation
 date: 2023-02-11 11:22
-tags: ['tag1', 'tag2']
+tags: ['signal-processing']
 ---
 
 ## DC Signal Cancelation

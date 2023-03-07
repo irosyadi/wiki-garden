@@ -2,7 +2,7 @@
 aliases: [Machine Learning Zoo]
 title: Machine Learning Zoo
 date: 2023-02-14 05:57
-tags: ['tag1', 'tag2']
+tags: ['machine-learning']
 ---
 
 ## Machine Learning Zoo

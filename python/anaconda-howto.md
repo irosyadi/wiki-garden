@@ -2,7 +2,7 @@
 aliases: [Anaconda How To]
 title: Anaconda How To
 date: 2023-01-09 10:33
-tags: ['tag1', 'tag2']
+tags: ['python']
 ---
 
 ## Anaconda How To

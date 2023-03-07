@@ -2,7 +2,7 @@
 aliases: [Digital Twin Services]
 title: Digital Twin Services
 date: 2022-11-02 10:51
-tags: ['tag1', 'tag2']
+tags: ['digital-twin']
 ---
 
 ## Digital Twin Services

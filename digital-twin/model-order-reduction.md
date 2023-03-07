@@ -2,7 +2,7 @@
 aliases: [Model Order Reduction (MOR), template, templates]
 title: Model Order Reduction (MOR)
 date: 2022-10-16 16:44
-tags: ['tag1', 'tag2']
+tags: ['machine-learning']
 ---
 
 ## Model Order Reduction (MOR)

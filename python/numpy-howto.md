@@ -2,7 +2,7 @@
 aliases: [Numpy Howto]
 title: Numpy Howto
 date: 2023-01-10 01:31
-tags: ['tag1', 'tag2']
+tags: ['python']
 ---
 
 ## Numpy Howto

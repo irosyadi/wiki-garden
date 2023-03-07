@@ -2,7 +2,7 @@
 aliases: [Research Plan 01]
 title: Research Plan 01
 date: 2023-02-23 11:46
-tags: ['tag1', 'tag2']
+tags: ['writing']
 ---
 
 ## Research Plan 01

@@ -2,7 +2,7 @@
 aliases: [Sensor for Motor Fault Identification]
 title: Sensor for Motor Fault Identification
 date: 2023-02-13 06:15
-tags: ['tag1', 'tag2']
+tags: ['fault-detection']
 ---
 
 ## Sensor for Motor Fault Identification

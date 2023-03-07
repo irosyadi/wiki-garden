@@ -2,7 +2,7 @@
 aliases: [Digital Twin Platforms]
 title: Digital Twin Platforms
 date: 2023-02-09 15:15
-tags: ['tag1', 'tag2']
+tags: ['digital-twin']
 ---
 
 ## Digital Twin Platforms

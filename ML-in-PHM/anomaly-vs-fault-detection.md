@@ -2,7 +2,7 @@
 aliases: [Anomaly vs Fault Detection]
 title: Anomaly vs Fault Detection
 date: 2023-02-14 09:54
-tags: ['tag1', 'tag2']
+tags: ['fault-detection']
 ---
 
 ## Anomaly vs Fault Detection

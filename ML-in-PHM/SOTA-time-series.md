@@ -2,7 +2,7 @@
 aliases: [SOTA (State of the Art) in Time Series]
 title: SOTA (State of the Art) in Time Series
 date: 2023-01-12 17:50
-tags: ['tag1', 'tag2']
+tags: ['machine-learning']
 ---
 
 ## SOTA (State of the Art) in Time Series

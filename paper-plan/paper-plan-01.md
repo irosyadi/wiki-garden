@@ -2,7 +2,7 @@
 aliases: [Paper Plan 01]
 title: Paper Plan 01
 date: 2023-03-01 11:59
-tags: ['tag1', 'tag2']
+tags: ['writing']
 ---
 
 ## Paper Plan 01

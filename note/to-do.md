@@ -2,7 +2,7 @@
 aliases: [To Do]
 title: To Do
 date: 2023-02-15 09:54
-tags: ['tag1', 'tag2']
+tags: ['note']
 ---
 
 ## To Do

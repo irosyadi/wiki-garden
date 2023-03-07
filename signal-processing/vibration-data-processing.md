@@ -2,7 +2,7 @@
 aliases: [Vibration Data Processing]
 title: Vibration Data Processing
 date: 2023-02-07 19:28
-tags: ['tag1', 'tag2']
+tags: ['vibration','signal-processing']
 ---
 
 ## Vibration Data Processing

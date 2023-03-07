@@ -2,7 +2,7 @@
 aliases: [Paper Cited]
 title: Paper Cited
 date: 2022-12-14 18:58
-tags: ['tag1', 'tag2']
+tags: ['writing']
 ---
 
 ## Paper Cited

@@ -2,7 +2,7 @@
 aliases: [Physical to Virtual (P2V) Updating and Enhancement]
 title: Physical to Virtual (P2V) Updating and Enhancement
 date: 2022-10-31 20:58
-tags: ['tag1', 'tag2']
+tags: ['modeling']
 ---
 
 ## Physical to Virtual (P2V) Updating and Enhancement

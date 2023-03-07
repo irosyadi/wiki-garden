@@ -2,7 +2,7 @@
 aliases: [Time Series Feature Extraction Library]
 title: Time Series Feature Extraction Library
 date: 2023-02-23 21:40
-tags: ['tag1', 'tag2']
+tags: ['time-series']
 ---
 
 ## Time Series Feature Extraction Library

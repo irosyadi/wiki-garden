@@ -2,7 +2,7 @@
 aliases: [Time Series in Github Repo]
 title: Time Series in Github Repo
 date: 2023-01-23 10:00
-tags: ['tag1', 'tag2']
+tags: ['time-series']
 ---
 
 ## Time Series in Github Repo

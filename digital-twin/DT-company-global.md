@@ -2,7 +2,7 @@
 aliases: [Global Digital Twin Companies]
 title: Global Digital Twin Companies
 date: 2022-10-17 11:36
-tags: ['tag1', 'tag2']
+tags: ['digital-twin']
 ---
 
 ## Global Digital Twin Companies

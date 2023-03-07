@@ -2,7 +2,7 @@
 aliases: [New Machine Learning Algorithms]
 title: New Machine Learning Algorithms
 date: 2023-02-09 11:11
-tags: ['tag1', 'tag2']
+tags: ['machine-learning']
 ---
 
 ## New Machine Learning Algorithms

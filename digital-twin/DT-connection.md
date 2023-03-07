@@ -2,7 +2,7 @@
 aliases: [Connection and Data Transfer in Digital Twin]
 title: "Title"
 date: 2022-10-31 21:03
-tags: ['tag1', 'tag2']
+tags: ['digital-twin']
 ---
 
 ## Connection and Data Transfer in Digital Twin

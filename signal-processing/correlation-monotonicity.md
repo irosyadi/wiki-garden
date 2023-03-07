@@ -2,7 +2,7 @@
 aliases: [Correlation Monotonicity]
 title: Correlation Monotonicity
 date: 2023-02-23 09:37
-tags: ['tag1', 'tag2']
+tags: ['statistics']
 ---
 
 ## Correlation Monotonicity

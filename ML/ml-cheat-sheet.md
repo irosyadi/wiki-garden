@@ -2,7 +2,7 @@
 aliases: [Machine Learning Cheat Sheets]
 title: Machine Learning Cheat Sheets
 date: 2023-02-14 07:16
-tags: ['tag1', 'tag2']
+tags: ['machine-learning']
 ---
 
 ## Machine Learning Cheat Sheets
