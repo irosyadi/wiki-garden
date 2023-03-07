@@ -2,7 +2,7 @@
 aliases: [Python Signal Processing Toolbox]
 title: Python Signal Processing Toolbox
 date: 2023-01-11 04:52
-tags: ['python, 'signal-processing']
+tags: ['python', 'signal-processing']
 ---
 
 ## Python Signal Processing Toolbox

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "signal-python-toolbox",
+      "path": "signal-processing/signal-python-toolbox.md"
+    },
+    {
+      "basename": "bhattiFutureSmartElectric2021",
+      "path": "zotero/bhattiFutureSmartElectric2021.md"
+    },
+    {
       "basename": "ZoteroTemplates",
       "path": "Templates/Zotero/ZoteroTemplates.md"
     },
@@ -95,10 +103,6 @@
     {
       "basename": "sensor-motor-fault",
       "path": "motor-fault/sensor-motor-fault.md"
-    },
-    {
-      "basename": "signal-python-toolbox",
-      "path": "signal-processing/signal-python-toolbox.md"
     },
     {
       "basename": "scipy-howto",
