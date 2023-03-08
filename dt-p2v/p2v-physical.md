@@ -7,8 +7,8 @@ tags: ['modeling']
 
 ## P2V with Physical Measurements
 
-- Using physical measurements to update the movements or position of digital models, mainly for [Geometric Modeling in Digital Twin](dt-modeling/DT-modeling-geometric.md)
-- Using physical system monitoring data as input for physics-based analysis or design, manly for [Physical Modeling in Digital Twin](dt-modeling/DT-modeling-physic.md)
+- Using physical measurements to update the movements or position of digital models, mainly for [Geometric Modeling in Digital Twin](../DT-modeling/DT-modeling-geometric.md)
+- Using physical system monitoring data as input for physics-based analysis or design, manly for [Physical Modeling in Digital Twin](../DT-modeling/DT-modeling-physic.md)
 
 ### Application of P2V with Physical Measurements
 

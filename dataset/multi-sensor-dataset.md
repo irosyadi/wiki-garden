@@ -1,11 +1,11 @@
 ---
-aliases: [Multi sensor dataset]
-title: "Title"
+aliases: [Multi Sensor Dataset]
+title: Multi Sensor Dataset
 date: 2023-02-12 13:26
 tags: ['dataset']
 ---
 
-## Multi sensor dataset
+## Multi Sensor Dataset
 
 - MAFAULDA
   - Fault: bearing, unbalance, misalignment

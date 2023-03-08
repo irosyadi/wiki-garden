@@ -1,11 +1,11 @@
 ---
-aliases: [Read Thermal Sensor AMG883 using Arduino]
-title: amg8833-arduino
+aliases: [Thermal Sensor AMG883 using Arduino]
+title: Thermal Sensor AMG883 using Arduino
 date: 2022-10-04 11:05
 tags: ['arduino']
 ---
 
-## amg8833-arduino
+## Thermal Sensor AMG883 using Arduino
 
 ### Read Thermal Sensor AMG883 using Arduino
 

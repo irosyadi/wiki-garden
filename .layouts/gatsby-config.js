@@ -1,13 +1,13 @@
 const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
-  title: "irosyadi-wiki",
-  shortName: "iwiki",
+  title: "Digital Twin",
+  shortName: "Twin",
   description:
     "A Digital Twin Wiki",
   twitterName: "irosyadi",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://irosyadi-wiki.netlify.app",
+  siteUrl: "https://digital-twin.netlify.app",
 };
 module.exports = {
   siteMetadata,

@@ -1,11 +1,11 @@
 ---
 aliases: [Research by Yasir Abdur Rohman]
-title: research-Yazid
+title: Research by Yasir Abdur Rohman
 date: 2022-10-01 23:39
 tags: ['research']
 ---
 
-## research-Yazid
+## Research by Yasir Abdur Rohman
 
 ### Research by Yasir Abdur Rohman
 

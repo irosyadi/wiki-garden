@@ -10,7 +10,7 @@ tags: ['paper', 'review', 'digital-twin']
 ### How to tell the difference between a model and a digital twin
 
 - [When Digital Twin is Used?](../digital-twin/when-DT.md)
-- [Modeling in Digital Twin](../dt-modeling/DT-modeling.md)
+- [Modeling in Digital Twin](../DT-modeling/DT-modeling.md)
 - [trust-DT](../digital-twin/trust-DT.md)
 - [[../digital-twin/reducing-computational-cost]]
 - [surrogate-model](../digital-twin/surrogate-model.md)

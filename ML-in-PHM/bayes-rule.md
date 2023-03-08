@@ -1,5 +1,6 @@
 ---
-title: "Title"
+aliases: [Bayes Rule]
+title: Bayes Rule
 date: 2022-12-14 20:30
 tags: ['statistics']
 ---

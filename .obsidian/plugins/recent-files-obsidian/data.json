@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "multi-sensor-dataset",
+      "path": "dataset/multi-sensor-dataset.md"
+    },
+    {
+      "basename": "DT-connection",
+      "path": "digital-twin/DT-connection.md"
+    },
+    {
+      "basename": "implementation-level-DT",
+      "path": "digital-twin/implementation-level-DT.md"
+    },
+    {
+      "basename": "digital-twin-layer",
+      "path": "digital-twin/digital-twin-layer.md"
+    },
+    {
+      "basename": "data-management-DT",
+      "path": "digital-twin/data-management-DT.md"
+    },
+    {
+      "basename": "digital-twin",
+      "path": "digital-twin/digital-twin.md"
+    },
+    {
+      "basename": "data-fusion-DT",
+      "path": "digital-twin/data-fusion-DT.md"
+    },
+    {
+      "basename": "p2v-data-transfer",
+      "path": "DT-P2V/p2v-data-transfer.md"
+    },
+    {
+      "basename": "bayes-rule",
+      "path": "ML-in-PHM/bayes-rule.md"
+    },
+    {
+      "basename": "DT-modeling-system",
+      "path": "DT-modeling/DT-modeling-system.md"
+    },
+    {
+      "basename": "research-Yazid",
+      "path": "paper-book-review/research-Yazid.md"
+    },
+    {
+      "basename": "parameter-choosing",
+      "path": "paper-plan/parameter-choosing.md"
+    },
+    {
+      "basename": "spyder-howto",
+      "path": "python/spyder-howto.md"
+    },
+    {
+      "basename": "latex-howto",
+      "path": "python/latex-howto.md"
+    },
+    {
+      "basename": "keyword-remaining-useful-life-github",
+      "path": "research/keyword-remaining-useful-life-github.md"
+    },
+    {
+      "basename": "amg8833-arduino",
+      "path": "research/amg8833-arduino.md"
+    },
+    {
+      "basename": "DT-modeling",
+      "path": "DT-modeling/DT-modeling.md"
+    },
+    {
+      "basename": "3D-virtual-model",
+      "path": "DT-modeling/3D-virtual-model.md"
+    },
+    {
+      "basename": "ipmsm-spmsm",
+      "path": "BLDC/ipmsm-spmsm.md"
+    },
+    {
+      "basename": "winding-method",
+      "path": "BLDC/winding-method.md"
+    },
+    {
+      "basename": "BLDC-motor",
+      "path": "BLDC/BLDC-motor.md"
+    },
+    {
+      "basename": "BLDC-EV-system",
+      "path": "BLDC/BLDC-EV-system.md"
+    },
+    {
+      "basename": "3D-visualization",
+      "path": "3d/3D-visualization.md"
+    },
+    {
       "basename": "signal-python-toolbox",
       "path": "signal-processing/signal-python-toolbox.md"
     },
@@ -35,10 +127,6 @@
     {
       "basename": "2023-02-15",
       "path": "note/2023-02-15.md"
-    },
-    {
-      "basename": "winding-method",
-      "path": "BLDC/winding-method.md"
     },
     {
       "basename": "when-DT",
@@ -90,11 +178,7 @@
     },
     {
       "basename": "state-estimation",
-      "path": "dt-p2v/state-estimation.md"
-    },
-    {
-      "basename": "spyder-howto",
-      "path": "python/spyder-howto.md"
+      "path": "DT-P2V/state-estimation.md"
     },
     {
       "basename": "SOTA-time-series",
@@ -115,82 +199,6 @@
     {
       "basename": "research-plan-01",
       "path": "research/research-plan-01.md"
-    },
-    {
-      "basename": "research-Mey",
-      "path": "paper-book-review/research-Mey.md"
-    },
-    {
-      "basename": "reducing-computational-cost",
-      "path": "digital-twin/reducing-computational-cost.md"
-    },
-    {
-      "basename": "python-to-jupyter",
-      "path": "python/python-to-jupyter.md"
-    },
-    {
-      "basename": "python-timeseries-library",
-      "path": "python/python-timeseries-library.md"
-    },
-    {
-      "basename": "python-statistics",
-      "path": "python/python-statistics.md"
-    },
-    {
-      "basename": "PHM-with-code",
-      "path": "python/PHM-with-code.md"
-    },
-    {
-      "basename": "phm-paper-with-code",
-      "path": "paper-book-review/phm-paper-with-code.md"
-    },
-    {
-      "basename": "parameter-choosing",
-      "path": "paper-plan/parameter-choosing.md"
-    },
-    {
-      "basename": "paper-cited",
-      "path": "paper-book-review/paper-cited.md"
-    },
-    {
-      "basename": "paper-plan-01",
-      "path": "paper-plan/paper-plan-01.md"
-    },
-    {
-      "basename": "p2v-physical",
-      "path": "dt-p2v/p2v-physical.md"
-    },
-    {
-      "basename": "p2v-data-transfer",
-      "path": "dt-p2v/p2v-data-transfer.md"
-    },
-    {
-      "basename": "optimization-method",
-      "path": "ML-in-PHM/optimization-method.md"
-    },
-    {
-      "basename": "numpy-howto",
-      "path": "python/numpy-howto.md"
-    },
-    {
-      "basename": "new-ML-algorithm",
-      "path": "ML-in-PHM/new-ML-algorithm.md"
-    },
-    {
-      "basename": "multi-sensor-multi-fault-phm",
-      "path": "dataset/multi-sensor-multi-fault-phm.md"
-    },
-    {
-      "basename": "multi-sensor-dataset",
-      "path": "dataset/multi-sensor-dataset.md"
-    },
-    {
-      "basename": "motor-phm-dataset-code",
-      "path": "dataset/motor-phm-dataset-code.md"
-    },
-    {
-      "basename": "model-order-reduction",
-      "path": "digital-twin/model-order-reduction.md"
     }
   ],
   "omittedPaths": [],

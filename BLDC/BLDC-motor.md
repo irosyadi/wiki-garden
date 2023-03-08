@@ -1,10 +1,11 @@
 ---
 aliases: [BLDC Motor]
+title: BLDC Motor
 date: 2022-07-23 12:45
 tags: ['motor', 'BLDC']
 ---
 
-## BLDC-motor
+## BLDC Motor
 
 For a three-phase bldc motor, a brushless dc motor with Hall sensors has eight wires: 3 three-phase motor wires, 3 Hall wires, and 2 Hall power wires. There are three Hall chips inside the brushless dc motor with Hall sensor. When the motor is working, the real-time position of the rotor can be displayed to the control board in the form of waveform. Based on the waveform, the position of the rotor and the rhythm to start the brushless dc motor will be determined by the control board.
 

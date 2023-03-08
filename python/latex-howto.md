@@ -1,6 +1,6 @@
 ---
 aliases: [Latex Howto]
-title: "Title"
+title: Latex Howto
 date: 2023-01-10 15:29
 tags: ['latex']
 ---

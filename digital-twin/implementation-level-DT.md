@@ -1,11 +1,11 @@
 ---
 aliases: [Implementation Level of Digital Twin]
-title: implementation-level-DT
+title: Implementation Level of Digital Twin
 date: 2022-07-25 13:40
 tags: ['digital-twin']
 ---
 
-## implementation-level-DT
+## Implementation Level of Digital Twin
 
 Implementation Level of DT  
 In manufacturing, you can use a digital twin technology at various levels:

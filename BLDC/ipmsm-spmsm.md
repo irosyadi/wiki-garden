@@ -1,5 +1,6 @@
 ---
-aliases: [IPMSM vs SPMSM]
+aliases: [IPMSM vs SPMSM Motor]
+title: IPMSM vs SPMSM Motor
 date: 2022-12-24 09:09
 tags: ['motor']
 ---

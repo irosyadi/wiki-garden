@@ -1,11 +1,11 @@
 ---
 aliases: [Digital Twin]
-title: digital-twin
+title: Digital Twin
 date: 2022-07-28 16:11
 tags: ['digital-twin']
 ---
 
-## digital-twin
+## Digital Twin
 
 ### Definition of Digital Twin
 
@@ -29,7 +29,7 @@ tags: ['digital-twin']
 
 ### Modeling in Digital Twin
 
-[[../dt-modeling/DT-modeling]]
+[[../DT-modeling/DT-modeling]]
 
 ### Data Management in Digital Twin
 

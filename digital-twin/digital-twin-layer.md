@@ -1,11 +1,11 @@
 ---
 aliases: [Digital Twin Layer]
-title: digital-twin-layer
+title: Digital Twin Layer
 date: 2022-08-08 10:26:42
 tags: ['digital-twin']
 ---
 
-## digital-twin-layer
+## Digital Twin Layer
 
 Digital Twin Layer
 

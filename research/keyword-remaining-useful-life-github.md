@@ -1,11 +1,11 @@
 ---
 aliases: [Remaining Useful Life Research at Github]
-title: keyword-remaining-useful-life-github
+title: Remaining Useful Life Research at Github
 date: 2022-10-01 23:52
 tags: ['keyword', 'github', 'RUL']
 ---
 
-## keyword-remaining-useful-life-github
+## Remaining Useful Life Research at Github
 
 ### Remaining Useful Life Research at Github
 

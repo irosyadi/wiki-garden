@@ -1,5 +1,6 @@
 ---
 aliases: [3D Visualization]
+title: 3D Visualization
 date: 2023-02-21 10:32
 tags: ['virtual-model']
 ---

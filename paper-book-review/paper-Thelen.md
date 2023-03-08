@@ -14,24 +14,24 @@ tags: ['paper', 'review', 'digital-twin']
 [Digital Twin Definition](../digital-twin/definition-DT.md)  
 2.2 Literature overview  
 3 Modeling enabling technologies  
-[Modeling in Digital Twin](../dt-modeling/DT-modeling.md)  
+[Modeling in Digital Twin](../DT-modeling/DT-modeling.md)  
 3.1 Geometric modeling  
-[Geometric Modeling in Digital Twin](../dt-modeling/DT-modeling-geometric.md)  
+[Geometric Modeling in Digital Twin](../DT-modeling/DT-modeling-geometric.md)  
 3.2 Physics-based modeling  
-[Physical Modeling in Digital Twin](../dt-modeling/DT-modeling-physic.md)  
+[Physical Modeling in Digital Twin](../DT-modeling/DT-modeling-physic.md)  
 3.3 Data-driven modeling  
-[Data-driven Modeling in Digital Twin](../dt-modeling/DT-modeling-data-driven.md)  
+[Data-driven Modeling in Digital Twin](../DT-modeling/DT-modeling-data-driven.md)  
 3.4 Physics-informed ML  
-[Physics-informed ML Modeling in Digital Twin](../dt-modeling/DT-modeling-physic-informed-ML.md)  
+[Physics-informed ML Modeling in Digital Twin](../DT-modeling/DT-modeling-physic-informed-ML.md)  
 3.5 System modeling  
-[System Modeling in Digital Twin](../dt-modeling/DT-modeling-system.md)  
+[System Modeling in Digital Twin](../DT-modeling/DT-modeling-system.md)  
 4 P2V twinning enabling technologies  
 4.1 Physical measurements as input  
-[P2V with Physical Measurements](../dt-p2v/p2v-physical.md)  
+[P2V with Physical Measurements](../DT-P2V/p2v-physical.md)  
 4.2 Probabilistic model updating  
-[Digital State in Digital Twin](../dt-p2v/digital-state.md)  
-[State Estimation in P2V](../dt-p2v/state-estimation.md)  
-[P2V with Probabilistic Model Updating](../dt-p2v/state-estimation.md)  
+[Digital State in Digital Twin](../DT-P2V/digital-state.md)  
+[State Estimation in P2V](../DT-P2V/state-estimation.md)  
+[P2V with Probabilistic Model Updating](../DT-P2V/state-estimation.md)  
 4.3 ML model updating  
 4.4 Fault diagnostics and failure prognostics  
 4.5 Ontology-based reasoning  

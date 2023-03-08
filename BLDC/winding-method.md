@@ -1,11 +1,11 @@
 ---
-aliases: [BLDC winding]
-title: BLDC winding
+aliases: [BLDC Winding]
+title: BLDC Winding
 date: 2022-12-24 09:24
 tags: ['motor']
 ---
 
-## BLDC winding
+## BLDC Winding
 
 - Concentrated  
   - With a concentrated winding, the stator is always wound exactly over one tooth.

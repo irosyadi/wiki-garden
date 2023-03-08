@@ -1,6 +1,6 @@
 ---
 aliases: [P2V Data Transfer Methods]
-title: "Title"
+title: P2V Data Transfer Methods
 date: 2022-12-05 10:23
 tags: ['modeling']
 ---

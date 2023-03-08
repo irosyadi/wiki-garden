@@ -1,11 +1,11 @@
 ---
 aliases: [Data Management in Digital Twin]
-title: data-management-DT
+title: Data Management in Digital Twin
 date: 2022-07-28 15:15
 tags: ['data', 'digital-twin']
 ---
 
-## data-management-DT
+## Data Management in Digital Twin
 
 Data management in Digital Twin:
 

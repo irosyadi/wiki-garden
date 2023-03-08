@@ -1,11 +1,11 @@
 ---
-aliases: ["Data Fusion in Digital Twin"]
-title: data-fusion-DT
+aliases: [Data Fusion in Digital Twin]
+title: Data Fusion in Digital Twin
 date: 2022-07-28 17:46
 tags: ['data', 'digital-twin']
 ---
 
-## data-fusion-DT
+## Data Fusion in Digital Twin
 
 Data fusion copes with multisource data through synthesis, filtering, correlation, and integration.
 

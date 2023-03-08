@@ -1,6 +1,6 @@
 ---
 aliases: [Spyder Howto]
-title: "Title"
+title: Spyder Howto
 date: 2023-01-10 01:45
 tags: ['python']
 ---
