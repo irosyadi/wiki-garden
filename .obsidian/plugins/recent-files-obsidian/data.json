@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "summary",
+      "path": "summary.md"
+    },
+    {
+      "basename": "about-me",
+      "path": "about/about-me.md"
+    },
+    {
       "basename": "multi-sensor-dataset",
       "path": "dataset/multi-sensor-dataset.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "sensor-motor-fault",
       "path": "motor-fault/sensor-motor-fault.md"
-    },
-    {
-      "basename": "scipy-howto",
-      "path": "python/scipy-howto.md"
-    },
-    {
-      "basename": "research-Senanayaka",
-      "path": "paper-book-review/research-Senanayaka.md"
-    },
-    {
-      "basename": "research-plan-01",
-      "path": "research/research-plan-01.md"
     }
   ],
   "omittedPaths": [],
