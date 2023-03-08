@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "correlation-monotonicity",
+      "path": "signal-processing/correlation-monotonicity.md"
+    },
+    {
+      "basename": "HHT",
+      "path": "signal-processing/HHT.md"
+    },
+    {
+      "basename": "bayes-rule",
+      "path": "ML-in-PHM/bayes-rule.md"
+    },
+    {
+      "basename": "2023-02-15",
+      "path": "note/2023-02-15.md"
+    },
+    {
+      "basename": "to-do",
+      "path": "note/to-do.md"
+    },
+    {
       "basename": "readme",
       "path": "readme.md"
     },
@@ -43,10 +63,6 @@
     {
       "basename": "p2v-data-transfer",
       "path": "DT-P2V/p2v-data-transfer.md"
-    },
-    {
-      "basename": "bayes-rule",
-      "path": "ML-in-PHM/bayes-rule.md"
     },
     {
       "basename": "DT-modeling-system",
@@ -129,16 +145,8 @@
       "path": "~private/test.md"
     },
     {
-      "basename": "to-do",
-      "path": "note/to-do.md"
-    },
-    {
       "basename": "2023-02-14",
       "path": "note/2023-02-14.md"
-    },
-    {
-      "basename": "2023-02-15",
-      "path": "note/2023-02-15.md"
     },
     {
       "basename": "when-DT",
@@ -191,14 +199,6 @@
     {
       "basename": "state-estimation",
       "path": "DT-P2V/state-estimation.md"
-    },
-    {
-      "basename": "SOTA-time-series",
-      "path": "ML-in-PHM/SOTA-time-series.md"
-    },
-    {
-      "basename": "sensor-motor-fault",
-      "path": "motor-fault/sensor-motor-fault.md"
     }
   ],
   "omittedPaths": [],
