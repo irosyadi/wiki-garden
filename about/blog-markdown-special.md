@@ -113,32 +113,6 @@ This <em>word</em> is italic.
 This <strong>word</strong> is bold.  
 This <del>word</del> is deleted with strikethorouugh.
 
-#### 13.2. Others HTML Code
-
-- didn't work in Gitbook
-
-***markdown***
-
-```md
-<font color=red>red color</font>  
-<mark>highlight</mark>  
-<ins>underline</ins>  
-<small>smaller text</small>  
-H<sub>2</sub>O  
-x<sup>2</sup>+y<sup>2</sup>=0  
-Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
-```
-
-***display***
-
-<font color=red>red color</font>  
-<mark>highlight</mark>  
-<ins>underline</ins>  
-<small>smaller text</small>  
-H<sub>2</sub>O  
-x<sup>2</sup>+y<sup>2</sup>=0  
-Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
-
 ### 14. Horizontal Rules
 
 - didn't work in Gitbook

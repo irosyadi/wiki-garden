@@ -5,6 +5,26 @@
       "path": "about/blog-markdown-special.md"
     },
     {
+      "basename": "bhattiIntelligentFaultDiagnosis2021",
+      "path": "zotero/bhattiIntelligentFaultDiagnosis2021.md"
+    },
+    {
+      "basename": "ZoteroTemplates",
+      "path": "Templates/Zotero/ZoteroTemplates.md"
+    },
+    {
+      "basename": "bhattiFutureSmartElectric2021",
+      "path": "zotero/bhattiFutureSmartElectric2021.md"
+    },
+    {
+      "basename": "WikiGardenTemplates",
+      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
+    },
+    {
+      "basename": "book-Benbouzid",
+      "path": "paper-book-review/book-Benbouzid.md"
+    },
+    {
       "basename": "correlation-monotonicity",
       "path": "signal-processing/correlation-monotonicity.md"
     },
@@ -129,18 +149,6 @@
       "path": "signal-processing/signal-python-toolbox.md"
     },
     {
-      "basename": "bhattiFutureSmartElectric2021",
-      "path": "zotero/bhattiFutureSmartElectric2021.md"
-    },
-    {
-      "basename": "ZoteroTemplates",
-      "path": "Templates/Zotero/ZoteroTemplates.md"
-    },
-    {
-      "basename": "WikiGardenTemplates",
-      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
-    },
-    {
       "basename": "data-fusion-methods",
       "path": "data-fusion/data-fusion-methods.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "thesis-delgadoprieto",
       "path": "paper-book-review/thesis-delgadoprieto.md"
-    },
-    {
-      "basename": "synchronous-asynchronous",
-      "path": "BLDC/synchronous-asynchronous.md"
-    },
-    {
-      "basename": "surrogate-model",
-      "path": "digital-twin/surrogate-model.md"
     }
   ],
   "omittedPaths": [],
