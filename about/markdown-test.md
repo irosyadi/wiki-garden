@@ -1,19 +1,17 @@
 ---
-aliases: [Special Markdown Case]
-title: Special Markdown Case
+aliases: [Markdown Test]
+title: Markdown Test
 date: 2023-03-10 14:05
 tags: ['markdown']
 ---
 
-## Special Markdown Case
+## Markdown Test
 
 Common markdown format for Gitbook, gatsby-starter-bee, and VNote.
 
 ### 6. Lists
 
 #### 6.3. Offset in Oredered List
-
-- didn't work in Gitbook
 
 ***markdown***
 
@@ -33,19 +31,17 @@ Common markdown format for Gitbook, gatsby-starter-bee, and VNote.
 
 #### 9.1. Email Linkify
 
-- didn't work in Gatsby and Gitbook
-
 ***markdown***
 
 ```md
-fake@example.com didn't work in Gatsby and Gitbook  
-<fake@example.com> is okay  
+fake1@example.com  
+<fake2@example.com>  
 ```
 
 **display**
 
-fake@example.com didn't work in Gatsby and Gitbook  
-<fake@example.com> is okay  
+fake1@example.com  
+<fake2@example.com>
 
 ### 10. Reference-style Links
 
@@ -95,8 +91,6 @@ It doesn't have [hobbit-hole][hh].
 
 ### 13. HTML Code
 
-- very restricted in Gitbook
-
 #### 13.1. HTML: Bold, Italic, Strikethrough
 
 ***markdown***
@@ -115,8 +109,6 @@ This <del>word</del> is deleted with strikethorouugh.
 
 ### 14. Horizontal Rules
 
-- didn't work in Gitbook
-
 ***markdown***
 
 ```md
@@ -126,7 +118,6 @@ ___
 
 ***
 
-but only didn't work for Gitbook
 ```
 
 ***display***
@@ -136,24 +127,6 @@ ___
 ---
 
 ***
-
-### 15. Heading ID
-
-- didn't work for Gatsby
-
-***markdown***
-
-```md
-### My Great Heading {#heading-ids}
-
-Link to [Heading IDs](#heading-ids)
-```
-
-***display***
-
-#### My Great Heading {#heading-ids}
-
-Link to [Heading IDs](#heading-ids)
 
 ### 16. Code Fencing and Highlighting
 
@@ -230,24 +203,19 @@ puts markdown.to_html
 
 #### 18.2. Highlighting and Underline
 
-- didn't work in Gitbook and Gatsby
-
 ```md
-==highlight, fail in Gitbook and Gatsby==  
-_underline, fail in Gitbook and Gatsby_  
+==highlight==  
+_underline_  
 ```
 
 ***display***
 
-==highlight, fail in Gitbook and Gatsby==  
-*underline, fail in Gitbook and Gatsby*  
+==highlight==  
+*underline*  
 
 ### 20. Emojies
 
 #### 20.2. Shortcode Emoji
-
-- didn't work in Gitbook
-- in Gatsby and VNote, use Github Emoji Shortcode
 
 ***markdown***
 
@@ -260,8 +228,6 @@ Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
 Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
 
 ### 21. Typographic Replacements, Superscript, Subscript
-
-- dind't work in Gatsby and Gitbook
 
 ***markdown***
 
@@ -297,20 +263,20 @@ x&sup2; y&sup3; &frac34; &frac14; &times; &divide; &raquo; &#124;
 
 #### 23.1. Inline Equation
 
-- Equation with one dollar sign `$` works inline in VNote
-- Equation with two dollar signs `$$` works inline in Jekyll and Gitbook, but not in VNote
-
 ***markdown***
 
 ```
-Inline equation with one dollar sign: $E=mc^2$ (worked in VNote and Gatsby).  
-Inline equation with two dollar sign: $$E=mc^2$$ (worked in Gatsby, Jekyll and Gitbook).
+Inline equation with one dollar sign: $E=mc^2$.  
+Inline equation with two dollar sign: $$E=mc^2$$.
 ```
 
 ***display***
 
-Inline equation with one dollar sign: $E=mc^2$ (worked in VNote and Gatsby).  
-Inline equation with two dollar sign: $$E=mc^2$$ (worked in Gatsby, Jekyll and Gitbook).
+Inline equation with one dollar sign: $E=mc^2$.  
+Inline equation with two dollar sign:
+
+Inline equation with two dollar sign: $$E=mc^2$$.
+Inline equation with two dollar sign:
 
 #### 23.2. Newline Equation
 
@@ -326,19 +292,20 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
 Newline equation with two dollar signs.
 
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
+$$
 
+\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))
+
+$$
 
 ### 27. Footnote
-
-- didn't work in Gitbook
 
 ***markdown***
 
 ```md
 Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].  
 
-[^1]: This is the first footnote, in Gitbook, there is no new line between.  
+[^1]: This is the first footnote.  
 [^bignote]: Here's another one.  
 [^withcode]: `code` or code in paragraphs  
 ```
@@ -347,7 +314,7 @@ Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode
 
 Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode]. But there is problem with Gitbook for footnote.
 
-[^1]: This is the first footnote, in Gitbook, there some problems.  
+[^1]: This is the first footnote.  
 
 [^bignote]: Here's another one.  
 
