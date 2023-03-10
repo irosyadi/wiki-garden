@@ -5,10 +5,6 @@ date: 2023-02-23 09:37
 tags: ['statistics']
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css" integrity="sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0" crossorigin="anonymous">  
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js" integrity="sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4" crossorigin="anonymous"></script>  
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
-
 ## Correlation Monotonicity
 
 The main task of feature selection is to discard irrelevant and redundant features which do not provide sufficient fault signatures. It means that a good prognostic feature should be monotonically correlated with degradation process. Based on these principles, here, the correlation and monotonicity metrics are utilized to select the most sensitive features from the feature set.
@@ -18,6 +14,12 @@ The correlation metric measures a linear correlation between features and operat
 $$
 \mathrm{Corr}=\frac {\left| \sum_{t=1}^T (F_t-\tilde{F})(l_t-\tilde{l}) \right|} {\sqrt{\sum_{t=1}^T (F_t-\tilde{F})^2 \sum_{t=1}^T (l_t-\tilde{l})^2}}
 $$
+
+```latex
+$$
+\mathrm{Corr}=\frac {\left| \sum_{t=1}^T (F_t-\tilde{F})(l_t-\tilde{l}) \right|} {\sqrt{\sum_{t=1}^T (F_t-\tilde{F})^2 \sum_{t=1}^T (l_t-\tilde{l})^2}}
+$$
+```
 
 where $F_t$ and $l_t$ are the feature and time values of the t-th observation sample. $T$ is the length of the samples during the lifetime.
 
