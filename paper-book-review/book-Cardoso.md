@@ -13,4 +13,4 @@ Chapter 2 Voltage-source inverter-fed drives
 
 ### References
 
-[cardosoDiagnosisFaultTolerance2018](../zotero/cardosoDiagnosisFaultTolerance2018.md)
+(_[cardosoDiagnosisFaultTolerance2018](zotero://select/library/items/ZVRUDSGX)_, [link](), [DOI](https://doi.org/))

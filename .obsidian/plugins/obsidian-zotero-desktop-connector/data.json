@@ -9,7 +9,7 @@
       "name": "citekeyURI",
       "format": "template",
       "cslStyle": "apa",
-      "template": "(_[{{citekey}}]({{desktopURI}})_, [link]({{url}}), [DOI](https://doi.org/{{DOI}}))"
+      "template": "(_[{{citekey}}]({{desktopURI}})_, [link]({{url}}), [DOI](https://doi.org/{{DOI}}), [zolib](https://www.zotero.org/irosyadi/items/{{itemKey}}))"
     }
   ],
   "exportFormats": [
@@ -23,5 +23,7 @@
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
   "shouldShowCiteSuggest": true
 }

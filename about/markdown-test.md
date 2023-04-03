@@ -273,10 +273,7 @@ Inline equation with two dollar sign: $$E=mc^2$$.
 ***display***
 
 Inline equation with one dollar sign: $E=mc^2$.  
-Inline equation with two dollar sign:
-
 Inline equation with two dollar sign: $$E=mc^2$$.
-Inline equation with two dollar sign:
 
 #### 23.2. Newline Equation
 
@@ -312,7 +309,7 @@ Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode
 
 ***display***
 
-Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode]. But there is problem with Gitbook for footnote.
+Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].
 
 [^1]: This is the first footnote.  
 

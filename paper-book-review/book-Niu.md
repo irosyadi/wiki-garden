@@ -87,4 +87,4 @@ The open system architecture for condition-based maintenance organization (OSA-C
 
 ### References
 
-- [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)
+- (_[niuDataDrivenTechnologyEngineering2017](zotero://select/library/items/AQ6U3GGX)_, [link](http://link.springer.com/10.1007/978-981-10-2032-2), [DOI](https://doi.org/))

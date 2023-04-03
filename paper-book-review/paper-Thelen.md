@@ -64,5 +64,5 @@ tags: ['paper', 'review', 'digital-twin']
 
 ### References
 
-- [thelenComprehensiveReviewDigital2022](../zotero/thelenComprehensiveReviewDigital2022.md)
-- [thelenComprehensiveReviewDigital2022a](../zotero/thelenComprehensiveReviewDigital2022a.md)
+- (_[thelenComprehensiveReviewDigital2022](zotero://select/library/items/FXSERGFX)_, [link](http://arxiv.org/abs/2208.14197), [DOI](https://doi.org/10.48550/arXiv.2208.14197))
+- (_[thelenComprehensiveReviewDigital2022a](zotero://select/library/items/JUH72N9A)_, [link](http://arxiv.org/abs/2208.12904), [DOI](https://doi.org/10.48550/arXiv.2208.12904))

@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "markdown-test",
-      "path": "about/markdown-test.md"
+      "basename": "colab-always-connect",
+      "path": "python/colab-always-connect.md"
     },
     {
-      "basename": "bhattiIntelligentFaultDiagnosis2021",
-      "path": "zotero/bhattiIntelligentFaultDiagnosis2021.md"
+      "basename": "r-string-f-string",
+      "path": "python/r-string-f-string.md"
     },
     {
-      "basename": "ZoteroTemplates",
-      "path": "Templates/Zotero/ZoteroTemplates.md"
+      "basename": "colab-howto",
+      "path": "python/colab-howto.md"
     },
     {
-      "basename": "bhattiFutureSmartElectric2021",
-      "path": "zotero/bhattiFutureSmartElectric2021.md"
+      "basename": "2023-03-15",
+      "path": "2023-03-15.md"
     },
     {
-      "basename": "WikiGardenTemplates",
-      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
+      "basename": "SOTA-time-series",
+      "path": "ML-in-PHM/SOTA-time-series.md"
     },
     {
-      "basename": "book-Benbouzid",
-      "path": "paper-book-review/book-Benbouzid.md"
+      "basename": "new-ML-algorithm",
+      "path": "ML-in-PHM/new-ML-algorithm.md"
     },
     {
-      "basename": "correlation-monotonicity",
-      "path": "signal-processing/correlation-monotonicity.md"
+      "basename": "DT-platform",
+      "path": "ML-in-PHM/DT-platform.md"
     },
     {
-      "basename": "HHT",
-      "path": "signal-processing/HHT.md"
+      "basename": "ml-zoo",
+      "path": "ML/ml-zoo.md"
     },
     {
-      "basename": "bayes-rule",
-      "path": "ML-in-PHM/bayes-rule.md"
+      "basename": "2023-03-12",
+      "path": "2023-03-12.md"
     },
     {
       "basename": "2023-02-15",
       "path": "note/2023-02-15.md"
     },
     {
-      "basename": "to-do",
-      "path": "note/to-do.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
-    },
-    {
-      "basename": "summary",
-      "path": "summary.md"
-    },
-    {
-      "basename": "about-me",
-      "path": "about/about-me.md"
-    },
-    {
-      "basename": "multi-sensor-dataset",
-      "path": "dataset/multi-sensor-dataset.md"
-    },
-    {
-      "basename": "DT-connection",
-      "path": "digital-twin/DT-connection.md"
-    },
-    {
-      "basename": "implementation-level-DT",
-      "path": "digital-twin/implementation-level-DT.md"
-    },
-    {
-      "basename": "digital-twin-layer",
-      "path": "digital-twin/digital-twin-layer.md"
-    },
-    {
-      "basename": "data-management-DT",
-      "path": "digital-twin/data-management-DT.md"
-    },
-    {
-      "basename": "digital-twin",
-      "path": "digital-twin/digital-twin.md"
-    },
-    {
-      "basename": "data-fusion-DT",
-      "path": "digital-twin/data-fusion-DT.md"
-    },
-    {
-      "basename": "p2v-data-transfer",
-      "path": "DT-P2V/p2v-data-transfer.md"
-    },
-    {
-      "basename": "DT-modeling-system",
-      "path": "DT-modeling/DT-modeling-system.md"
-    },
-    {
-      "basename": "research-Yazid",
-      "path": "paper-book-review/research-Yazid.md"
-    },
-    {
-      "basename": "parameter-choosing",
-      "path": "paper-plan/parameter-choosing.md"
-    },
-    {
-      "basename": "spyder-howto",
-      "path": "python/spyder-howto.md"
-    },
-    {
-      "basename": "latex-howto",
-      "path": "python/latex-howto.md"
-    },
-    {
-      "basename": "keyword-remaining-useful-life-github",
-      "path": "research/keyword-remaining-useful-life-github.md"
-    },
-    {
-      "basename": "amg8833-arduino",
-      "path": "research/amg8833-arduino.md"
-    },
-    {
-      "basename": "DT-modeling",
-      "path": "DT-modeling/DT-modeling.md"
-    },
-    {
-      "basename": "3D-virtual-model",
-      "path": "DT-modeling/3D-virtual-model.md"
-    },
-    {
-      "basename": "ipmsm-spmsm",
-      "path": "BLDC/ipmsm-spmsm.md"
-    },
-    {
-      "basename": "winding-method",
-      "path": "BLDC/winding-method.md"
-    },
-    {
-      "basename": "BLDC-motor",
-      "path": "BLDC/BLDC-motor.md"
-    },
-    {
-      "basename": "BLDC-EV-system",
-      "path": "BLDC/BLDC-EV-system.md"
-    },
-    {
-      "basename": "3D-visualization",
-      "path": "3d/3D-visualization.md"
-    },
-    {
-      "basename": "signal-python-toolbox",
-      "path": "signal-processing/signal-python-toolbox.md"
-    },
-    {
-      "basename": "data-fusion-methods",
-      "path": "data-fusion/data-fusion-methods.md"
-    },
-    {
-      "basename": "test",
-      "path": "~private/test.md"
-    },
-    {
       "basename": "2023-02-14",
       "path": "note/2023-02-14.md"
     },
     {
-      "basename": "when-DT",
-      "path": "digital-twin/when-DT.md"
+      "basename": "optimization-method",
+      "path": "ML-in-PHM/optimization-method.md"
     },
     {
-      "basename": "vibration-data-processing",
-      "path": "signal-processing/vibration-data-processing.md"
+      "basename": "ML-in-PHM",
+      "path": "ML-in-PHM/ML-in-PHM.md"
+    },
+    {
+      "basename": "clustering-method",
+      "path": "ML/clustering-method.md"
+    },
+    {
+      "basename": "ml-cheat-sheet",
+      "path": "ML/ml-cheat-sheet.md"
     },
     {
       "basename": "unsupervised-ml",
       "path": "ML/unsupervised-ml.md"
     },
     {
-      "basename": "trust-DT",
-      "path": "digital-twin/trust-DT.md"
+      "basename": "EMD",
+      "path": "signal-processing/EMD.md"
     },
     {
-      "basename": "time-series-repository",
-      "path": "ML-in-PHM/time-series-repository.md"
+      "basename": "HHT",
+      "path": "signal-processing/HHT.md"
     },
     {
-      "basename": "time-series-library",
-      "path": "time-series/time-series-library.md"
+      "basename": "feature-reduction",
+      "path": "signal-processing/feature-reduction.md"
     },
     {
-      "basename": "time-series-github",
-      "path": "ML-in-PHM/time-series-github.md"
+      "basename": "signal-processing",
+      "path": "signal-processing/signal-processing.md"
     },
     {
-      "basename": "time-series-feature-library",
-      "path": "time-series/time-series-feature-library.md"
+      "basename": "signal-processing-frequency",
+      "path": "signal-processing/signal-processing-frequency.md"
+    },
+    {
+      "basename": "signal-processing-time",
+      "path": "signal-processing/signal-processing-time.md"
+    },
+    {
+      "basename": "signal-processing-time-frequency",
+      "path": "signal-processing/signal-processing-time-frequency.md"
+    },
+    {
+      "basename": "signal-python-toolbox",
+      "path": "signal-processing/signal-python-toolbox.md"
+    },
+    {
+      "basename": "vibration-data-processing",
+      "path": "signal-processing/vibration-data-processing.md"
+    },
+    {
+      "basename": "dc-cancelation",
+      "path": "signal-processing/dc-cancelation.md"
+    },
+    {
+      "basename": "data-reduction",
+      "path": "signal-processing/data-reduction.md"
+    },
+    {
+      "basename": "correlation-monotonicity",
+      "path": "signal-processing/correlation-monotonicity.md"
     },
     {
       "basename": "time-series-classification",
       "path": "time-series/time-series-classification.md"
     },
     {
-      "basename": "thesis-delgadoprieto",
-      "path": "paper-book-review/thesis-delgadoprieto.md"
+      "basename": "markdown-test",
+      "path": "about/markdown-test.md"
+    },
+    {
+      "basename": "latex-test",
+      "path": "about/latex-test.md"
+    },
+    {
+      "basename": "iterative-filtering",
+      "path": "iterative-filtering.md"
+    },
+    {
+      "basename": "time-series-classification-lstm",
+      "path": "time-series/time-series-classification-lstm.md"
+    },
+    {
+      "basename": "physics-simulation-engine",
+      "path": "visualization/physics-simulation-engine.md"
+    },
+    {
+      "basename": "time-series-library",
+      "path": "time-series/time-series-library.md"
+    },
+    {
+      "basename": "time-series-feature-library",
+      "path": "time-series/time-series-feature-library.md"
+    },
+    {
+      "basename": "python-to-jupyter",
+      "path": "python/python-to-jupyter.md"
+    },
+    {
+      "basename": "scipy-howto",
+      "path": "python/scipy-howto.md"
+    },
+    {
+      "basename": "spyder-howto",
+      "path": "python/spyder-howto.md"
+    },
+    {
+      "basename": "python-statistics",
+      "path": "python/python-statistics.md"
+    },
+    {
+      "basename": "python-timeseries-library",
+      "path": "python/python-timeseries-library.md"
+    },
+    {
+      "basename": "PHM-with-code",
+      "path": "python/PHM-with-code.md"
+    },
+    {
+      "basename": "anaconda-howto",
+      "path": "python/anaconda-howto.md"
+    },
+    {
+      "basename": "time-series-github",
+      "path": "ML-in-PHM/time-series-github.md"
+    },
+    {
+      "basename": "time-series-repository",
+      "path": "ML-in-PHM/time-series-repository.md"
+    },
+    {
+      "basename": "awesome-time-series",
+      "path": "ML-in-PHM/awesome-time-series.md"
+    },
+    {
+      "basename": "anomaly-vs-fault-detection",
+      "path": "ML-in-PHM/anomaly-vs-fault-detection.md"
+    },
+    {
+      "basename": "bayes-rule",
+      "path": "ML-in-PHM/bayes-rule.md"
+    },
+    {
+      "basename": "classification-methods",
+      "path": "ML-in-PHM/classification-methods.md"
+    },
+    {
+      "basename": "critical-difference-diagram",
+      "path": "ML-in-PHM/critical-difference-diagram.md"
     }
   ],
   "omittedPaths": [],

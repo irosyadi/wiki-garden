@@ -57,4 +57,4 @@ tags: ['book', 'review', 'PHM', 'signal', 'electric-machine']
 
 ### References
 
-- (_[benbouzidSignalProcessingFault2020](zotero://select/library/items/8J7VLLY9)_, [link](https://digital-library.theiet.org/content/books/po/pbpo153e), [DOI](https://doi.org/))
+- (_[benbouzidSignalProcessingFault2020](zotero://select/library/items/8J7VLLY9)_, [link](https://digital-library.theiet.org/content/books/po/pbpo153e), [DOI](https://doi.org/)) 
