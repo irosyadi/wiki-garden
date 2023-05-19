@@ -96,12 +96,17 @@ tags: ['motor', 'fault']
   - application: underwater
 - [Optimised approach of feature selection based on genetic and binary state transition algorithm in the classification of bearing fault in BLDC motor - Lee - 2020 - IET Electric Power Applications - Wiley Online Library](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-epa.2020.0168)
   - motor: BLDC
-  - sensor: current
+  - sensor: Hall Sensor
   - Chun-Yao Lee of Chun-Yuan Christian University, Taiwan [cyl@cycu.edu.tw](mailto:cyl@cycu.edu.tw "Link to email address") [著作](https://itouch.cycu.edu.tw/active_project/cycu2500h_01/paperv3/list/NSCstyle.jsp?idcode=11979&sYear=1981&eYear=)  
+  - [Fault Diagnosis of a Brushless DC Motor Using K-Nearest Neighbor Classification Technique with Discrete Wavelet Transform Feature Extraction | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9762425/references#references)
+  - [Intelligent Fault Diagnosis for BLDC With Incorporating Accuracy and False Negative Rate in Feature Selection Optimization | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9808149)
+  - [Symmetry | Free Full-Text | Feature Ranking and Differential Evolution for Feature Selection in Brushless DC Motor Fault Diagnosis](https://www.mdpi.com/2073-8994/13/7/1291)
 - Modeling and Fault Detection of Brushless Direct Current Motor by Deep Learning Sensor Data Fusion, Priscile Suawa, suawapri@b-tu.de
   - motor: BLDC
 - An Expert System for Rotating Machine Fault Detection Using Vibration Signal Analysis, Ayaz Kafeel, ayaz2788@gmail.com
   - motor: BLDC
+  - sensor: vibration
+  - [Sensors | Free Full-Text | An Expert System for Rotating Machine Fault Detection Using Vibration Signal Analysis](https://www.mdpi.com/1424-8220/21/22/7587)
 - [BLDC motor temperature | IEEE DataPort](https://ieee-dataport.org/documents/bldc-motor-temperature)
   - motor: BLDC
   - sensor: temperature

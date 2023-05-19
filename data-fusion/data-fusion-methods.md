@@ -59,28 +59,17 @@ Several other types of sensor networks exist such as corroborative, concordant, 
 - Joint probability distribution and Gaussian distribution
 - Bayesian estimator, least-square for feature extraction
 - Adaptive observer
-- Composite coherent spectrum (CCS), poly-CCS (see Yanusa Kaltungo), embedding both sensor and feature level fusion
+- Composite coherent spectrum (CCS), poly-CCS (see Yanusa Kaltungo), embedding both sensor and feature level fusion  
+Examples:
+- (_[amerineniFusionModelsGeneralized2021](zotero://select/library/items/JL4HCNU5)_, [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706912/), [DOI](https://doi.org/10.3390/s21248409), [zolib](https://www.zotero.org/irosyadi/items/JL4HCNU5)) varieties: input vector model, local matrices input etc.
 
-### Decision Level Fusion
+## Features Level Fusion
 
-- Identity based
-  - Dempster-Shafer evidence theory (_[jiangNewEngineFault2017](zotero://select/library/items/EJX4SEP4)_, [link](https://www.mdpi.com/2076-3417/7/3/280), [DOI](https://doi.org/10.3390/app7030280))
-  - Maximum a priori (MAP)
-  - Maximum likelihood
-  - Z numbers
-  - D numbers
-  - Voting methods
-  - Bayesian Belief fusion
-  - Multi agent fusion
-  - Decision Templates
-- Knowledge based
-  - Syntax rule
-  - Neural Network
-  - Fuzzy logic and set
+- [YHHAZ/NetworkFusion: Detection algorithm for pigmented skin disease based on classifier-level and feature-level fusion](https://github.com/YHHAZ/NetworkFusion) (_[wanDetectionAlgorithmPigmented2022](zotero://select/library/items/FML8ZSUR)_, [link](https://www.frontiersin.org/articles/10.3389/fpubh.2022.1034772), [DOI](https://doi.org/10.3389/fpubh.2022.1034772), [zolib](https://www.zotero.org/irosyadi/items/FML8ZSUR))
+
+## [Decision Level Fusion](decision-level-fusion.md)
 
 ### References
 
 - (_[chandrasekaranSurveyMultisensorFusion2017](zotero://select/library/items/AIISJC8G)_, [link](), [DOI](https://doi.org/10.1109/SECON.2017.7925311))
 - (_[niuDataDrivenTechnologyEngineering2017](zotero://select/library/items/AQ6U3GGX)_, [link](http://link.springer.com/10.1007/978-981-10-2032-2), [DOI](https://doi.org/))
-
-[Bhatti_Singh_2021_Intelligent_Fault_Diagnosis_Mechanism_for_Industrial_Robot_Actuators_using.pdf](file://C:\Users\User\Zotero\storage\34K9NUZZ\Bhatti_Singh_2021_Intelligent_Fault_Diagnosis_Mechanism_for_Industrial_Robot_Actuators_using.pdf)

@@ -7,9 +7,11 @@
   "canvas",
   "tag-pane",
   "page-preview",
+  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
+  "bookmarks",
   "outline",
   "file-recovery"
 ]
