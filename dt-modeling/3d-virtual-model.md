@@ -400,7 +400,7 @@ Pygame, PyopenGL, Pyglet, and Panda3D
 - [Digital Twin tests elevator ride in Ermua - Hackster.io](https://www.hackster.io/ivan-arakistain/digital-twin-tests-elevator-ride-in-ermua-39a047) [ML Anomaly Detection in Elevators w/ Edge Impulse & Notecard - Hackster.io](https://www.hackster.io/ivan-arakistain/ml-anomaly-detection-in-elevators-w-edge-impulse-notecard-344198)
 - [Surface Crack Detection and Localization w/ Seeed reTerminal - Hackster.io](https://www.hackster.io/naveenbskumar/surface-crack-detection-and-localization-w-seeed-reterminal-774da0#toc-the-desktop-app-10)
 - [Virtual Store System using digital twins and oneM2M - Hackster.io](https://www.hackster.io/meta-express-bus/virtual-store-system-using-digital-twins-and-onem2m-22d0ac)
-- [Controlling Virtual Object and Physical Object using BabylonJS and Arduino - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/controlling-virtual-object-and-physical-object-using-babylonjs-and-arduino/12266) [Github](https://github.com/ilhamachmada/robot-arm-babylonjs-webxr) [Virtual Engineering - Scenario and Sync Demo - YouTube](https://www.youtube.com/watch?v=z5pYWxzwzxA) Blender, Babylonjs, nodered, webxr
+- [Controlling Virtual Object and Physical Object using BabylonJS and Arduino - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/controlling-virtual-object-and-physical-object-using-babylonjs-and-arduino/12266) [Github](https://github.com/ilhamachmada/robot-arm-babylonjs-webxr) [Virtual Engineering - Scenario and Sync Demo - YouTube](https://www.youtube.com/watch?v=z5pYWxzwzxA) Blender, Babylonjs, nodered, webxr, ITS
 
 ### Web based SCADA
 

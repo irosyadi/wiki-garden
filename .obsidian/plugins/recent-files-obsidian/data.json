@@ -1,172 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-19",
-      "path": "~dailynote/2023-05-19.md"
+      "basename": "2023-08-21",
+      "path": "~dailynote/2023-08-21.md"
     },
     {
       "basename": "motor-fault-dataset",
       "path": "dataset/motor-fault-dataset.md"
     },
     {
-      "basename": "JK42-Motor",
-      "path": "electric-motor/JK42-Motor.md"
+      "basename": "arduino-sampling-rate",
+      "path": "arduino/arduino-sampling-rate.md"
     },
     {
-      "basename": "hardware-setup",
-      "path": "research/hardware-setup.md"
+      "basename": "accelerometer-vibration-arduino",
+      "path": "research/accelerometer-vibration-arduino.md"
     },
     {
-      "basename": "research-plan-01",
-      "path": "research/research-plan-01.md"
+      "basename": "2023-08-20",
+      "path": "~dailynote/2023-08-20.md"
     },
     {
-      "basename": "amg8833-arduino",
-      "path": "research/amg8833-arduino.md"
+      "basename": "continual-learning-type",
+      "path": "continual-learning/continual-learning-type.md"
     },
     {
-      "basename": "keyword-remaining-useful-life-github",
-      "path": "research/keyword-remaining-useful-life-github.md"
+      "basename": "continual-learning-method",
+      "path": "continual-learning/continual-learning-method.md"
     },
     {
-      "basename": "torque-sensor",
-      "path": "research/torque-sensor.md"
+      "basename": "continual-learning-online-learning",
+      "path": "continual-learning/continual-learning-online-learning.md"
     },
     {
-      "basename": "thesis-structure",
-      "path": "research/thesis-structure.md"
+      "basename": "continual-learning",
+      "path": "continual-learning/continual-learning.md"
     },
     {
-      "basename": "keyword-motor-fault-detection-github",
-      "path": "research/keyword-motor-fault-detection-github.md"
+      "basename": "continual-learning-active-learning",
+      "path": "continual-learning-active-learning.md"
     },
     {
-      "basename": "definition-abbreviation",
-      "path": "research/definition-abbreviation.md"
-    },
-    {
-      "basename": "electric-motor-category",
-      "path": "electric-motor/electric-motor-category.md"
-    },
-    {
-      "basename": "electric-motor",
-      "path": "electric-motor/electric-motor.md"
-    },
-    {
-      "basename": "unbalance-effect",
-      "path": "unbalance/unbalance-effect.md"
-    },
-    {
-      "basename": "unbalance-motor-problem",
-      "path": "unbalance/unbalance-motor-problem.md"
-    },
-    {
-      "basename": "unbalance-mitigation",
-      "path": "unbalance/unbalance-mitigation.md"
-    },
-    {
-      "basename": "prompt-engineering",
-      "path": "LLM/prompt-engineering.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "LLM/Untitled.md"
-    },
-    {
-      "basename": "AM-FM-signal",
-      "path": "unbalance/AM-FM-signal.md"
-    },
-    {
-      "basename": "paper-plan-01",
-      "path": "paper-plan/paper-plan-01.md"
-    },
-    {
-      "basename": "parameter-choosing",
-      "path": "paper-plan/parameter-choosing.md"
+      "basename": "physics-based-deep-learning",
+      "path": "physics-based-deep-learning.md"
     },
     {
       "basename": "iterative-filtering",
       "path": "iterative-filtering.md"
     },
     {
-      "basename": "bldc-fault",
-      "path": "motor-fault/bldc-fault.md"
+      "basename": "unbalance-detection-benefit",
+      "path": "unbalance-detection-benefit.md"
     },
     {
-      "basename": "llm-jupyter",
-      "path": "LLM/llm-jupyter.md"
+      "basename": "few-shot-learning",
+      "path": "few-shot-learning.md"
     },
     {
-      "basename": "rotor-fault",
-      "path": "motor-fault/rotor-fault.md"
+      "basename": "time-series-image-encoding",
+      "path": "time-series-image-encoding.md"
     },
     {
-      "basename": "electric-motor-fault-source",
-      "path": "motor-fault/electric-motor-fault-source.md"
+      "basename": "torch-tensor-format",
+      "path": "torch-tensor-format.md"
     },
     {
-      "basename": "2023-05-15",
-      "path": "~dailynote/2023-05-15.md"
+      "basename": "2023-07-23",
+      "path": "~dailynote/2023-07-23.md"
     },
     {
-      "basename": "EMD",
-      "path": "signal-processing/EMD.md"
+      "basename": "2023-07-26",
+      "path": "~dailynote/2023-07-26.md"
     },
     {
-      "basename": "decision-level-fusion",
-      "path": "data-fusion/decision-level-fusion.md"
+      "basename": "2023-07-25",
+      "path": "~dailynote/2023-07-25.md"
     },
     {
-      "basename": "2023-05-11",
-      "path": "~dailynote/2023-05-11.md"
+      "basename": "2023-07-06",
+      "path": "~dailynote/2023-07-06.md"
     },
     {
-      "basename": "motor-phm-dataset-code",
-      "path": "dataset/motor-phm-dataset-code.md"
+      "basename": "2023-07-05",
+      "path": "~dailynote/2023-07-05.md"
     },
     {
-      "basename": "dataset-search-repo",
-      "path": "dataset/dataset-search-repo.md"
-    },
-    {
-      "basename": "colab-alternatives",
-      "path": "python/colab-alternatives.md"
-    },
-    {
-      "basename": "2023-05-10",
-      "path": "~dailynote/2023-05-10.md"
-    },
-    {
-      "basename": "2023-05-07",
-      "path": "~dailynote/2023-05-07.md"
-    },
-    {
-      "basename": "llm-progress",
-      "path": "LLM/llm-progress.md"
-    },
-    {
-      "basename": "llm-paper",
-      "path": "LLM/llm-paper.md"
-    },
-    {
-      "basename": "2023-05-05",
-      "path": "~dailynote/2023-05-05.md"
+      "basename": "2023-07-01",
+      "path": "~dailynote/2023-07-01.md"
     },
     {
       "basename": "2023-04-19",
       "path": "~dailynote/2023-04-19.md"
-    },
-    {
-      "basename": "data-fusion-methods",
-      "path": "data-fusion/data-fusion-methods.md"
-    },
-    {
-      "basename": "what are backlinks",
-      "path": "~fleetingnotes/what are backlinks.md"
-    },
-    {
-      "basename": "how to build connections in Fleeting Notes",
-      "path": "~fleetingnotes/how to build connections in Fleeting Notes.md"
     },
     {
       "basename": "2023-03-12",
@@ -177,28 +101,104 @@
       "path": "~dailynote/2023-03-15.md"
     },
     {
-      "basename": "DailyNoteTemplates",
-      "path": "Templates/DailyNote/DailyNoteTemplates.md"
+      "basename": "2023-08-01",
+      "path": "~dailynote/2023-08-01.md"
     },
     {
-      "basename": "WikiGardenTemplates",
-      "path": "Templates/WikiGarden/WikiGardenTemplates.md"
+      "basename": "2023-08-06",
+      "path": "~dailynote/2023-08-06.md"
     },
     {
-      "basename": "ZoteroTemplates",
-      "path": "Templates/Zotero/ZoteroTemplates.md"
+      "basename": "2023-08-05",
+      "path": "~dailynote/2023-08-05.md"
     },
     {
-      "basename": "data-fusion-motor",
-      "path": "data-fusion/data-fusion-motor.md"
+      "basename": "2023-08-10",
+      "path": "~dailynote/2023-08-10.md"
+    },
+    {
+      "basename": "2023-08-12",
+      "path": "~dailynote/2023-08-12.md"
+    },
+    {
+      "basename": "2023-08-16",
+      "path": "~dailynote/2023-08-16.md"
+    },
+    {
+      "basename": "2023-08-11",
+      "path": "~dailynote/2023-08-11.md"
+    },
+    {
+      "basename": "2023-08-18",
+      "path": "~dailynote/2023-08-18.md"
+    },
+    {
+      "basename": "non-stationary",
+      "path": "non-stationary.md"
+    },
+    {
+      "basename": "DT-modeling-physic-informed-ML",
+      "path": "DT-modeling/DT-modeling-physic-informed-ML.md"
+    },
+    {
+      "basename": "about-me",
+      "path": "about/about-me.md"
+    },
+    {
+      "basename": "markdown-test",
+      "path": "about/markdown-test.md"
+    },
+    {
+      "basename": "latex-test",
+      "path": "about/latex-test.md"
+    },
+    {
+      "basename": "3D-visualization",
+      "path": "3d/3D-visualization.md"
+    },
+    {
+      "basename": "surrogate-model",
+      "path": "digital-twin/surrogate-model.md"
+    },
+    {
+      "basename": "time-series-library",
+      "path": "time-series/time-series-library.md"
+    },
+    {
+      "basename": "awesome-time-series",
+      "path": "ML-in-PHM/awesome-time-series.md"
+    },
+    {
+      "basename": "2023-07-27",
+      "path": "~dailynote/2023-07-27.md"
+    },
+    {
+      "basename": "decision-level-fusion",
+      "path": "data-fusion/decision-level-fusion.md"
     },
     {
       "basename": "data-fusion",
       "path": "data-fusion/data-fusion.md"
     },
     {
-      "basename": "time-series-transformer",
-      "path": "ML-in-PHM/time-series-transformer.md"
+      "basename": "data-fusion-motor",
+      "path": "data-fusion/data-fusion-motor.md"
+    },
+    {
+      "basename": "data-fusion-methods",
+      "path": "data-fusion/data-fusion-methods.md"
+    },
+    {
+      "basename": "paper-Thelen",
+      "path": "paper-book-review/paper-Thelen.md"
+    },
+    {
+      "basename": "paper-Wright",
+      "path": "paper-book-review/paper-Wright.md"
+    },
+    {
+      "basename": "physics-simulation-engine",
+      "path": "visualization/physics-simulation-engine.md"
     }
   ],
   "omittedPaths": [],

@@ -24,3 +24,9 @@ tags: ['dataset']
 - [Datasets - Fraunhofer IDMT](https://www.idmt.fraunhofer.de/en/publications/datasets.html)
 - [Machine Learning Datasets for Production](https://www.bigdata-ai.fraunhofer.de/s/datasets/index.html)
 - [Fordatis - Forschungsdaten-Repositorium der Fraunhofer-Gesellschaft](https://fordatis.fraunhofer.de/?locale=en)
+
+## List Motor Dataset
+
+- [Charlie5DH/PredictiveMaintenance-and-Vibration-Resources: Papers and datasets for Vibration Analysis](https://github.com/Charlie5DH/PredictiveMaintenance-and-Vibration-Resources)
+- [Prognostics Center of Excellence Data Set Repository | NASA](https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository)
+- [GuokaiLiu/Rotating-machine-fault-data-set1: Open rotating mechanical fault data set](https://github.com/GuokaiLiu/Rotating-machine-fault-data-set1/tree/master)

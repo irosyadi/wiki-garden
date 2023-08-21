@@ -20,3 +20,5 @@ Physics-informed ML
 ### Physics-informed ML
 
 ![link](https://i.imgur.com/KWsnznd.png)
+
+Paris law equation is a mathematical model that describes the crack propagation in materials subjected to cyclic loading. It plays a vital role in understanding material fatigue and designing safer and more reliable structures.

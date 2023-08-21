@@ -1,13 +1,11 @@
 [
   "obsidian-zotero-desktop-connector",
   "obsidian-imgur-plugin",
-  "obsidian-mind-map",
   "recent-files-obsidian",
   "tag-wrangler",
   "omnisearch",
   "obsidian-linter",
-  "obsidian-languagetool-plugin",
-  "various-complements",
-  "fleeting-notes-obsidian",
-  "calendar"
+  "copilot",
+  "obsidian-textgenerator-plugin",
+  "obsidian-languagetool-plugin"
 ]

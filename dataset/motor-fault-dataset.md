@@ -48,6 +48,7 @@ tags: ['motor', 'fault']
   - HW: [SpectraQuest Inc.,: Machinery Fault Simulators](https://spectraquest.com/products/simulators/machinery-fault-simulators/) induction?
   - report: [Wavelet transform applied on machine vibration analysis](https://rstudio-pubs-static.s3.amazonaws.com/715279_520cf75be7c04912a1de3e097d4634e8.html)
   - [Konstruktions- und Antriebstechnik (KAt)  -  Data Sets and Download (Universität Paderborn)](https://mb.uni-paderborn.de/en/kat/main-research/datacenter/bearing-datacenter/data-sets-and-download)
+- [sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis: Open dataset in the field of mechanical fault diagnosis under variable speed conditions, providing benchmark for algorithm performance evaluation](https://github.com/sliu7102/SQ-dataset-with-variable-speed-for-fault-diagnosis/tree/main)
 
 #### Dataset: Gearbox
 
@@ -72,12 +73,24 @@ tags: ['motor', 'fault']
 - [Triaxial Bearing Vibration Dataset of Induction Motor under Varying Load Conditions - Mendeley Data](https://data.mendeley.com/datasets/fm6xzxnf36/2)
 - [Modeling Electrical Motor Dynamics using Encoder-Decoder with Recurrent Skip Connection](https://sagarverma.github.io/dynamics.html) [sagarverma/MotorDynamics: Modelling electrical motor dynamics using neural networks.](https://github.com/sagarverma/MotorDynamics)
   - The dataset consists of the following electrical quantities; currents id and iq, voltages ud and uq, rotor speed ωr , stator pulsation ωs , and torque τem. The indices d and q denote three phase quantities represented in a two phase orthogonal rotating reference frame.
+- [Vibration, acoustic, temperature, and motor current dataset of rotating machine under varying operating conditions for fault diagnosis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340923001671) [Vibration and Motor Current Dataset of Rolling Element Bearing Under Varying Speed Conditions for Fault Diagnosis: Subset3 - Mendeley Data](https://data.mendeley.com/datasets/j8d8pfkvj2/7)
+  - sensor: vibration, acoustic, temperature, current
+  - fault: normal, inner bearing fault, outer bearing fault, shaft misalignment, rotor unbalance
+  - motor: induction
+  - speed: varying
+- [Experimental database for detecting and diagnosing rotor broken bar in a three-phase induction motor. | IEEE DataPort](https://ieee-dataport.org/open-access/experimental-database-detecting-and-diagnosing-rotor-broken-bar-three-phase-induction)
+  - sensor: vibration, voltage, current
+  - fault: broken bar
+- [MatPiech/motor-fault-diagnosis: Multi-sensor data collection gathered to expand research on anomaly detection, fault diagnosis, and predictive maintenance, mainly using non-invasive methods such as thermal observation or vibration measurement.](https://github.com/MatPiech/motor-fault-diagnosis/tree/main) [Pliki - ownCloud](https://chmura.put.poznan.pl/s/zwn7VaVgV3FI2ER?path=%2F)
+  - sensor: thermal image, current, vibration
+  - fault: misalignment
 
 #### Dataset: DC Motor
 
 - [Direct current geared motor data: Voltage, current, and speed measured under different experimental conditions - Data in Brief](https://www.data-in-brief.com/article/S2352-3409(22)00014-2/fulltext)
 - [F.A.I.R. open dataset of brushed DC motor faults for testing of AI algorithms | Zenodo](https://zenodo.org/record/4314249)
   - motor: DC
+  - sensor: This dataset presents the evolution of typical faults (commutator, winding and brush wear) in inexpensive DC motors under extensive monitoring (vibration, temperature, voltage, current and noise).
 
 #### Dataset: BLDC Motor
 
@@ -121,7 +134,40 @@ tags: ['motor', 'fault']
 #### Dataset: PMSM
 
 - [Identifying the Physics Behind an Electric Motor | Kaggle](https://www.kaggle.com/datasets/hankelea/system-identification-of-an-electric-motor) [Data Set Description: Identifying the Physics Behind an Electric Motor -- Data-Driven Learning of the Electrical Behavior (Part I)](https://arxiv.org/abs/2003.07273)
+- [Vibration and Current Dataset of Three-Phase Permanent Magnet Synchronous Motors with Stator Faults - Mendeley Data](https://data.mendeley.com/datasets/rgn5brrgrn/5) [Vibration and current dataset of three-phase permanent magnet synchronous motors with stator faults - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340923000707?via%3Dihub)
+  - motor: PMSM
+  - sensor: vibration, current
+  - fault: intern-turn fault, inter-coil fault
+  - status: used
 
 #### Dataset: Vehicle
 
 - [Sensors | Free Full-Text | Multi-Sensor Fault Detection, Identification, Isolation and Health Forecasting for Autonomous Vehicles](https://www.mdpi.com/1424-8220/21/7/2547) [MAminSFV/multi-sensor-FDII-health-forecasting-for-autonomous-vehicles: An Extension of A2D2 dataset by Audi with augmented sensor faults and different degradation paths](https://github.com/MAminSFV/multi-sensor-FDII-health-forecasting-for-autonomous-vehicles)
+
+## Dataset: Azure
+
+- [Microsoft Azure Predictive Maintenance | Kaggle](https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance)
+
+
+## Motor Dataset New
+
+- [Mechanical faults in rotating machinery dataset (normal, unbalance, misalignment, looseness) - Mendeley Data](https://data.mendeley.com/datasets/zx8pfhdtnb/3) 
+  - Sensor: accelerometer 4
+  - Fault: misalignment, mechanical looseness, unbalance
+  - [Fault Diagnosis using eXplainable AI: A transfer learning-based approach for rotating machinery exploiting augmented synthetic data - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0957417423013623)
+  - Motor: induction
+- [Vibration, acoustic, temperature, and motor current dataset of rotating machine under varying operating conditions for fault diagnosis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340923001671)
+  - First dataset consists of vibration, acoustic, temperature and driving current data under varying load conditions. Vibration, temperature, motor current, and acoustic data are collected under 3 different load conditions (0 Nm, 2 Nm and 4 Nm). The load conditions are controlled by hysteresis brake with air cooling method. The main motor rotates at a rated rotating speed of 3010 RPM.
+  - Second, the collected dataset consists of vibration and current data acquired from the ball bearing with different fault types of inner race faults, outer race faults, and ball faults, according to changes in motor speed conditions (680 RPM and 2460 RPM).
+- [Triaxial bearing vibration dataset of induction motor under varying load conditions - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340922005170)
+- [Dataset of single and double faults scenarios using vibration signals from a rotary machine - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340923004778)
+- [University of Ottawa constant load and speed rolling-element bearing vibration and acoustic fault signature datasets - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340923004456)
+- [Bearing vibration data collected under time-varying rotational speed conditions - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340918314124)
+
+Brushless DC Motor is a type of electric motor that is powered by direct current (DC) and does not use brushes to transfer electrical energy to the motor's rotor. Instead, it uses electronic commutation to control the motor's rotation. This design offers several advantages over traditional brushed DC motors, including higher efficiency, longer lifespan, and reduced maintenance requirements. Brushless DC motors are commonly used in a wide range of applications, including industrial machinery, automotive systems, and consumer electronics.
+
+### New Dataset Try This
+
+- [Multivariate Heterogeneous Time Series Data for Machine-Learning-Supported Monitoring of a Motor Test Bench](https://daks.uni-kassel.de/handle/123456789/47)
+  - Fault: Normal, Rotor temperature sensor fault, vibration sensor fault, cooling fault, active short circuit fault
+  - Sensor: temperature, current, vibration

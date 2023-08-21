@@ -12,5 +12,7 @@ tags: ['tag']
 - [openlm-research/open\_llama](https://github.com/openlm-research/open_llama)
 - [A brief history of LLaMA models - AGI Sphere](https://agi-sphere.com/llama-models/)
 - [PromptPerfect - Elevate your prompts to perfection](https://promptperfect.jina.ai/)
+- [AI Canon | Andreessen Horowitz](https://a16z.com/2023/05/25/ai-canon/)
+- [The Attention Mechanism](https://docs.cohere.com/docs/the-attention-mechanism)
 
 ## References

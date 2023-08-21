@@ -40,3 +40,6 @@ tags: ['signal']
 
 - [niuDataDrivenTechnologyEngineering2017](../zotero/niuDataDrivenTechnologyEngineering2017.md)
 - [leiIntelligentFaultDiagnosis2017](../zotero/leiIntelligentFaultDiagnosis2017.md)
+
+
+![](https://www.researchgate.net/publication/351995829/figure/tbl1/AS:1029506114539523@1622464793984/The-list-of-time-domain-frequency-domain-and-nonlinear-features-reviewed-in-this-work.png)
