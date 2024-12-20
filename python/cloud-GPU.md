@@ -10,7 +10,8 @@ tags: ['gpu']
 ### Cloud GPU Comparison
 
 - [Cloud GPUs](https://cloud-gpus.com/)
-
+- [GPU Cloud Pricing](https://www.gpucloudpricing.com)
+  
 ### GPU Cloud
 
 - [GPU.LAND](https://gpu.land/) Note: site is off
